@@ -1,0 +1,4577 @@
+{
+ "clubes/palmeiras/jogadores/carlos-miguel": {
+  "id": "carlos-miguel",
+  "nome": "Carlos Miguel",
+  "numero": 1,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 0,
+  "idade": 28,
+  "nascimento": "09/10/1998",
+  "altura": "2,04 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "19/08/2025",
+  "contratoAte": "31/07/2030",
+  "valorMercado": 9.0,
+  "picoValor": 9.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 62,
+    "g": 0,
+    "a": 0,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 5580
+   },
+   "bra": {
+    "j": 33,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 2970
+   },
+   "lib": {
+    "j": 12,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1080
+   },
+   "cdb": {
+    "j": 7,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 630
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.05
+   },
+   {
+    "ano": 2021,
+    "valor": 0.3
+   },
+   {
+    "ano": 2022,
+    "valor": 0.7
+   },
+   {
+    "ano": 2023,
+    "valor": 3.0
+   },
+   {
+    "ano": 2024,
+    "valor": 4.0
+   },
+   {
+    "ano": 2025,
+    "valor": 4.0
+   },
+   {
+    "ano": 2026,
+    "valor": 9.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2018",
+    "clube": "Inter U20",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Inter B",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Santa Cruz",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Boa Esporte",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Corinthians",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Nott'm Forest",
+    "obs": "€4 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€5,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pegou 2 pênaltis contra o Vasco",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Titular em 33 das 34 rodadas",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Defendeu duas cobranças na disputa de pênaltis contra o Vasco (5 a 4), em 08/11, que levou o Palmeiras à final da Copa do Brasil.",
+    "fonte": "A Crítica, 08/11/2026"
+   },
+   {
+    "texto": "Disputou 33 das 34 rodadas do Brasileirão, sempre os 90 minutos (2.970 minutos).",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/marcelo-lomba": {
+  "id": "marcelo-lomba",
+  "nome": "Marcelo Lomba",
+  "numero": 14,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 1,
+  "idade": 39,
+  "nascimento": "18/12/1986",
+  "altura": "1,89 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2022",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 0.075,
+  "picoValor": 3.25,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 360
+   },
+   "bra": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2008,
+    "valor": 0.05
+   },
+   {
+    "ano": 2010,
+    "valor": 1.2
+   },
+   {
+    "ano": 2011,
+    "valor": 1.0
+   },
+   {
+    "ano": 2012,
+    "valor": 1.0
+   },
+   {
+    "ano": 2014,
+    "valor": 1.5
+   },
+   {
+    "ano": 2015,
+    "valor": 3.25
+   },
+   {
+    "ano": 2016,
+    "valor": 2.5
+   },
+   {
+    "ano": 2017,
+    "valor": 2.0
+   },
+   {
+    "ano": 2018,
+    "valor": 1.5
+   },
+   {
+    "ano": 2019,
+    "valor": 1.8
+   },
+   {
+    "ano": 2020,
+    "valor": 1.4
+   },
+   {
+    "ano": 2021,
+    "valor": 0.9
+   },
+   {
+    "ano": 2022,
+    "valor": 0.4
+   },
+   {
+    "ano": 2023,
+    "valor": 0.3
+   },
+   {
+    "ano": 2024,
+    "valor": 0.2
+   },
+   {
+    "ano": 2025,
+    "valor": 0.1
+   },
+   {
+    "ano": 2026,
+    "valor": 0.075
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2006",
+    "clube": "Flamengo U20",
+    "obs": null
+   },
+   {
+    "ano": "2006",
+    "clube": "Flamengo",
+    "obs": null
+   },
+   {
+    "ano": "2011",
+    "clube": "Bahia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2012",
+    "clube": "Bahia",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2015",
+    "clube": "Ponte Preta",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2016",
+    "clube": "Internacional",
+    "obs": "€550 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Palmeiras",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Fez um jogo no Brasileirão e um na Copa do Brasil em 2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/bruno-bertinato": {
+  "id": "bruno-bertinato",
+  "nome": "Bruno Bertinato",
+  "numero": 21,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 2,
+  "idade": 28,
+  "nascimento": "31/05/1998",
+  "altura": "1,94 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Itália",
+  "noClubeDesde": "25/08/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 0.3,
+  "picoValor": 0.3,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.05
+   },
+   {
+    "ano": 2020,
+    "valor": 0.05
+   },
+   {
+    "ano": 2021,
+    "valor": 0.075
+   },
+   {
+    "ano": 2022,
+    "valor": 0.2
+   },
+   {
+    "ano": 2023,
+    "valor": 0.25
+   },
+   {
+    "ano": 2024,
+    "valor": 0.3
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Coritiba U20",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Venezia",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Calcio Lecco 19",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Vis Pesaro",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Portuguesa",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Mirassol",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Chegou em ago/2026",
+    "tipo": "info"
+   },
+   {
+    "texto": "Ainda sem jogos pelo clube",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Contratado sem custo em agosto, depois de empréstimo ao Mirassol em 2025. O Transfermarkt não exibe valor atual; o último registrado é €300 mil (2024).",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/murilo": {
+  "id": "murilo",
+  "nome": "Murilo",
+  "numero": 26,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 3,
+  "idade": 29,
+  "nascimento": "27/03/1997",
+  "altura": "1,88 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "19/01/2022",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 5.0,
+  "picoValor": 10.0,
+  "lesao": "Lesão na coxa esquerda",
+  "numeros": {
+   "all": {
+    "j": 57,
+    "g": 5,
+    "a": 2,
+    "am": 5,
+    "am2": 1,
+    "v": 0,
+    "banco": 3,
+    "min": 4799
+   },
+   "bra": {
+    "j": 29,
+    "g": 2,
+    "a": 1,
+    "am": 3,
+    "am2": 1,
+    "v": 0,
+    "banco": 2,
+    "min": 2430
+   },
+   "lib": {
+    "j": 12,
+    "g": 1,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1071
+   },
+   "cdb": {
+    "j": 8,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 668
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2017,
+    "valor": 1.25
+   },
+   {
+    "ano": 2018,
+    "valor": 1.25
+   },
+   {
+    "ano": 2019,
+    "valor": 3.0
+   },
+   {
+    "ano": 2020,
+    "valor": 2.5
+   },
+   {
+    "ano": 2021,
+    "valor": 2.0
+   },
+   {
+    "ano": 2022,
+    "valor": 6.5
+   },
+   {
+    "ano": 2023,
+    "valor": 9.0
+   },
+   {
+    "ano": 2024,
+    "valor": 8.0
+   },
+   {
+    "ano": 2025,
+    "valor": 5.0
+   },
+   {
+    "ano": 2026,
+    "valor": 5.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "Cruzeiro U20",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Cruzeiro",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Loko Moscou",
+    "obs": "€2,5 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Palmeiras",
+    "obs": "€2,2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Lesão na coxa esquerda",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Desfalque provável contra o Cruzeiro",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Exames depois do jogo com o Vasco apontaram lesão na coxa esquerda; ele não treinou em 11/11 e o clube não deu prazo de volta.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   },
+   {
+    "texto": "Segundo a Itatiaia, citada pelo Diário Celeste, há otimismo para a final da Libertadores (28/11).",
+    "fonte": "Diário Celeste, 11/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/alexander-barboza": {
+  "id": "alexander-barboza",
+  "nome": "Alexander Barboza",
+  "numero": 2,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 4,
+  "idade": 31,
+  "nascimento": "16/03/1995",
+  "altura": "1,93 m",
+  "pe": "Esquerdo",
+  "nat": "URU",
+  "nacionalidades": "Uruguai / Argentina",
+  "noClubeDesde": "01/07/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 4.5,
+  "picoValor": 6.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 23,
+    "g": 1,
+    "a": 1,
+    "am": 8,
+    "am2": 1,
+    "v": 0,
+    "banco": 2,
+    "min": 1877
+   },
+   "bra": {
+    "j": 12,
+    "g": 1,
+    "a": 1,
+    "am": 3,
+    "am2": 1,
+    "v": 0,
+    "banco": 1,
+    "min": 951
+   },
+   "lib": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 540
+   },
+   "cdb": {
+    "j": 5,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 386
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2016,
+    "valor": 0.75
+   },
+   {
+    "ano": 2017,
+    "valor": 4.0
+   },
+   {
+    "ano": 2018,
+    "valor": 4.5
+   },
+   {
+    "ano": 2019,
+    "valor": 4.5
+   },
+   {
+    "ano": 2020,
+    "valor": 3.5
+   },
+   {
+    "ano": 2021,
+    "valor": 2.5
+   },
+   {
+    "ano": 2022,
+    "valor": 2.2
+   },
+   {
+    "ano": 2023,
+    "valor": 2.5
+   },
+   {
+    "ano": 2024,
+    "valor": 5.0
+   },
+   {
+    "ano": 2025,
+    "valor": 5.0
+   },
+   {
+    "ano": 2026,
+    "valor": 4.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2014",
+    "clube": "River Plate U20",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "River Plate II",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Atl. Rafaela",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2016",
+    "clube": "Def y Justicia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "River Plate",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Def y Justicia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Independiente",
+    "obs": "€3,3 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Libertad",
+    "obs": "€1,4 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Botafogo",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": "€3,4 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Expulso (2º amarelo) no Brasileirão",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Ex-Botafogo, chegou em jul/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Comprado do Botafogo por €3,4 mi, segundo o Transfermarkt; foi expulso uma vez por dois amarelos no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/bruno-fuchs": {
+  "id": "bruno-fuchs",
+  "nome": "Bruno Fuchs",
+  "numero": 3,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 5,
+  "idade": 27,
+  "nascimento": "01/04/1999",
+  "altura": "1,90 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 4.0,
+  "picoValor": 5.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 21,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 1473
+   },
+   "bra": {
+    "j": 12,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 872
+   },
+   "lib": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 99
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 97
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.8
+   },
+   {
+    "ano": 2020,
+    "valor": 4.5
+   },
+   {
+    "ano": 2021,
+    "valor": 3.0
+   },
+   {
+    "ano": 2022,
+    "valor": 1.8
+   },
+   {
+    "ano": 2023,
+    "valor": 2.0
+   },
+   {
+    "ano": 2024,
+    "valor": 2.0
+   },
+   {
+    "ano": 2025,
+    "valor": 4.5
+   },
+   {
+    "ano": 2026,
+    "valor": 4.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Inter U20",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Internacional",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "CSKA Moscou",
+    "obs": "€8 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Atlético-MG",
+    "obs": "empréstimo (€800 mi)"
+   },
+   {
+    "ano": "2025",
+    "clube": "Atlético-MG",
+    "obs": "€2,7 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": "€4 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Comprado do Atlético-MG em 2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Chegou emprestado em 2025 e foi comprado do Atlético-MG por €4 mi em 2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/luis-benedetti": {
+  "id": "luis-benedetti",
+  "nome": "Luis Benedetti",
+  "numero": 43,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 6,
+  "idade": 20,
+  "nascimento": "07/06/2006",
+  "altura": "1,97 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "07/01/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 4.0,
+  "picoValor": 4.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 9,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 444
+   },
+   "bra": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 22
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 180
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 4.0
+   },
+   {
+    "ano": 2026,
+    "valor": 4.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2022",
+    "clube": "Ferroviária U20",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Palmeiras U20",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Formado no sub-20 do clube",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 20 anos e 1,97 m; subiu do sub-20 do Palmeiras em 2025.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/gustavo-gomez": {
+  "id": "gustavo-gomez",
+  "nome": "Gustavo Gómez",
+  "numero": 15,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 7,
+  "idade": 33,
+  "nascimento": "06/05/1993",
+  "altura": "1,85 m",
+  "pe": "Direito",
+  "nat": "PAR",
+  "nacionalidades": "Paraguai",
+  "noClubeDesde": "01/07/2020",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 3.5,
+  "picoValor": 9.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 55,
+    "g": 5,
+    "a": 1,
+    "am": 9,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 4621
+   },
+   "bra": {
+    "j": 30,
+    "g": 4,
+    "a": 1,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 2593
+   },
+   "lib": {
+    "j": 11,
+    "g": 1,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 903
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 270
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2015,
+    "valor": 1.75
+   },
+   {
+    "ano": 2016,
+    "valor": 6.0
+   },
+   {
+    "ano": 2017,
+    "valor": 4.0
+   },
+   {
+    "ano": 2018,
+    "valor": 4.0
+   },
+   {
+    "ano": 2019,
+    "valor": 4.5
+   },
+   {
+    "ano": 2020,
+    "valor": 4.5
+   },
+   {
+    "ano": 2021,
+    "valor": 8.0
+   },
+   {
+    "ano": 2022,
+    "valor": 9.0
+   },
+   {
+    "ano": 2023,
+    "valor": 8.5
+   },
+   {
+    "ano": 2024,
+    "valor": 6.0
+   },
+   {
+    "ano": 2025,
+    "valor": 4.0
+   },
+   {
+    "ano": 2026,
+    "valor": 3.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2012",
+    "clube": "Libertad U19",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "Libertad",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Lanús",
+    "obs": "€2,25 mi"
+   },
+   {
+    "ano": "2016",
+    "clube": "Milan",
+    "obs": "€9,56 mi"
+   },
+   {
+    "ano": "2018",
+    "clube": "Palmeiras",
+    "obs": "empréstimo (€3,5 mi)"
+   },
+   {
+    "ano": "2020",
+    "clube": "Palmeiras",
+    "obs": "€2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Paraguai: jogo em 17/11, em Singapura",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Capitão",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pelo Paraguai para amistosos em Singapura nos dias 13 e 17/11; a viagem de volta torna improvável a presença contra o Cruzeiro.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/joaquin-piquerez": {
+  "id": "joaquin-piquerez",
+  "nome": "Joaquín Piquerez",
+  "numero": 22,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 8,
+  "idade": 28,
+  "nascimento": "24/08/1998",
+  "altura": "1,85 m",
+  "pe": "Esquerdo",
+  "nat": "URU",
+  "nacionalidades": "Uruguai / Itália",
+  "noClubeDesde": "31/07/2021",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 12.0,
+  "picoValor": 15.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 37,
+    "g": 2,
+    "a": 6,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 2944
+   },
+   "bra": {
+    "j": 17,
+    "g": 1,
+    "a": 4,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 1315
+   },
+   "lib": {
+    "j": 6,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 540
+   },
+   "cdb": {
+    "j": 4,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 330
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2017,
+    "valor": 0.075
+   },
+   {
+    "ano": 2018,
+    "valor": 0.15
+   },
+   {
+    "ano": 2019,
+    "valor": 0.3
+   },
+   {
+    "ano": 2020,
+    "valor": 0.5
+   },
+   {
+    "ano": 2021,
+    "valor": 2.5
+   },
+   {
+    "ano": 2022,
+    "valor": 5.0
+   },
+   {
+    "ano": 2023,
+    "valor": 13.0
+   },
+   {
+    "ano": 2024,
+    "valor": 12.0
+   },
+   {
+    "ano": 2025,
+    "valor": 14.0
+   },
+   {
+    "ano": 2026,
+    "valor": 12.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "Defensor SC U19",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Defensor SC",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "River Plate",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Peñarol",
+    "obs": "€270 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Palmeiras",
+    "obs": "€3,2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Uruguai: liberado para voltar antes",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Gol na volta contra o Vasco",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pelo Uruguai, foi liberado para voltar depois do primeiro amistoso e pode até jogar de zagueiro contra o Cruzeiro.",
+    "fonte": "Bolavip, 12/11/2026"
+   },
+   {
+    "texto": "Fez o gol do Palmeiras na derrota por 2 a 1 para o Vasco, em 08/11.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/jefte": {
+  "id": "jefte",
+  "nome": "Jefté",
+  "numero": 6,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 9,
+  "idade": 22,
+  "nascimento": "21/12/2003",
+  "altura": "1,83 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "20/08/2025",
+  "contratoAte": "31/07/2030",
+  "valorMercado": 4.0,
+  "picoValor": 4.0,
+  "lesao": "Cirurgia no joelho esquerdo",
+  "numeros": {
+   "all": {
+    "j": 14,
+    "g": 0,
+    "a": 1,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 578
+   },
+   "bra": {
+    "j": 7,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 242
+   },
+   "lib": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 19
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 118
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2023,
+    "valor": 0.5
+   },
+   {
+    "ano": 2024,
+    "valor": 2.5
+   },
+   {
+    "ano": 2025,
+    "valor": 4.0
+   },
+   {
+    "ano": 2026,
+    "valor": 4.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2021",
+    "clube": "Fluminense U17",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Fluminense U20",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Fluminense",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "APOEL Nicósia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Rangers",
+    "obs": "€800 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€6 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Fora: cirurgia no joelho esquerdo",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Passou por cirurgia no joelho esquerdo e segue no departamento médico.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/arthur-gabriel": {
+  "id": "arthur-gabriel",
+  "nome": "Arthur Gabriel",
+  "numero": 56,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 10,
+  "idade": 21,
+  "nascimento": "04/09/2005",
+  "altura": "1,77 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 4.0,
+  "picoValor": 4.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 38,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 1,
+    "v": 0,
+    "banco": 15,
+    "min": 2212
+   },
+   "bra": {
+    "j": 24,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 1,
+    "v": 0,
+    "banco": 10,
+    "min": 1407
+   },
+   "lib": {
+    "j": 7,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 428
+   },
+   "cdb": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 300
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2026,
+    "valor": 4.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2023",
+    "clube": "Palmeiras U17",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Palmeiras U20",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Formado na base",
+    "tipo": "info"
+   },
+   {
+    "texto": "Expulso (2º amarelo) no Brasileirão",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Subiu do sub-20 em 2026 e já soma 38 jogos na temporada, 24 no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/agustin-giay": {
+  "id": "agustin-giay",
+  "nome": "Agustín Giay",
+  "numero": 4,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 11,
+  "idade": 22,
+  "nascimento": "16/01/2004",
+  "altura": "1,80 m",
+  "pe": "Direito",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "10/07/2024",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 11.0,
+  "picoValor": 11.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 47,
+    "g": 4,
+    "a": 1,
+    "am": 11,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 3459
+   },
+   "bra": {
+    "j": 26,
+    "g": 3,
+    "a": 0,
+    "am": 8,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 1825
+   },
+   "lib": {
+    "j": 11,
+    "g": 1,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 841
+   },
+   "cdb": {
+    "j": 5,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 445
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2022,
+    "valor": 4.0
+   },
+   {
+    "ano": 2023,
+    "valor": 8.0
+   },
+   {
+    "ano": 2024,
+    "valor": 7.5
+   },
+   {
+    "ano": 2025,
+    "valor": 11.0
+   },
+   {
+    "ano": 2026,
+    "valor": 11.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2021",
+    "clube": "San Lorenzo U20",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "San Lorenzo II",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "San Lorenzo",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "Palmeiras",
+    "obs": "€7 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Argentina: convocado",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Mais amarelos do elenco (11)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pela Argentina para a Data Fifa, que termina em 17/11, véspera do jogo no Mineirão.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   },
+   {
+    "texto": "Tem 8 amarelos no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/khellven": {
+  "id": "khellven",
+  "nome": "Khellven",
+  "numero": 12,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 12,
+  "idade": 25,
+  "nascimento": "25/02/2001",
+  "altura": "1,76 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "05/08/2025",
+  "contratoAte": "30/06/2030",
+  "valorMercado": 6.0,
+  "picoValor": 7.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 39,
+    "g": 1,
+    "a": 3,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 16,
+    "min": 2287
+   },
+   "bra": {
+    "j": 23,
+    "g": 0,
+    "a": 3,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 11,
+    "min": 1155
+   },
+   "lib": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 144
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 225
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.1
+   },
+   {
+    "ano": 2020,
+    "valor": 5.0
+   },
+   {
+    "ano": 2021,
+    "valor": 4.7
+   },
+   {
+    "ano": 2022,
+    "valor": 6.0
+   },
+   {
+    "ano": 2023,
+    "valor": 7.0
+   },
+   {
+    "ano": 2024,
+    "valor": 5.0
+   },
+   {
+    "ano": 2025,
+    "valor": 6.0
+   },
+   {
+    "ano": 2026,
+    "valor": 6.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Guarani-SC",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Athletico-PR",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2023",
+    "clube": "CSKA Moscou",
+    "obs": "€4,5 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€6 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Ex-Athletico-PR e CSKA",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Comprado do CSKA Moscou por €6 mi em 2025; deu 3 assistências no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/marlon-freitas": {
+  "id": "marlon-freitas",
+  "nome": "Marlon Freitas",
+  "numero": 17,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 13,
+  "idade": 31,
+  "nascimento": "27/03/1995",
+  "altura": "1,85 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "04/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 6.0,
+  "picoValor": 7.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 61,
+    "g": 4,
+    "a": 4,
+    "am": 9,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 5001
+   },
+   "bra": {
+    "j": 31,
+    "g": 2,
+    "a": 2,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 2569
+   },
+   "lib": {
+    "j": 12,
+    "g": 2,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1060
+   },
+   "cdb": {
+    "j": 7,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 559
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2016,
+    "valor": 0.1
+   },
+   {
+    "ano": 2017,
+    "valor": 0.8
+   },
+   {
+    "ano": 2018,
+    "valor": 0.6
+   },
+   {
+    "ano": 2020,
+    "valor": 0.75
+   },
+   {
+    "ano": 2021,
+    "valor": 1.7
+   },
+   {
+    "ano": 2022,
+    "valor": 2.5
+   },
+   {
+    "ano": 2023,
+    "valor": 3.5
+   },
+   {
+    "ano": 2024,
+    "valor": 7.0
+   },
+   {
+    "ano": 2025,
+    "valor": 6.0
+   },
+   {
+    "ano": 2026,
+    "valor": 6.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2015",
+    "clube": "Fluminense U20",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Fort Lauderdale",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "STK Samorin",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Criciúma",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Botafogo-SP",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Botafogo-SP",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Atlético-GO",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Botafogo",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": "€5,12 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Mais minutos na linha (5.001)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Reforço de janeiro (ex-Botafogo)",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "É o jogador de linha com mais minutos na temporada: 5.001 em 61 jogos.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Fez um dos gols da vitória por 2 a 1 sobre o Fluminense no Maracanã, na ida da semifinal da Libertadores.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/emiliano-martinez": {
+  "id": "emiliano-martinez",
+  "nome": "Emiliano Martínez",
+  "numero": 32,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 14,
+  "idade": 27,
+  "nascimento": "17/08/1999",
+  "altura": "1,84 m",
+  "pe": "Direito",
+  "nat": "URU",
+  "nacionalidades": "Uruguai / Itália",
+  "noClubeDesde": "24/01/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 5.0,
+  "picoValor": 9.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 34,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 21,
+    "min": 1256
+   },
+   "bra": {
+    "j": 17,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 13,
+    "min": 527
+   },
+   "lib": {
+    "j": 5,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 239
+   },
+   "cdb": {
+    "j": 5,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 194
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.075
+   },
+   {
+    "ano": 2021,
+    "valor": 2.5
+   },
+   {
+    "ano": 2022,
+    "valor": 3.5
+   },
+   {
+    "ano": 2023,
+    "valor": 4.0
+   },
+   {
+    "ano": 2024,
+    "valor": 4.5
+   },
+   {
+    "ano": 2025,
+    "valor": 9.0
+   },
+   {
+    "ano": 2026,
+    "valor": 5.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Nacional B",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Nacional",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Bragantino",
+    "obs": "€3,4 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Midtjylland",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Midtjylland",
+    "obs": "€5 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€7,15 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "21 jogos saindo do banco",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Comprado do Midtjylland por €7,15 mi em 2025.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/luis-pacheco": {
+  "id": "luis-pacheco",
+  "nome": "Luis Pacheco",
+  "numero": 50,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 15,
+  "idade": 18,
+  "nascimento": "02/02/2008",
+  "altura": "1,80 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/07/2026",
+  "contratoAte": "31/12/2031",
+  "valorMercado": 1.5,
+  "picoValor": 1.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 11,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 265
+   },
+   "bra": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 89
+   },
+   "lib": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 21
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 34
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2026,
+    "valor": 1.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2025",
+    "clube": "Palmeiras U17",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras U20",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Cria da base, 18 anos",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 2 amarelos em 4 jogos no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/andreas-pereira": {
+  "id": "andreas-pereira",
+  "nome": "Andreas Pereira",
+  "numero": 8,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 16,
+  "idade": 30,
+  "nascimento": "01/01/1996",
+  "altura": "1,78 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Bélgica",
+  "noClubeDesde": "29/08/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 14.0,
+  "picoValor": 20.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 59,
+    "g": 4,
+    "a": 12,
+    "am": 6,
+    "am2": 1,
+    "v": 1,
+    "banco": 7,
+    "min": 4365
+   },
+   "bra": {
+    "j": 32,
+    "g": 1,
+    "a": 10,
+    "am": 3,
+    "am2": 1,
+    "v": 0,
+    "banco": 0,
+    "min": 2578
+   },
+   "lib": {
+    "j": 10,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 1,
+    "banco": 0,
+    "min": 812
+   },
+   "cdb": {
+    "j": 7,
+    "g": 1,
+    "a": 2,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 375
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2015,
+    "valor": 0.5
+   },
+   {
+    "ano": 2016,
+    "valor": 3.0
+   },
+   {
+    "ano": 2017,
+    "valor": 5.0
+   },
+   {
+    "ano": 2018,
+    "valor": 8.0
+   },
+   {
+    "ano": 2019,
+    "valor": 20.0
+   },
+   {
+    "ano": 2020,
+    "valor": 10.0
+   },
+   {
+    "ano": 2021,
+    "valor": 8.0
+   },
+   {
+    "ano": 2022,
+    "valor": 13.0
+   },
+   {
+    "ano": 2023,
+    "valor": 20.0
+   },
+   {
+    "ano": 2024,
+    "valor": 20.0
+   },
+   {
+    "ano": 2025,
+    "valor": 15.0
+   },
+   {
+    "ano": 2026,
+    "valor": 14.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2005",
+    "clube": "Lommel SK Juv",
+    "obs": null
+   },
+   {
+    "ano": "2005",
+    "clube": "PSV Juv.",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2011",
+    "clube": "PSV U17",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "Man Utd S18",
+    "obs": "€150 mi"
+   },
+   {
+    "ano": "2014",
+    "clube": "Man Utd U21",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Man Utd",
+    "obs": null
+   },
+   {
+    "ano": "2016",
+    "clube": "Granada CF",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "Valencia",
+    "obs": "empréstimo (€3 mi)"
+   },
+   {
+    "ano": "2020",
+    "clube": "Lazio",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Flamengo",
+    "obs": "empréstimo (€1 mi)"
+   },
+   {
+    "ano": "2022",
+    "clube": "Fulham",
+    "obs": "€9,5 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€10 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Líder de assistências no Brasileirão (10)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Ex-Manchester United e Flamengo",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 10 assistências no Brasileirão, a maior marca do elenco na competição.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Formado no PSV e no Manchester United, passou pelo Flamengo por empréstimo em 2021.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/lucas-evangelista": {
+  "id": "lucas-evangelista",
+  "nome": "Lucas Evangelista",
+  "numero": 30,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 17,
+  "idade": 31,
+  "nascimento": "06/02/1995",
+  "altura": "1,81 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "14/03/2025",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 4.0,
+  "picoValor": 5.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 55,
+    "g": 0,
+    "a": 4,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 33,
+    "min": 2228
+   },
+   "bra": {
+    "j": 29,
+    "g": 0,
+    "a": 2,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 19,
+    "min": 1115
+   },
+   "lib": {
+    "j": 12,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 523
+   },
+   "cdb": {
+    "j": 8,
+    "g": 0,
+    "a": 2,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 477
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2013,
+    "valor": 0.25
+   },
+   {
+    "ano": 2014,
+    "valor": 4.0
+   },
+   {
+    "ano": 2015,
+    "valor": 3.5
+   },
+   {
+    "ano": 2016,
+    "valor": 2.5
+   },
+   {
+    "ano": 2017,
+    "valor": 1.6
+   },
+   {
+    "ano": 2018,
+    "valor": 5.0
+   },
+   {
+    "ano": 2019,
+    "valor": 4.0
+   },
+   {
+    "ano": 2020,
+    "valor": 3.2
+   },
+   {
+    "ano": 2021,
+    "valor": 3.2
+   },
+   {
+    "ano": 2022,
+    "valor": 3.5
+   },
+   {
+    "ano": 2023,
+    "valor": 4.0
+   },
+   {
+    "ano": 2024,
+    "valor": 3.0
+   },
+   {
+    "ano": 2025,
+    "valor": 4.0
+   },
+   {
+    "ano": 2026,
+    "valor": 4.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2012",
+    "clube": "Desportivo U20",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "São Paulo U20",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2014",
+    "clube": "São Paulo",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Udinese",
+    "obs": "€4 mi"
+   },
+   {
+    "ano": "2016",
+    "clube": "Panathinaikos",
+    "obs": "empréstimo (€120 mi)"
+   },
+   {
+    "ano": "2017",
+    "clube": "Estoril",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Nantes",
+    "obs": "€3 mi"
+   },
+   {
+    "ano": "2019",
+    "clube": "Vit. Guimarães",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Bragantino",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Bragantino",
+    "obs": "€1,6 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€4 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "33 jogos saindo do banco",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 2 amarelos no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/larson": {
+  "id": "larson",
+  "nome": "Larson",
+  "numero": 48,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 18,
+  "idade": 21,
+  "nascimento": "10/07/2005",
+  "altura": "1,83 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/02/2026",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 1.0,
+  "picoValor": 1.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 14,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 11,
+    "min": 393
+   },
+   "bra": {
+    "j": 8,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 92
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 23
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2026,
+    "valor": 1.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2025",
+    "clube": "Goiás U20",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras U20",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": "€800 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Chegou do Goiás em 2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Veio do sub-20 do Goiás por empréstimo em 2025 e foi comprado por €800 mil em 2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/mauricio": {
+  "id": "mauricio",
+  "nome": "Mauricio",
+  "numero": 18,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 19,
+  "idade": 25,
+  "nascimento": "22/06/2001",
+  "altura": "1,75 m",
+  "pe": "Esquerdo",
+  "nat": "PAR",
+  "nacionalidades": "Paraguai / Brasil",
+  "noClubeDesde": "10/07/2024",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 18.0,
+  "picoValor": 18.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 53,
+    "g": 15,
+    "a": 2,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 15,
+    "min": 3083
+   },
+   "bra": {
+    "j": 29,
+    "g": 10,
+    "a": 1,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 1698
+   },
+   "lib": {
+    "j": 8,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 147
+   },
+   "cdb": {
+    "j": 7,
+    "g": 3,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 528
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.75
+   },
+   {
+    "ano": 2020,
+    "valor": 0.675
+   },
+   {
+    "ano": 2021,
+    "valor": 2.0
+   },
+   {
+    "ano": 2022,
+    "valor": 4.0
+   },
+   {
+    "ano": 2023,
+    "valor": 8.0
+   },
+   {
+    "ano": 2024,
+    "valor": 10.0
+   },
+   {
+    "ano": 2025,
+    "valor": 12.0
+   },
+   {
+    "ano": 2026,
+    "valor": 18.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Desp. Brasil",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Cruzeiro U20",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Cruzeiro",
+    "obs": "€175 mi"
+   },
+   {
+    "ano": "2020",
+    "clube": "Internacional",
+    "obs": "€180 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Palmeiras",
+    "obs": "€10,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Paraguai: jogo em 17/11, em Singapura",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "10 gols no Brasileirão",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pelo Paraguai para amistosos em Singapura (13 e 17/11); deve desfalcar o jogo no Mineirão.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   },
+   {
+    "texto": "Marcou em quatro dos últimos seis jogos: Athletico-PR, Bragantino, Vasco e Remo.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Tem 10 gols no Brasileirão, empatado com Flaco López como artilheiro do time na competição.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/erick-bele": {
+  "id": "erick-bele",
+  "nome": "Erick Belé",
+  "numero": 33,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 20,
+  "idade": 19,
+  "nascimento": "21/01/2007",
+  "altura": "1,83 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "—",
+  "contratoAte": "31/10/2031",
+  "valorMercado": 1.0,
+  "picoValor": 1.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 5,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 196
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 2,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 95
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.6
+   },
+   {
+    "ano": 2026,
+    "valor": 1.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2025",
+    "clube": "Palmeiras U17",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras U20",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Seleção sub-20",
+    "tipo": "info"
+   },
+   {
+    "texto": "Cria da base, 19 anos",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Não treinou na reapresentação de 11/11 por estar com a Seleção Brasileira sub-20.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/ramon-sosa": {
+  "id": "ramon-sosa",
+  "nome": "Ramón Sosa",
+  "numero": 19,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 21,
+  "idade": 27,
+  "nascimento": "31/08/1999",
+  "altura": "1,78 m",
+  "pe": "Direito",
+  "nat": "PAR",
+  "nacionalidades": "Paraguai / Argentina",
+  "noClubeDesde": "09/07/2025",
+  "contratoAte": "30/06/2030",
+  "valorMercado": 10.0,
+  "picoValor": 13.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 45,
+    "g": 9,
+    "a": 7,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 23,
+    "min": 2116
+   },
+   "bra": {
+    "j": 24,
+    "g": 4,
+    "a": 2,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 12,
+    "min": 1140
+   },
+   "lib": {
+    "j": 7,
+    "g": 2,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 321
+   },
+   "cdb": {
+    "j": 4,
+    "g": 2,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 182
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.75
+   },
+   {
+    "ano": 2021,
+    "valor": 1.3
+   },
+   {
+    "ano": 2022,
+    "valor": 3.5
+   },
+   {
+    "ano": 2023,
+    "valor": 8.0
+   },
+   {
+    "ano": 2024,
+    "valor": 13.0
+   },
+   {
+    "ano": 2025,
+    "valor": 11.0
+   },
+   {
+    "ano": 2026,
+    "valor": 10.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2020",
+    "clube": "Atl. Tembetary",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "River Plate U19",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2020",
+    "clube": "River Plate",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Olimpia",
+    "obs": "€822 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Gimnasia",
+    "obs": "€1,15 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Talleres",
+    "obs": "€2,12 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Nott'm Forest",
+    "obs": "€12 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€12,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Ex-Nottingham Forest",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Comprado do Nottingham Forest por €12,5 mi em 2025; tem 9 gols e 7 assistências na temporada.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/felipe-anderson": {
+  "id": "felipe-anderson",
+  "nome": "Felipe Anderson",
+  "numero": 7,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 22,
+  "idade": 33,
+  "nascimento": "15/04/1993",
+  "altura": "1,75 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/07/2024",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 1.0,
+  "picoValor": 45.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 45,
+    "g": 5,
+    "a": 6,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 36,
+    "min": 1151
+   },
+   "bra": {
+    "j": 25,
+    "g": 3,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 20,
+    "min": 686
+   },
+   "lib": {
+    "j": 8,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 82
+   },
+   "cdb": {
+    "j": 6,
+    "g": 2,
+    "a": 3,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 296
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2010,
+    "valor": 0.4
+   },
+   {
+    "ano": 2011,
+    "valor": 1.0
+   },
+   {
+    "ano": 2012,
+    "valor": 6.0
+   },
+   {
+    "ano": 2013,
+    "valor": 8.0
+   },
+   {
+    "ano": 2014,
+    "valor": 6.5
+   },
+   {
+    "ano": 2015,
+    "valor": 20.0
+   },
+   {
+    "ano": 2016,
+    "valor": 19.0
+   },
+   {
+    "ano": 2017,
+    "valor": 25.0
+   },
+   {
+    "ano": 2018,
+    "valor": 35.0
+   },
+   {
+    "ano": 2019,
+    "valor": 45.0
+   },
+   {
+    "ano": 2020,
+    "valor": 25.0
+   },
+   {
+    "ano": 2021,
+    "valor": 10.0
+   },
+   {
+    "ano": 2022,
+    "valor": 15.0
+   },
+   {
+    "ano": 2023,
+    "valor": 10.0
+   },
+   {
+    "ano": 2024,
+    "valor": 6.0
+   },
+   {
+    "ano": 2025,
+    "valor": 2.5
+   },
+   {
+    "ano": 2026,
+    "valor": 1.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2010",
+    "clube": "Santos U20",
+    "obs": null
+   },
+   {
+    "ano": "2010",
+    "clube": "Santos",
+    "obs": null
+   },
+   {
+    "ano": "2013",
+    "clube": "Lazio",
+    "obs": "€7,5 mi"
+   },
+   {
+    "ano": "2018",
+    "clube": "West Ham",
+    "obs": "€38 mi"
+   },
+   {
+    "ano": "2020",
+    "clube": "FC Porto",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Lazio",
+    "obs": "€3 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Palmeiras",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Mais vezes saiu do banco (36)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Já valeu €45 mi (2019)",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Entrou no decorrer de 36 dos 45 jogos que fez na temporada.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Custou €38 mi ao West Ham em 2018; chegou ao Palmeiras sem custo em 2024.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/jhon-arias": {
+  "id": "jhon-arias",
+  "nome": "Jhon Arias",
+  "numero": 11,
+  "pos": "PD",
+  "grupo": 7,
+  "ordem": 23,
+  "idade": 29,
+  "nascimento": "21/09/1997",
+  "altura": "1,68 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "07/02/2026",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 15.0,
+  "picoValor": 17.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 51,
+    "g": 10,
+    "a": 6,
+    "am": 8,
+    "am2": 0,
+    "v": 0,
+    "banco": 11,
+    "min": 3509
+   },
+   "bra": {
+    "j": 28,
+    "g": 6,
+    "a": 3,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 1952
+   },
+   "lib": {
+    "j": 12,
+    "g": 3,
+    "a": 2,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1011
+   },
+   "cdb": {
+    "j": 7,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 400
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.65
+   },
+   {
+    "ano": 2020,
+    "valor": 0.725
+   },
+   {
+    "ano": 2021,
+    "valor": 1.0
+   },
+   {
+    "ano": 2022,
+    "valor": 7.0
+   },
+   {
+    "ano": 2023,
+    "valor": 10.0
+   },
+   {
+    "ano": 2024,
+    "valor": 16.0
+   },
+   {
+    "ano": 2025,
+    "valor": 15.0
+   },
+   {
+    "ano": 2026,
+    "valor": 15.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2016",
+    "clube": "Dorados U20",
+    "obs": null
+   },
+   {
+    "ano": "2016",
+    "clube": "Tijuana U20",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Patriotas",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Llaneros FC",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "CD América",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Indep. Santa Fe",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Fluminense",
+    "obs": "€600 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Wolves",
+    "obs": "€17 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": "€25 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Colômbia: convocado",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "2 gols nos 6 a 1 no Remo",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pela Colômbia para a Data Fifa, que termina na véspera do jogo com o Cruzeiro.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   },
+   {
+    "texto": "Veio do Wolves por €25 mi em fevereiro; tem 5 amarelos no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/paulinho": {
+  "id": "paulinho",
+  "nome": "Paulinho",
+  "numero": 10,
+  "pos": "SA",
+  "grupo": 8,
+  "ordem": 24,
+  "idade": 26,
+  "nascimento": "15/07/2000",
+  "altura": "1,77 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 7.0,
+  "picoValor": 25.0,
+  "lesao": "Trauma na panturrilha direita",
+  "numeros": {
+   "all": {
+    "j": 11,
+    "g": 2,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 193
+   },
+   "bra": {
+    "j": 7,
+    "g": 2,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 157
+   },
+   "lib": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 36
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2017,
+    "valor": 10.0
+   },
+   {
+    "ano": 2018,
+    "valor": 17.0
+   },
+   {
+    "ano": 2019,
+    "valor": 15.0
+   },
+   {
+    "ano": 2020,
+    "valor": 13.5
+   },
+   {
+    "ano": 2021,
+    "valor": 11.0
+   },
+   {
+    "ano": 2022,
+    "valor": 7.0
+   },
+   {
+    "ano": 2023,
+    "valor": 15.0
+   },
+   {
+    "ano": 2024,
+    "valor": 17.0
+   },
+   {
+    "ano": 2025,
+    "valor": 12.0
+   },
+   {
+    "ano": 2026,
+    "valor": 7.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "Vasco U20",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Vasco",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Leverkusen",
+    "obs": "€18,5 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Atlético-MG",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Atlético-MG",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€18 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Fora: panturrilha direita",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Segue em recuperação de um trauma na panturrilha direita.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/vitor-roque": {
+  "id": "vitor-roque",
+  "nome": "Vitor Roque",
+  "numero": 9,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 25,
+  "idade": 21,
+  "nascimento": "28/02/2005",
+  "altura": "1,74 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "28/02/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 38.0,
+  "picoValor": 40.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 41,
+    "g": 9,
+    "a": 3,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 17,
+    "min": 2093
+   },
+   "bra": {
+    "j": 20,
+    "g": 5,
+    "a": 2,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 971
+   },
+   "lib": {
+    "j": 4,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 256
+   },
+   "cdb": {
+    "j": 7,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 252
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 0.3
+   },
+   {
+    "ano": 2022,
+    "valor": 11.0
+   },
+   {
+    "ano": 2023,
+    "valor": 40.0
+   },
+   {
+    "ano": 2024,
+    "valor": 20.0
+   },
+   {
+    "ano": 2025,
+    "valor": 35.0
+   },
+   {
+    "ano": 2026,
+    "valor": 38.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "América-MG U17",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Cruzeiro U17",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Cruzeiro",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Athletico-PR",
+    "obs": "€4,7 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Barcelona",
+    "obs": "€30 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Betis",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Palmeiras",
+    "obs": "€25,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Maior valor do elenco (€38 mi)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Ex-Barcelona",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "É o jogador mais valioso do elenco, €38 mi pelo Transfermarkt.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Custou €25,5 mi ao Palmeiras em 2025, vindo do Barcelona.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras/jogadores/jose-manuel-lopez": {
+  "id": "jose-manuel-lopez",
+  "nome": "José Manuel López",
+  "numero": 42,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 26,
+  "idade": 25,
+  "nascimento": "06/12/2000",
+  "altura": "1,90 m",
+  "pe": "Esquerdo",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "18/07/2022",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 30.0,
+  "picoValor": 30.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 61,
+    "g": 24,
+    "a": 14,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 4527
+   },
+   "bra": {
+    "j": 31,
+    "g": 10,
+    "a": 7,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 2271
+   },
+   "lib": {
+    "j": 12,
+    "g": 4,
+    "a": 4,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 989
+   },
+   "cdb": {
+    "j": 7,
+    "g": 4,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 421
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 8.0
+   },
+   {
+    "ano": 2022,
+    "valor": 8.0
+   },
+   {
+    "ano": 2023,
+    "valor": 7.0
+   },
+   {
+    "ano": 2024,
+    "valor": 9.0
+   },
+   {
+    "ano": 2025,
+    "valor": 20.0
+   },
+   {
+    "ano": 2026,
+    "valor": 30.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "Independiente U20",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Lanús U20",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Colegiales",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Lanús",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Palmeiras",
+    "obs": "€9,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Argentina: convocado",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Artilheiro do time (24)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Líder de assistências (14)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pela Argentina para a Data Fifa, que termina em 17/11.",
+    "fonte": "Diário Celeste, 11/11/2026"
+   },
+   {
+    "texto": "Tem 24 gols e 14 assistências na temporada, as duas maiores marcas do elenco.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/palmeiras": {
+  "nome": "Palmeiras",
+  "noClube": "No Palmeiras",
+  "doClube": "do Palmeiras",
+  "temporada": "2026",
+  "nomesCarreira": [
+   "Palmeiras"
+  ],
+  "grupos": [
+   "Goleiros",
+   "Zagueiros",
+   "Laterais esquerdos",
+   "Laterais direitos",
+   "Volantes",
+   "Meias centrais",
+   "Meias ofensivos",
+   "Pontas",
+   "Centroavantes"
+  ],
+  "tecnico": {
+   "nome": "Abel Ferreira",
+   "idade": 47,
+   "nat": "POR",
+   "desde": "04/11/2020",
+   "antecessor": "Andrey Lopes (interino)"
+  },
+  "competicoes": [
+   {
+    "id": "bra",
+    "nome": "Brasileirão",
+    "de": "do Brasileirão"
+   },
+   {
+    "id": "lib",
+    "nome": "Libertadores",
+    "de": "da Libertadores"
+   },
+   {
+    "id": "cdb",
+    "nome": "Copa do Brasil",
+    "de": "da Copa do Brasil"
+   }
+  ],
+  "competicaoPadrao": "bra",
+  "cores": {
+   "a": "#006437",
+   "b": "#0B2A1C",
+   "padrao": "liso",
+   "destaque": "#006437",
+   "destaqueEscuro": "#478F6F"
+  },
+  "resumoPorCompeticao": {
+   "all": {
+    "texto": "Temporada 2026: campeão paulista (27º título), vice-líder do Brasileirão a quatro rodadas do fim e finalista da Libertadores (28/11) e da Copa do Brasil (06/12).",
+    "fatos": [
+     {
+      "valor": "2º",
+      "rotulo": "no Brasileirão"
+     },
+     {
+      "valor": "27º",
+      "rotulo": "título paulista, em março"
+     },
+     {
+      "valor": "Final",
+      "rotulo": "Libertadores, 28/11"
+     },
+     {
+      "valor": "Final",
+      "rotulo": "Copa do Brasil, 06/12"
+     }
+    ]
+   },
+   "bra": {
+    "texto": "62 gols marcados e 23 sofridos. Faltam Cruzeiro (fora), Flamengo (casa), Chapecoense (fora) e Coritiba (casa). Tem 21 vitórias, contra 23 do Flamengo, o primeiro critério de desempate.",
+    "fatos": [
+     {
+      "valor": "2º",
+      "rotulo": "no Brasileirão"
+     },
+     {
+      "valor": "73",
+      "rotulo": "pontos em 34 jogos"
+     },
+     {
+      "valor": "−3",
+      "rotulo": "para o Flamengo"
+     },
+     {
+      "valor": "21-10-3",
+      "rotulo": "vitórias, empates, derrotas"
+     }
+    ]
+   },
+   "lib": {
+    "texto": "Chegou à final passando por Cerro Porteño, LDU (nos pênaltis) e Fluminense (nos pênaltis). Decide com o Estudiantes em jogo único, em 28/11, no Centenário, em Montevidéu, onde ganhou a Libertadores de 2021.",
+    "fatos": [
+     {
+      "valor": "Final",
+      "rotulo": "contra o Estudiantes"
+     },
+     {
+      "valor": "12",
+      "rotulo": "jogos disputados"
+     },
+     {
+      "valor": "6-3-3",
+      "rotulo": "vitórias, empates, derrotas"
+     },
+     {
+      "valor": "17-11",
+      "rotulo": "gols pró e contra"
+     }
+    ]
+   },
+   "cdb": {
+    "texto": "Volta a uma final de Copa do Brasil pela primeira vez desde 2020. Eliminou Jacuipense, Fortaleza, Santos e Vasco, este nos pênaltis. Decide com o Grêmio em jogo único, em 06/12, no Mané Garrincha.",
+    "fatos": [
+     {
+      "valor": "Final",
+      "rotulo": "contra o Grêmio"
+     },
+     {
+      "valor": "8",
+      "rotulo": "jogos disputados"
+     },
+     {
+      "valor": "5-1-2",
+      "rotulo": "vitórias, empates, derrotas"
+     },
+     {
+      "valor": "17-6",
+      "rotulo": "gols pró e contra"
+     }
+    ]
+   }
+  },
+  "tabela": {
+   "competicao": "Brasileirão",
+   "posicao": 2,
+   "pontos": 73,
+   "jogos": 34,
+   "v": 21,
+   "e": 10,
+   "d": 3,
+   "gp": 62,
+   "gc": 23,
+   "fonte": "Lance!, após a 34ª rodada"
+  },
+  "proximoJogo": "2026-11-18-cruzeiro-palmeiras",
+  "notaTemporada": "Os números de “Temporada” seguem a temporada 25/26 do Transfermarkt (o ano de 2026 no Brasil) e incluem o Campeonato Paulista, que não tem filtro próprio.",
+  "rodape": [
+   "Dados de elenco, jogos, gols, assistências, cartões, minutos, contratos, valores de mercado e carreira: Transfermarkt, consultado em 12/11/2026. Os gols da tabela somam só o elenco atual; os que faltam para o total do time são de jogadores que já saíram. Classificação: Lance! e Cassio Zirpoli (após a 34ª rodada). Curiosidades com a fonte indicada no perfil de cada jogador.",
+   "* Pendurados calculados pelos amarelos no Brasileirão (suspensão a cada três). Conferir com a lista publicada pela imprensa antes do jogo."
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026) e a semifinal da Copa do Brasil (08/11/2026)",
+  "proximaAtualizacao": "Depois de Cruzeiro x Palmeiras (18/11/2026); escalações na véspera (17/11)."
+ },
+ "clubes/cruzeiro": {
+  "nome": "Cruzeiro",
+  "noClube": "No Cruzeiro",
+  "doClube": "do Cruzeiro",
+  "tecnico": {
+   "nome": "Artur Jorge"
+  },
+  "tabela": {
+   "competicao": "Brasileirão",
+   "posicao": 3,
+   "pontos": 60,
+   "jogos": 34,
+   "v": 18,
+   "e": 6,
+   "d": 10,
+   "gp": 55,
+   "gc": 48,
+   "fonte": "Diário Celeste, após a 34ª rodada"
+  },
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)"
+ },
+ "clubes/palmeiras/jogos/2026-10-14-fluminense": {
+  "data": "2026-10-14",
+  "competicao": "Libertadores",
+  "fase": "Semifinal (ida)",
+  "mandante": "Fluminense",
+  "visitante": "Palmeiras",
+  "autores": "López e Marlon Freitas (Palmeiras); Wesley Natã (Fluminense)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 1,
+  "golsVisitante": 2
+ },
+ "clubes/palmeiras/jogos/2026-10-17-athletico-pr": {
+  "data": "2026-10-17",
+  "competicao": "Brasileirão",
+  "fase": "31ª",
+  "mandante": "Athletico-PR",
+  "visitante": "Palmeiras",
+  "autores": "Mauricio e Piquerez (Palmeiras)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 0,
+  "golsVisitante": 2
+ },
+ "clubes/palmeiras/jogos/2026-10-21-fluminense": {
+  "data": "2026-10-21",
+  "competicao": "Libertadores",
+  "fase": "Semifinal (volta)",
+  "mandante": "Palmeiras",
+  "visitante": "Fluminense",
+  "autores": "Hércules (Fluminense)",
+  "obs": "Agregado 2 a 2; Palmeiras venceu nos pênaltis por 5 a 4.",
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 0,
+  "golsVisitante": 1
+ },
+ "clubes/palmeiras/jogos/2026-10-24-bragantino": {
+  "data": "2026-10-24",
+  "competicao": "Brasileirão",
+  "fase": "32ª",
+  "mandante": "Palmeiras",
+  "visitante": "Bragantino",
+  "autores": "Mauricio e Giay (Palmeiras)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 2,
+  "golsVisitante": 0
+ },
+ "clubes/palmeiras/jogos/2026-10-28-santos": {
+  "data": "2026-10-28",
+  "competicao": "Brasileirão",
+  "fase": "33ª",
+  "mandante": "Santos",
+  "visitante": "Palmeiras",
+  "autores": null,
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 0,
+  "golsVisitante": 0
+ },
+ "clubes/palmeiras/jogos/2026-11-01-vasco": {
+  "data": "2026-11-01",
+  "competicao": "Copa do Brasil",
+  "fase": "Semifinal (ida)",
+  "mandante": "Palmeiras",
+  "visitante": "Vasco",
+  "autores": "Mauricio (Palmeiras)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 1,
+  "golsVisitante": 0
+ },
+ "clubes/palmeiras/jogos/2026-11-05-remo": {
+  "data": "2026-11-05",
+  "competicao": "Brasileirão",
+  "fase": "34ª",
+  "mandante": "Palmeiras",
+  "visitante": "Remo",
+  "autores": "Arias (2), Mauricio, Marcelinho, López e Felipe Anderson (Palmeiras); Zé Welison (Remo)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 6,
+  "golsVisitante": 1
+ },
+ "clubes/palmeiras/jogos/2026-11-08-vasco": {
+  "data": "2026-11-08",
+  "competicao": "Copa do Brasil",
+  "fase": "Semifinal (volta)",
+  "mandante": "Vasco",
+  "visitante": "Palmeiras",
+  "autores": "Colidio e Puma Rodríguez (Vasco); Piquerez (Palmeiras)",
+  "obs": "Agregado 2 a 2; Palmeiras venceu nos pênaltis por 5 a 4.",
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 2,
+  "golsVisitante": 1
+ },
+ "clubes/palmeiras/jogos/2026-11-18-cruzeiro": {
+  "data": "2026-11-18",
+  "competicao": "Brasileirão",
+  "fase": "35ª",
+  "mandante": "Cruzeiro",
+  "visitante": "Palmeiras",
+  "autores": null,
+  "obs": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt",
+  "hora": "20h30",
+  "local": "Mineirão"
+ },
+ "clubes/palmeiras/jogos/2026-11-21-flamengo": {
+  "data": "2026-11-21",
+  "competicao": "Brasileirão",
+  "fase": "36ª",
+  "mandante": "Palmeiras",
+  "visitante": "Flamengo",
+  "autores": null,
+  "obs": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt",
+  "hora": "16h30",
+  "local": "Nubank Parque"
+ },
+ "clubes/palmeiras/jogos/2026-11-24-chapecoense": {
+  "data": "2026-11-24",
+  "competicao": "Brasileirão",
+  "fase": "37ª",
+  "mandante": "Chapecoense",
+  "visitante": "Palmeiras",
+  "autores": null,
+  "obs": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt",
+  "hora": "18h",
+  "local": "Arena Condá"
+ },
+ "clubes/palmeiras/jogos/2026-11-28-estudiantes": {
+  "data": "2026-11-28",
+  "competicao": "Libertadores",
+  "fase": "Final",
+  "mandante": "Palmeiras",
+  "visitante": "Estudiantes",
+  "autores": null,
+  "obs": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt",
+  "hora": "17h",
+  "local": "Estádio Centenário, Montevidéu (jogo único)"
+ },
+ "clubes/palmeiras/jogos/2026-12-02-coritiba": {
+  "data": "2026-12-02",
+  "competicao": "Brasileirão",
+  "fase": "38ª",
+  "mandante": "Palmeiras",
+  "visitante": "Coritiba",
+  "autores": null,
+  "obs": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt",
+  "hora": "21h30",
+  "local": "Nubank Parque"
+ },
+ "clubes/palmeiras/jogos/2026-12-06-gremio": {
+  "data": "2026-12-06",
+  "competicao": "Copa do Brasil",
+  "fase": "Final",
+  "mandante": "Grêmio",
+  "visitante": "Palmeiras",
+  "autores": null,
+  "obs": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt",
+  "hora": "a definir",
+  "local": "Mané Garrincha, Brasília (jogo único)"
+ },
+ "clubes/cruzeiro/jogos/2026-10-12-bragantino": {
+  "data": "2026-10-12",
+  "competicao": "Brasileirão",
+  "fase": "30ª",
+  "mandante": "Bragantino",
+  "visitante": "Cruzeiro",
+  "autores": "Lucas Barbosa, Kaio Jorge (contra), Eric Ramires e José Herrera (Bragantino); Zé Lucas e Matheus Henrique (Cruzeiro)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 4,
+  "golsVisitante": 2
+ },
+ "clubes/cruzeiro/jogos/2026-10-18-gremio": {
+  "data": "2026-10-18",
+  "competicao": "Brasileirão",
+  "fase": "31ª",
+  "mandante": "Grêmio",
+  "visitante": "Cruzeiro",
+  "autores": "Kaio Jorge (3) e João Marcelo (Cruzeiro); Carlos Vinícius e Pavón (Grêmio)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 2,
+  "golsVisitante": 4
+ },
+ "clubes/cruzeiro/jogos/2026-10-23-remo": {
+  "data": "2026-10-23",
+  "competicao": "Brasileirão",
+  "fase": "32ª",
+  "mandante": "Cruzeiro",
+  "visitante": "Remo",
+  "autores": "Fabrício Bruno (Cruzeiro)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 1,
+  "golsVisitante": 0
+ },
+ "clubes/cruzeiro/jogos/2026-10-29-atletico-mg": {
+  "data": "2026-10-29",
+  "competicao": "Brasileirão",
+  "fase": "33ª",
+  "mandante": "Atlético-MG",
+  "visitante": "Cruzeiro",
+  "autores": "Kaio Jorge (Cruzeiro)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 0,
+  "golsVisitante": 1
+ },
+ "clubes/cruzeiro/jogos/2026-11-05-bahia": {
+  "data": "2026-11-05",
+  "competicao": "Brasileirão",
+  "fase": "34ª",
+  "mandante": "Cruzeiro",
+  "visitante": "Bahia",
+  "autores": "Kaio Jorge (2) e Bruno Rodrigues (Cruzeiro); Cristian Olivera e Alejo Veliz (Bahia)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt",
+  "golsMandante": 3,
+  "golsVisitante": 2
+ },
+ "confrontos/palmeiras-cruzeiro": {
+  "clubeA": "palmeiras",
+  "geral": {
+   "jogos": 104,
+   "vitoriasA": 37,
+   "empates": 31,
+   "vitoriasB": 36,
+   "golsA": 152,
+   "golsB": 141,
+   "fonte": "Portal do Palestra (atualizado em 08/2026, inclui o 1 a 1 de 16/05/2026)"
+  },
+  "ultimos10": {
+   "vitoriasA": 6,
+   "empates": 3,
+   "vitoriasB": 1
+  },
+  "observacoes": [
+   "O Palmeiras perdeu só um dos últimos dez jogos contra o Cruzeiro: 2 a 1 no Mineirão, em 01/06/2025.",
+   "No Mineirão, o histórico pesa para o Cruzeiro: até maio de 2025, eram 8 vitórias do Palmeiras, 12 empates e 19 derrotas em 39 jogos, segundo o clube; a partida seguinte ali terminou em vitória mineira.",
+   "Abel Ferreira ainda não venceu Artur Jorge: quatro jogos em 2024, quando o português dirigia o Botafogo, e o 1 a 1 de 16/05/2026."
+  ],
+  "fontesObservacoes": "Transfermarkt; site do Palmeiras (05/2025); Tribuna de Jundiaí (05/2026)",
+  "ultimosEncontros": [
+   {
+    "data": "16/05/2026",
+    "texto": "Palmeiras 1 x 1 Cruzeiro",
+    "comp": "Brasileirão, 16ª rodada"
+   },
+   {
+    "data": "26/10/2025",
+    "texto": "Palmeiras 0 x 0 Cruzeiro",
+    "comp": "Brasileirão, 30ª rodada"
+   },
+   {
+    "data": "01/06/2025",
+    "texto": "Cruzeiro 2 x 1 Palmeiras",
+    "comp": "Brasileirão, 11ª rodada"
+   },
+   {
+    "data": "04/12/2024",
+    "texto": "Cruzeiro 1 x 2 Palmeiras",
+    "comp": "Brasileirão, 37ª rodada"
+   },
+   {
+    "data": "20/07/2024",
+    "texto": "Palmeiras 2 x 0 Cruzeiro",
+    "comp": "Brasileirão, 18ª rodada"
+   }
+  ],
+  "fontesEncontros": "Transfermarkt; Gazeta Esportiva, 15/05/2026",
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)"
+ },
+ "prejogos/2026-11-18-cruzeiro-palmeiras": {
+  "mandante": "cruzeiro",
+  "visitante": "palmeiras",
+  "confronto": "palmeiras-cruzeiro",
+  "titulo": "Cruzeiro x Palmeiras",
+  "competicao": "Brasileirão",
+  "rotulo": "35ª rodada do Brasileirão",
+  "data": "18/11",
+  "diaSemana": "quarta-feira",
+  "hora": "20h30",
+  "local": "Mineirão",
+  "escalacoes": {
+   "status": "nao_divulgadas",
+   "aviso": "Os dois times estão na pausa da Data Fifa, que termina em 17/11, véspera do jogo. As prováveis escalações entram aqui quando forem publicadas."
+  },
+  "situacaoMandante": {
+   "itens": [
+    {
+     "quem": "Jonathan Jesus",
+     "texto": "está com a Seleção Brasileira, que joga em 14 e 17/11."
+    },
+    {
+     "quem": "Keny Arroyo",
+     "texto": "foi convocado pelo Equador e terá pouco tempo de preparação."
+    },
+    {
+     "quem": "Fabrício Bruno",
+     "texto": "trata uma lesão muscular na região das costelas, do lado esquerdo, e não voltou aos treinos."
+    },
+    {
+     "quem": "Gabriel Pec e Sinisterra",
+     "texto": "seguem no departamento médico."
+    },
+    {
+     "quem": "Felipe Morais",
+     "texto": "usa a pausa para se recuperar e pode voltar a ser opção."
+    }
+   ],
+   "fonte": "Diário Celeste, 11/11/2026"
+  },
+  "situacaoVisitante": {
+   "itens": [
+    {
+     "quem": "Murilo",
+     "texto": "tem lesão na coxa esquerda e é desfalque provável; não há prazo de volta."
+    },
+    {
+     "quem": "Gustavo Gómez e Mauricio",
+     "texto": "jogam pelo Paraguai em Singapura até 17/11 e dificilmente estarão no Mineirão."
+    },
+    {
+     "quem": "Giay e Flaco López",
+     "texto": "servem a Argentina na Data Fifa."
+    },
+    {
+     "quem": "Arias",
+     "texto": "serve a Colômbia na Data Fifa."
+    },
+    {
+     "quem": "Piquerez",
+     "texto": "foi liberado pelo Uruguai para voltar depois do primeiro amistoso (13/11)."
+    },
+    {
+     "quem": "Paulinho e Jefté",
+     "texto": "seguem no departamento médico (panturrilha direita e cirurgia no joelho esquerdo)."
+    },
+    {
+     "quem": "Pendurados*",
+     "texto": "Giay, Pacheco, Lucas Evangelista, Mauricio, Arias e Flaco López têm 2, 5 ou 8 amarelos no Brasileirão."
+    }
+   ],
+   "fonte": "Diário Celeste, 11/11/2026; Bolavip, 12/11/2026; pendurados pelo Transfermarkt"
+  },
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (05/11/2026)"
+ },
+ "clubes/palmeiras/noticias/2026-11-12-1": {
+  "data": "12/11",
+  "iso": "2026-11-12",
+  "texto": "Abel Ferreira pode ficar sem cinco dos seis convocados e sem Murilo, com lesão muscular na coxa esquerda, no Mineirão. Piquerez foi liberado para voltar antes e é opção até para a zaga.",
+  "fonte": "Bolavip, 12/11/2026",
+  "url": "https://br.bolavip.com/palmeiras/cruzeiro-x-palmeiras-qual-a-escalacao-de-abel-ferreira-sem-convocados-para-data-fifa"
+ },
+ "clubes/palmeiras/noticias/2026-11-11-1": {
+  "data": "11/11",
+  "iso": "2026-11-11",
+  "texto": "O elenco se reapresentou com 11 ausências: seis convocados, os garotos Kauan Lima e Erick Belé na seleção sub-20, Murilo, Paulinho e Jefté.",
+  "fonte": "Diário Celeste, 11/11/2026",
+  "url": "https://www.diarioceleste.com.br/noticias-do-cruzeiro/palmeiras-reapresenta-11-ausencias-jogo-cruzeiro-brasileirao-2026/"
+ },
+ "clubes/palmeiras/noticias/2026-11-11-2": {
+  "data": "11/11",
+  "iso": "2026-11-11",
+  "texto": "O vice-presidente Paulo Buosi admitiu a dificuldade de Abel para montar o time contra o Cruzeiro, um dia após o fim da Data Fifa.",
+  "fonte": "No Ataque, 11/11/2026",
+  "url": "https://noataque.com.br/futebol/noticia/2026/11/11/palmeiras-pode-ter-desfalques-de-peso-contra-o-cruzeiro-nao-sabemos-como-vamos-jogar/"
+ },
+ "clubes/palmeiras/noticias/2026-11-08-1": {
+  "data": "08/11",
+  "iso": "2026-11-08",
+  "texto": "Mesmo perdendo por 2 a 1 em São Januário, o Palmeiras eliminou o Vasco nos pênaltis (5 a 4), com duas defesas de Carlos Miguel. A final contra o Grêmio será em 06/12, no Mané Garrincha.",
+  "fonte": "A Crítica, 08/11/2026",
+  "url": "https://acritica.net/esportes/palmeiras-elimina-vasco-nos-penaltis-chega-a-final-da-copa-do-brasil-e-mantem-sonho-da-triplice-coroa/"
+ },
+ "clubes/palmeiras/noticias/2026-10-31-1": {
+  "data": "31/10",
+  "iso": "2026-10-31",
+  "texto": "A Conmebol marcou a final da Libertadores contra o Estudiantes para 28/11, às 17h, no Estádio Centenário, em Montevidéu.",
+  "fonte": "DGABC, 31/10/2026",
+  "url": "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes"
+ },
+ "clubes/palmeiras/noticias/2026-10-30-1": {
+  "data": "30/10",
+  "iso": "2026-10-30",
+  "texto": "A CBF definiu a data do confronto com o Flamengo no Nubank Parque, pela 36ª rodada, tratado como decisivo na briga pelo título.",
+  "fonte": "Exame, 30/10/2026",
+  "url": "https://exame.com/esporte/cbf-marca-data-de-palmeiras-x-flamengo-jogo-considerado-final-do-brasileirao/"
+ },
+ "meta/base": {
+  "descricao": "Base de dados da página de elenco do Palmeiras.",
+  "regraAtualizacao": "Atualizar apenas depois de cada jogo (números, fase recente, tabela e notícias) e na véspera do próximo jogo (escalações e desfalques). Sem novas buscas entre os jogos.",
+  "ultimaAtualizacao": "2026-11-12",
+  "proximaAtualizacao": "Depois de Cruzeiro x Palmeiras (18/11/2026); escalações na véspera (17/11)."
+ }
+}

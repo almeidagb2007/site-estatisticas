@@ -1,0 +1,4952 @@
+{
+ "clubes/fluminense/jogadores/vitor-eudes": {
+  "nome": "Vitor Eudes",
+  "numero": 98,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 0,
+  "idade": 28,
+  "nascimento": "21/10/1998",
+  "altura": "1,94 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2023",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 0.4,
+  "picoValor": 0.4,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 180
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.05
+   },
+   {
+    "ano": 2021,
+    "valor": 0.05
+   },
+   {
+    "ano": 2023,
+    "valor": 0.15
+   },
+   {
+    "ano": 2024,
+    "valor": 0.4
+   },
+   {
+    "ano": 2025,
+    "valor": 0.4
+   },
+   {
+    "ano": 2026,
+    "valor": 0.4
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2018",
+    "clube": "Cruzeiro",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Marítimo Sub-23",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Marítimo",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Reserva: 2 jogos, ambos no Carioca",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Seus dois jogos na temporada foram pelo Campeonato Carioca.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/marcelo-pitaluga": {
+  "nome": "Marcelo Pitaluga",
+  "numero": 27,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 1,
+  "idade": 23,
+  "nascimento": "20/12/2002",
+  "altura": "1,93 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Alemanha",
+  "noClubeDesde": "06/01/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 0.2,
+  "picoValor": 0.4,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.1
+   },
+   {
+    "ano": 2023,
+    "valor": 0.4
+   },
+   {
+    "ano": 2024,
+    "valor": 0.2
+   },
+   {
+    "ano": 2025,
+    "valor": 0.2
+   },
+   {
+    "ano": 2026,
+    "valor": 0.2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Fluminense sub-20",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Liverpool",
+    "obs": "€750 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Macclesfield",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "St. Patrick's",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Livingston",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Ex-Liverpool",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "O Liverpool pagou €750 mil por ele ao Fluminense em 2020; voltou ao clube em 2025, sem custo.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/fabio": {
+  "nome": "Fábio",
+  "numero": 1,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 2,
+  "idade": 46,
+  "nascimento": "30/09/1980",
+  "altura": "1,88 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Itália",
+  "noClubeDesde": "19/01/2022",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 0.075,
+  "picoValor": 3.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 58,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 5220
+   },
+   "bra": {
+    "j": 34,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 3060
+   },
+   "lib": {
+    "j": 12,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1080
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 360
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.6
+   },
+   {
+    "ano": 2021,
+    "valor": 0.45
+   },
+   {
+    "ano": 2022,
+    "valor": 0.25
+   },
+   {
+    "ano": 2023,
+    "valor": 0.2
+   },
+   {
+    "ano": 2024,
+    "valor": 0.1
+   },
+   {
+    "ano": 2025,
+    "valor": 0.075
+   },
+   {
+    "ano": 2026,
+    "valor": 0.075
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "1998",
+    "clube": "Atlético-PR",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2000",
+    "clube": "Cruzeiro",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2000",
+    "clube": "Vasco",
+    "obs": null
+   },
+   {
+    "ano": "2005",
+    "clube": "Cruzeiro",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Jogou todos os minutos no Brasileirão",
+    "tipo": "mark"
+   },
+   {
+    "texto": "46 anos, contrato até 2027",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Disputou as 34 rodadas do Brasileirão sem ser substituído: 3.060 minutos.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "É o jogador com mais partidas da equipe na temporada: 58.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/juan-pablo-freytes": {
+  "nome": "Juan Pablo Freytes",
+  "numero": 22,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 3,
+  "idade": 26,
+  "nascimento": "11/01/2000",
+  "altura": "1,82 m",
+  "pe": "Esquerdo",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "02/01/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 5,
+  "picoValor": 5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 34,
+    "g": 0,
+    "a": 0,
+    "am": 8,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 2964
+   },
+   "bra": {
+    "j": 20,
+    "g": 0,
+    "a": 0,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 1719
+   },
+   "lib": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 540
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 0.25
+   },
+   {
+    "ano": 2022,
+    "valor": 0.35
+   },
+   {
+    "ano": 2023,
+    "valor": 0.6
+   },
+   {
+    "ano": 2024,
+    "valor": 0.9
+   },
+   {
+    "ano": 2025,
+    "valor": 5
+   },
+   {
+    "ano": 2026,
+    "valor": 5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Newell's II",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Newell's Old Boys",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Independiente Rivadavia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Unión La Calera",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Alianza Lima",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Alianza Lima",
+    "obs": "€610 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "€3,2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Mais amarelos da defesa (8)",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 5 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Comprado do Alianza Lima por €3,2 milhões em 2025.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/julian-millan": {
+  "nome": "Julián Millán",
+  "numero": 29,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 4,
+  "idade": 28,
+  "nascimento": "27/03/1998",
+  "altura": "1,87 m",
+  "pe": "Esquerdo",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "03/03/2026",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 4,
+  "picoValor": 4,
+  "lesao": "Lesão muscular na coxa",
+  "numeros": {
+   "all": {
+    "j": 16,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 1188
+   },
+   "bra": {
+    "j": 10,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 789
+   },
+   "lib": {
+    "j": 5,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 309
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2022,
+    "valor": 0.45
+   },
+   {
+    "ano": 2023,
+    "valor": 0.65
+   },
+   {
+    "ano": 2024,
+    "valor": 1
+   },
+   {
+    "ano": 2025,
+    "valor": 2.3
+   },
+   {
+    "ano": 2026,
+    "valor": 4
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2018",
+    "clube": "Llaneros",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Patriotas",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Internacional de Palmira",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Independiente Santa Fe",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Nacional",
+    "obs": "€1,34 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "€4,3 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Lesionado: coxa",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Reforço de março",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Lesão de grau 2 no adutor da coxa direita; o clube vê retorno improvável no Brasileirão.",
+    "fonte": "Terra, 05/11/2026"
+   },
+   {
+    "texto": "Custou €4,3 milhões ao Nacional, do Uruguai.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/ignacio": {
+  "nome": "Ignácio",
+  "numero": 4,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 5,
+  "idade": 29,
+  "nascimento": "01/12/1996",
+  "altura": "1,90 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "19/07/2024",
+  "contratoAte": "30/06/2028",
+  "valorMercado": 3.5,
+  "picoValor": 3.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 34,
+    "g": 3,
+    "a": 1,
+    "am": 9,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 2634
+   },
+   "bra": {
+    "j": 18,
+    "g": 3,
+    "a": 1,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 1400
+   },
+   "lib": {
+    "j": 7,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 586
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 270
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.05
+   },
+   {
+    "ano": 2021,
+    "valor": 0.6
+   },
+   {
+    "ano": 2022,
+    "valor": 0.9
+   },
+   {
+    "ano": 2023,
+    "valor": 1.5
+   },
+   {
+    "ano": 2024,
+    "valor": 1.2
+   },
+   {
+    "ano": 2025,
+    "valor": 2
+   },
+   {
+    "ano": 2026,
+    "valor": 3.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "Vocem",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Força e Luz",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2018",
+    "clube": "ASSU",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Bahia B",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Bahia",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "CSA",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Chapecoense",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Sporting Cristal",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Fluminense",
+    "obs": "€2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Volta de suspensão",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Cumpriu suspensão pelo terceiro amarelo contra o Vitória, em 06/11, e fica liberado para o São Paulo.",
+    "fonte": "Lance!, 05/11/2026"
+   },
+   {
+    "texto": "Zagueiro com mais gols na temporada: 3, todos no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/jemmes": {
+  "nome": "Jemmes",
+  "numero": 44,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 6,
+  "idade": 26,
+  "nascimento": "09/04/2000",
+  "altura": "1,87 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 3,
+  "picoValor": 3,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 29,
+    "g": 0,
+    "a": 1,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 2253
+   },
+   "bra": {
+    "j": 19,
+    "g": 0,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 1353
+   },
+   "lib": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 180
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2024,
+    "valor": 0.3
+   },
+   {
+    "ano": 2025,
+    "valor": 1.5
+   },
+   {
+    "ano": 2026,
+    "valor": 3
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2020",
+    "clube": "Capivariano sub-20",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Capivariano",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "União Suzano",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Rio Branco-SP",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Athletic-MG",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Vila Nova",
+    "obs": "€87 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Mirassol",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Mirassol",
+    "obs": "€316 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "€3,6 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Reforço de janeiro",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Veio do Mirassol por €3,6 milhões; o clube paulista havia pago €316 mil por ele.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/igor-rabello": {
+  "nome": "Igor Rabello",
+  "numero": 21,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 7,
+  "idade": 31,
+  "nascimento": "28/04/1995",
+  "altura": "1,90 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "22/08/2025",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 1.4,
+  "picoValor": 3.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 9,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 707
+   },
+   "bra": {
+    "j": 5,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 347
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 180
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 2.5
+   },
+   {
+    "ano": 2021,
+    "valor": 3.5
+   },
+   {
+    "ano": 2022,
+    "valor": 3
+   },
+   {
+    "ano": 2023,
+    "valor": 2
+   },
+   {
+    "ano": 2024,
+    "valor": 2
+   },
+   {
+    "ano": 2025,
+    "valor": 1.4
+   },
+   {
+    "ano": 2026,
+    "valor": 1.4
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2012",
+    "clube": "Botafogo sub-17",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Botafogo",
+    "obs": null
+   },
+   {
+    "ano": "2016",
+    "clube": "Náutico",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Atlético-MG",
+    "obs": "€3 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Nenhum amarelo na temporada",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "9 jogos na temporada sem cartão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/thiago-silva": {
+  "nome": "Thiago Silva",
+  "numero": 3,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 8,
+  "idade": 42,
+  "nascimento": "22/09/1984",
+  "altura": "1,81 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / França",
+  "noClubeDesde": "01/07/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 0.5,
+  "picoValor": 40,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 13,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 1100
+   },
+   "bra": {
+    "j": 7,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 560
+   },
+   "lib": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 540
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 4.5
+   },
+   {
+    "ano": 2021,
+    "valor": 2.5
+   },
+   {
+    "ano": 2022,
+    "valor": 2.5
+   },
+   {
+    "ano": 2023,
+    "valor": 2
+   },
+   {
+    "ano": 2024,
+    "valor": 0.8
+   },
+   {
+    "ano": 2025,
+    "valor": 0.6
+   },
+   {
+    "ano": 2026,
+    "valor": 0.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2002",
+    "clube": "RS Futebol",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2004",
+    "clube": "Juventude",
+    "obs": null
+   },
+   {
+    "ano": "2004",
+    "clube": "Porto",
+    "obs": "€2,5 mi"
+   },
+   {
+    "ano": "2005",
+    "clube": "Dínamo Moscou",
+    "obs": "€3,5 mi"
+   },
+   {
+    "ano": "2006",
+    "clube": "Fluminense",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2007",
+    "clube": "Fluminense",
+    "obs": "€2 mi"
+   },
+   {
+    "ano": "2009",
+    "clube": "Milan",
+    "obs": "€10 mi"
+   },
+   {
+    "ano": "2012",
+    "clube": "PSG",
+    "obs": "€42 mi"
+   },
+   {
+    "ano": "2020",
+    "clube": "Chelsea",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Porto",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "42 anos; contrato até dez/2026",
+    "tipo": "info"
+   },
+   {
+    "texto": "Ex-Milan, PSG e Chelsea",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Não se reapresentou em 10/11: ficou de folga com a família em Londres.",
+    "fonte": "Bolavip, 11/11/2026"
+   },
+   {
+    "texto": "O PSG pagou €42 milhões por ele ao Milan em 2012; chegou a valer €40 milhões.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Voltou ao Fluminense em julho de 2026, depois de passagem curta pelo Porto.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/guilherme-arana": {
+  "nome": "Guilherme Arana",
+  "numero": 13,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 9,
+  "idade": 29,
+  "nascimento": "14/04/1997",
+  "altura": "1,76 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "02/01/2026",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 6,
+  "picoValor": 14,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 42,
+    "g": 2,
+    "a": 1,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 13,
+    "min": 2561
+   },
+   "bra": {
+    "j": 20,
+    "g": 1,
+    "a": 1,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 1196
+   },
+   "lib": {
+    "j": 10,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 608
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 290
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 5
+   },
+   {
+    "ano": 2021,
+    "valor": 11
+   },
+   {
+    "ano": 2022,
+    "valor": 14
+   },
+   {
+    "ano": 2023,
+    "valor": 10
+   },
+   {
+    "ano": 2024,
+    "valor": 13
+   },
+   {
+    "ano": 2025,
+    "valor": 7
+   },
+   {
+    "ano": 2026,
+    "valor": 6
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2015",
+    "clube": "Corinthians",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Atlético-PR",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Sevilla",
+    "obs": "€11 mi"
+   },
+   {
+    "ano": "2019",
+    "clube": "Atalanta",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Atlético-MG",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Atlético-MG",
+    "obs": "€2,5 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "€5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Reforço de janeiro",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Custou €5 milhões ao Atlético-MG; chegou a valer €14 milhões em 2022.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/rene": {
+  "nome": "Renê",
+  "numero": 6,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 10,
+  "idade": 34,
+  "nascimento": "14/09/1992",
+  "altura": "1,74 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "09/01/2025",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 0.4,
+  "picoValor": 3,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 37,
+    "g": 0,
+    "a": 2,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 2898
+   },
+   "bra": {
+    "j": 24,
+    "g": 0,
+    "a": 2,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 1893
+   },
+   "lib": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 485
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 1.6
+   },
+   {
+    "ano": 2021,
+    "valor": 1
+   },
+   {
+    "ano": 2022,
+    "valor": 0.9
+   },
+   {
+    "ano": 2023,
+    "valor": 0.9
+   },
+   {
+    "ano": 2024,
+    "valor": 0.8
+   },
+   {
+    "ano": 2025,
+    "valor": 0.5
+   },
+   {
+    "ano": 2026,
+    "valor": 0.4
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2011",
+    "clube": "Sport sub-20",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "Sport",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Flamengo",
+    "obs": "€950 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Internacional",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Ex-Flamengo",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 2 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Lateral esquerdo com mais minutos na temporada: 2.898.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Jogou pelo Flamengo de 2017 a 2021.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/guga": {
+  "nome": "Guga",
+  "numero": 23,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 11,
+  "idade": 28,
+  "nascimento": "29/08/1998",
+  "altura": "1,73 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Portugal",
+  "noClubeDesde": "01/01/2023",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 2,
+  "picoValor": 7,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 42,
+    "g": 1,
+    "a": 4,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 3016
+   },
+   "bra": {
+    "j": 20,
+    "g": 1,
+    "a": 2,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 1451
+   },
+   "lib": {
+    "j": 11,
+    "g": 0,
+    "a": 1,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 894
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 270
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 5
+   },
+   {
+    "ano": 2021,
+    "valor": 6
+   },
+   {
+    "ano": 2022,
+    "valor": 5
+   },
+   {
+    "ano": 2023,
+    "valor": 3.5
+   },
+   {
+    "ano": 2024,
+    "valor": 2
+   },
+   {
+    "ano": 2025,
+    "valor": 2
+   },
+   {
+    "ano": 2026,
+    "valor": 2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2018",
+    "clube": "Avaí",
+    "obs": null
+   },
+   {
+    "ano": "2019",
+    "clube": "Atlético-MG",
+    "obs": "€1,8 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Fluminense",
+    "obs": "€1,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Líder de assistências da defesa (4)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Fez o gol do Fluminense na derrota para a Chapecoense, em 24/10.",
+    "fonte": "Transfermarkt (súmula)"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/julio-fidelis": {
+  "nome": "Julio Fidelis",
+  "numero": 46,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 12,
+  "idade": 20,
+  "nascimento": "06/11/2006",
+  "altura": "1,79 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "30/04/2031",
+  "valorMercado": 0.5,
+  "picoValor": 0.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 352
+   },
+   "bra": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 172
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.3
+   },
+   {
+    "ano": 2026,
+    "valor": 0.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Cria de Xerém, 20 anos",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Contrato até abril de 2031.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/samuel-xavier": {
+  "nome": "Samuel Xavier",
+  "numero": 2,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 13,
+  "idade": 36,
+  "nascimento": "06/06/1990",
+  "altura": "1,66 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "05/03/2021",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 0.2,
+  "picoValor": 2,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 29,
+    "g": 0,
+    "a": 1,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 2048
+   },
+   "bra": {
+    "j": 20,
+    "g": 0,
+    "a": 0,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 1453
+   },
+   "lib": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 186
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.8
+   },
+   {
+    "ano": 2021,
+    "valor": 1
+   },
+   {
+    "ano": 2022,
+    "valor": 0.9
+   },
+   {
+    "ano": 2023,
+    "valor": 0.45
+   },
+   {
+    "ano": 2024,
+    "valor": 0.35
+   },
+   {
+    "ano": 2025,
+    "valor": 0.25
+   },
+   {
+    "ano": 2026,
+    "valor": 0.2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2010",
+    "clube": "Paulista",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "São Caetano",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Ceará",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Sport",
+    "obs": "€120 mi"
+   },
+   {
+    "ano": "2018",
+    "clube": "Atlético-MG",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Ceará",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Ceará",
+    "obs": "€180 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Capitão",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 5 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "É o capitão do time, segundo o Transfermarkt; está no clube desde 2021.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/martinelli": {
+  "nome": "Martinelli",
+  "numero": 8,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 14,
+  "idade": 25,
+  "nascimento": "05/10/2001",
+  "altura": "1,76 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/07/2020",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 18,
+  "picoValor": 18,
+  "lesao": "Cirurgia no joelho",
+  "numeros": {
+   "all": {
+    "j": 41,
+    "g": 1,
+    "a": 5,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 3223
+   },
+   "bra": {
+    "j": 22,
+    "g": 0,
+    "a": 3,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1807
+   },
+   "lib": {
+    "j": 8,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 650
+   },
+   "cdb": {
+    "j": 3,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 189
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 3
+   },
+   {
+    "ano": 2022,
+    "valor": 4
+   },
+   {
+    "ano": 2023,
+    "valor": 7
+   },
+   {
+    "ano": 2024,
+    "valor": 9
+   },
+   {
+    "ano": 2025,
+    "valor": 14
+   },
+   {
+    "ano": 2026,
+    "valor": 18
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Fluminense sub-20",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Fluminense",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Lesionado: joelho",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Maior valor do elenco (€18 mi)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 5 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Fez artroscopia no joelho esquerdo em 26/10 por lesão no menisco; retorno no Brasileirão é visto como improvável.",
+    "fonte": "Terra, 05/11/2026"
+   },
+   {
+    "texto": "Valor de mercado atual (€18 mi) é o maior do elenco e da carreira.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Cria do clube, no profissional desde 2020.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/otavio": {
+  "nome": "Otávio",
+  "numero": 94,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 15,
+  "idade": 32,
+  "nascimento": "04/05/1994",
+  "altura": "1,73 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "19/02/2025",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 1,
+  "picoValor": 8,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 15,
+    "g": 0,
+    "a": 0,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 665
+   },
+   "bra": {
+    "j": 8,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 339
+   },
+   "lib": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 1
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 81
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 7
+   },
+   {
+    "ano": 2021,
+    "valor": 6
+   },
+   {
+    "ano": 2022,
+    "valor": 6
+   },
+   {
+    "ano": 2023,
+    "valor": 4.5
+   },
+   {
+    "ano": 2024,
+    "valor": 4
+   },
+   {
+    "ano": 2025,
+    "valor": 2
+   },
+   {
+    "ano": 2026,
+    "valor": 1
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2013",
+    "clube": "Atlético-PR B",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Atlético-PR",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Bordeaux",
+    "obs": "€5 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Atlético-MG",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Atlético-MG",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "€1,37 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Ex-Bordeaux",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 2 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Jogou cinco temporadas no Bordeaux, da França.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/hercules": {
+  "nome": "Hércules",
+  "numero": 35,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 16,
+  "idade": 26,
+  "nascimento": "20/10/2000",
+  "altura": "1,78 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 15,
+  "picoValor": 15,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 48,
+    "g": 6,
+    "a": 1,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 13,
+    "min": 3098
+   },
+   "bra": {
+    "j": 29,
+    "g": 4,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 1747
+   },
+   "lib": {
+    "j": 12,
+    "g": 2,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 808
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 338
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2022,
+    "valor": 1
+   },
+   {
+    "ano": 2023,
+    "valor": 3
+   },
+   {
+    "ano": 2024,
+    "valor": 6
+   },
+   {
+    "ano": 2025,
+    "valor": 12
+   },
+   {
+    "ano": 2026,
+    "valor": 15
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2020",
+    "clube": "Atlético-CE sub-20",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Crato",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Atlético-CE",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Fortaleza B",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Fortaleza",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "€4,55 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Maior valorização: €15 mi",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Fez gol na vitória sobre o Palmeiras (1 a 0) na semifinal da Libertadores e no 2 a 1 sobre o Inter.",
+    "fonte": "Transfermarkt (súmulas)"
+   },
+   {
+    "texto": "Comprado do Fortaleza por €4,55 milhões em 2025; hoje vale €15 milhões.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/nonato": {
+  "nome": "Nonato",
+  "numero": 16,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 17,
+  "idade": 28,
+  "nascimento": "03/03/1998",
+  "altura": "1,75 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Itália",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 2,
+  "picoValor": 3,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 34,
+    "g": 2,
+    "a": 4,
+    "am": 10,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 2198
+   },
+   "bra": {
+    "j": 20,
+    "g": 1,
+    "a": 3,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 1404
+   },
+   "lib": {
+    "j": 7,
+    "g": 1,
+    "a": 0,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 530
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 137
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 2.7
+   },
+   {
+    "ano": 2021,
+    "valor": 1.8
+   },
+   {
+    "ano": 2022,
+    "valor": 2
+   },
+   {
+    "ano": 2023,
+    "valor": 1.7
+   },
+   {
+    "ano": 2024,
+    "valor": 1.2
+   },
+   {
+    "ano": 2025,
+    "valor": 1.2
+   },
+   {
+    "ano": 2026,
+    "valor": 2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "São Caetano",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Internacional",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Internacional",
+    "obs": "€500 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Fluminense",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Ludogorets",
+    "obs": "€1,7 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Santos",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Santos",
+    "obs": "€500 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Fluminense",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "6 amarelos no Brasileirão",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Voltou em definitivo em 2026, depois de dois empréstimos ao clube.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/alisson": {
+  "nome": "Alisson",
+  "numero": 25,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 18,
+  "idade": 33,
+  "nascimento": "25/06/1993",
+  "altura": "1,74 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "06/03/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 0.8,
+  "picoValor": 4,
+  "lesao": "Em recuperação",
+  "numeros": {
+   "all": {
+    "j": 11,
+    "g": 0,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 387
+   },
+   "bra": {
+    "j": 8,
+    "g": 0,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 254
+   },
+   "lib": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 43
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 4
+   },
+   {
+    "ano": 2021,
+    "valor": 1.5
+   },
+   {
+    "ano": 2022,
+    "valor": 1
+   },
+   {
+    "ano": 2023,
+    "valor": 1.5
+   },
+   {
+    "ano": 2024,
+    "valor": 2
+   },
+   {
+    "ano": 2025,
+    "valor": 1.3
+   },
+   {
+    "ano": 2026,
+    "valor": 0.8
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2012",
+    "clube": "Cruzeiro",
+    "obs": null
+   },
+   {
+    "ano": "2013",
+    "clube": "Vasco",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Grêmio",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "São Paulo",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "empréstimo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Em recuperação",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Emprestado pelo São Paulo",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Iniciou transição física e deve voltar depois da Data Fifa.",
+    "fonte": "Terra, 05/11/2026"
+   },
+   {
+    "texto": "Está emprestado pelo São Paulo, o próximo adversário, até dez/2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/luciano-acosta": {
+  "nome": "Luciano Acosta",
+  "numero": 32,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 19,
+  "idade": 32,
+  "nascimento": "31/05/1994",
+  "altura": "1,60 m",
+  "pe": "Direito",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "08/08/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 5,
+  "picoValor": 8,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 50,
+    "g": 8,
+    "a": 7,
+    "am": 14,
+    "am2": 0,
+    "v": 0,
+    "banco": 18,
+    "min": 2705
+   },
+   "bra": {
+    "j": 29,
+    "g": 6,
+    "a": 5,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 1623
+   },
+   "lib": {
+    "j": 10,
+    "g": 1,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 482
+   },
+   "cdb": {
+    "j": 3,
+    "g": 1,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 197
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 4
+   },
+   {
+    "ano": 2021,
+    "valor": 2.5
+   },
+   {
+    "ano": 2022,
+    "valor": 4.5
+   },
+   {
+    "ano": 2023,
+    "valor": 8
+   },
+   {
+    "ano": 2024,
+    "valor": 8
+   },
+   {
+    "ano": 2025,
+    "valor": 5
+   },
+   {
+    "ano": 2026,
+    "valor": 5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2014",
+    "clube": "Boca Juniors",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Estudiantes",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2016",
+    "clube": "D.C. United",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "D.C. United",
+    "obs": "€1,3 mi"
+   },
+   {
+    "ano": "2020",
+    "clube": "Atlas",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Cincinnati",
+    "obs": "€2,5 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Dallas",
+    "obs": "€5,65 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "€3,4 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Líder de assistências (7)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Mais amarelos do elenco (14)",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Fez o gol da virada sobre o Internacional saindo do banco, em 28/10.",
+    "fonte": "Lance!, 05/11/2026"
+   },
+   {
+    "texto": "Líder de assistências do time na temporada (7) e no Brasileirão (5).",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/ganso": {
+  "nome": "Ganso",
+  "numero": 10,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 20,
+  "idade": 37,
+  "nascimento": "12/10/1989",
+  "altura": "1,84 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "31/01/2019",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 0.3,
+  "picoValor": 18,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 42,
+    "g": 2,
+    "a": 2,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 23,
+    "min": 1787
+   },
+   "bra": {
+    "j": 25,
+    "g": 0,
+    "a": 1,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 15,
+    "min": 995
+   },
+   "lib": {
+    "j": 9,
+    "g": 0,
+    "a": 1,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 465
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 52
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 1.6
+   },
+   {
+    "ano": 2021,
+    "valor": 0.7
+   },
+   {
+    "ano": 2022,
+    "valor": 0.7
+   },
+   {
+    "ano": 2023,
+    "valor": 0.7
+   },
+   {
+    "ano": 2024,
+    "valor": 0.5
+   },
+   {
+    "ano": 2025,
+    "valor": 0.35
+   },
+   {
+    "ano": 2026,
+    "valor": 0.3
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2008",
+    "clube": "Santos",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "São Paulo",
+    "obs": "€9 mi"
+   },
+   {
+    "ano": "2016",
+    "clube": "Sevilla",
+    "obs": "€9,5 mi"
+   },
+   {
+    "ano": "2018",
+    "clube": "Amiens",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   },
+   {
+    "texto": "Saiu do banco em 23 jogos",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 2 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Vínculo termina em 31/12/2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "O Sevilla pagou €9,5 milhões por ele ao São Paulo em 2016.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/jefferson-savarino": {
+  "nome": "Jefferson Savarino",
+  "numero": 11,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 21,
+  "idade": 30,
+  "nascimento": "11/11/1996",
+  "altura": "1,68 m",
+  "pe": "Direito",
+  "nat": "VEN",
+  "nacionalidades": "Venezuela / Itália",
+  "noClubeDesde": "22/01/2026",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 8,
+  "picoValor": 10,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 43,
+    "g": 10,
+    "a": 3,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 14,
+    "min": 2493
+   },
+   "bra": {
+    "j": 25,
+    "g": 7,
+    "a": 2,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 1482
+   },
+   "lib": {
+    "j": 10,
+    "g": 1,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 606
+   },
+   "cdb": {
+    "j": 3,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 204
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 2
+   },
+   {
+    "ano": 2021,
+    "valor": 8
+   },
+   {
+    "ano": 2022,
+    "valor": 5
+   },
+   {
+    "ano": 2023,
+    "valor": 4
+   },
+   {
+    "ano": 2024,
+    "valor": 9
+   },
+   {
+    "ano": 2025,
+    "valor": 9
+   },
+   {
+    "ano": 2026,
+    "valor": 8
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2017",
+    "clube": "Real Salt Lake",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Real Salt Lake",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Atlético-MG",
+    "obs": "€1,8 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Real Salt Lake",
+    "obs": "€2,25 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Botafogo",
+    "obs": "€2,45 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "€6,4 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Venezuela até 17/11: pode desfalcar",
+    "tipo": "alert"
+   },
+   {
+    "texto": "10 gols na temporada",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado pela Venezuela; pela viagem longa, a presença contra o São Paulo é considerada improvável.",
+    "fonte": "Correio Braziliense, 11/11/2026"
+   },
+   {
+    "texto": "Abriu o placar no 3 a 0 sobre o Vitória, em 06/11.",
+    "fonte": "Transfermarkt (súmula)"
+   },
+   {
+    "texto": "Ex-Botafogo, custou €6,4 milhões em janeiro.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/yeferson-soteldo": {
+  "nome": "Yeferson Soteldo",
+  "numero": 30,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 22,
+  "idade": 29,
+  "nascimento": "30/06/1997",
+  "altura": "1,60 m",
+  "pe": "Direito",
+  "nat": "VEN",
+  "nacionalidades": "Venezuela",
+  "noClubeDesde": "10/06/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 3,
+  "picoValor": 10,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 35,
+    "g": 0,
+    "a": 2,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 18,
+    "min": 1579
+   },
+   "bra": {
+    "j": 22,
+    "g": 0,
+    "a": 2,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 1107
+   },
+   "lib": {
+    "j": 9,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 408
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 23
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 8
+   },
+   {
+    "ano": 2021,
+    "valor": 7
+   },
+   {
+    "ano": 2022,
+    "valor": 7
+   },
+   {
+    "ano": 2023,
+    "valor": 5
+   },
+   {
+    "ano": 2024,
+    "valor": 7
+   },
+   {
+    "ano": 2025,
+    "valor": 4
+   },
+   {
+    "ano": 2026,
+    "valor": 3
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2013",
+    "clube": "Zamora",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Huachipato",
+    "obs": "€1,45 mi"
+   },
+   {
+    "ano": "2018",
+    "clube": "Universidad de Chile",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Santos",
+    "obs": "€3,05 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Toronto",
+    "obs": "€5,35 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Tigres",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Santos",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Santos",
+    "obs": "€3,65 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Grêmio",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "€4,8 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Ex-Santos e Grêmio",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Chegou a valer €10 milhões em 2019, no Santos.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/wesley-nata": {
+  "nome": "Wesley Natã",
+  "numero": 34,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 23,
+  "idade": 18,
+  "nascimento": "18/04/2008",
+  "altura": "1,73 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "2026",
+  "contratoAte": "31/05/2028",
+  "valorMercado": 1,
+  "picoValor": 1,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 10,
+    "g": 1,
+    "a": 2,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 194
+   },
+   "bra": {
+    "j": 6,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 142
+   },
+   "lib": {
+    "j": 3,
+    "g": 1,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 26
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2026,
+    "valor": 1
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2026",
+    "clube": "Fluminense sub-20",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "18 anos, revelação",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Fez o gol do Fluminense na derrota por 2 a 1 para o Palmeiras na ida da semifinal da Libertadores.",
+    "fonte": "Transfermarkt (súmula)"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/matheus-reis": {
+  "nome": "Matheus Reis",
+  "numero": 15,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 24,
+  "idade": 19,
+  "nascimento": "02/04/2007",
+  "altura": "1,80 m",
+  "pe": "Direito",
+  "nat": "MEX",
+  "nacionalidades": "México / Brasil",
+  "noClubeDesde": "26/01/2026",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 0,
+  "picoValor": null,
+  "lesao": "Lesão no joelho",
+  "numeros": {
+   "all": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 166
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2026,
+    "valor": 0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Lesionado: joelho",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Recupera-se de cirurgia no joelho e iniciou transição; dificilmente joga em 2026.",
+    "fonte": "Terra, 05/11/2026"
+   },
+   {
+    "texto": "Ainda não tem valor de mercado no Transfermarkt.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/agustin-canobbio": {
+  "nome": "Agustín Canobbio",
+  "numero": 17,
+  "pos": "PD",
+  "grupo": 7,
+  "ordem": 25,
+  "idade": 28,
+  "nascimento": "01/10/1998",
+  "altura": "1,76 m",
+  "pe": "Direito",
+  "nat": "URU",
+  "nacionalidades": "Uruguai / Itália",
+  "noClubeDesde": "10/01/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 9,
+  "picoValor": 9,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 47,
+    "g": 9,
+    "a": 4,
+    "am": 12,
+    "am2": 1,
+    "v": 1,
+    "banco": 3,
+    "min": 3465
+   },
+   "bra": {
+    "j": 25,
+    "g": 6,
+    "a": 4,
+    "am": 8,
+    "am2": 0,
+    "v": 1,
+    "banco": 2,
+    "min": 1833
+   },
+   "lib": {
+    "j": 11,
+    "g": 2,
+    "a": 0,
+    "am": 0,
+    "am2": 1,
+    "v": 0,
+    "banco": 1,
+    "min": 791
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 302
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.575
+   },
+   {
+    "ano": 2021,
+    "valor": 1.2
+   },
+   {
+    "ano": 2022,
+    "valor": 4
+   },
+   {
+    "ano": 2023,
+    "valor": 5
+   },
+   {
+    "ano": 2024,
+    "valor": 4.5
+   },
+   {
+    "ano": 2025,
+    "valor": 6
+   },
+   {
+    "ano": 2026,
+    "valor": 9
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2016",
+    "clube": "Fénix",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Peñarol",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Fénix",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Peñarol",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Athletico-PR",
+    "obs": "€3,3 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": "€6 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Uruguai até 17/11: pode desfalcar",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Jogador de linha com mais minutos",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 8 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Convocado pelo Uruguai; a tendência é começar no banco contra o São Paulo.",
+    "fonte": "Correio Braziliense, 11/11/2026"
+   },
+   {
+    "texto": "Jogador de linha com mais minutos na temporada: 3.465.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Tem 8 amarelos e um vermelho direto no Brasileirão.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/riquelme": {
+  "nome": "Riquelme",
+  "numero": 28,
+  "pos": "PD",
+  "grupo": 7,
+  "ordem": 26,
+  "idade": 19,
+  "nascimento": "13/03/2007",
+  "altura": "1,75 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "11/01/2025",
+  "contratoAte": "31/08/2030",
+  "valorMercado": 6,
+  "picoValor": 6,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 9,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 283
+   },
+   "bra": {
+    "j": 7,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 103
+   },
+   "lib": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 6
+   },
+   {
+    "ano": 2026,
+    "valor": 6
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2025",
+    "clube": "Fluminense",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Brasil sub-20 na Data Fifa",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado para dois amistosos do Brasil sub-20 contra o Peru, em 13 e 16/11, em Belém.",
+    "fonte": "Bolavip, 10/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/kevin-serna": {
+  "nome": "Kevin Serna",
+  "numero": 90,
+  "pos": "PD",
+  "grupo": 7,
+  "ordem": 27,
+  "idade": 28,
+  "nascimento": "17/12/1997",
+  "altura": "1,82 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia / Peru",
+  "noClubeDesde": "22/07/2024",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 5,
+  "picoValor": 5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 54,
+    "g": 10,
+    "a": 4,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 29,
+    "min": 2609
+   },
+   "bra": {
+    "j": 33,
+    "g": 4,
+    "a": 4,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 16,
+    "min": 1676
+   },
+   "lib": {
+    "j": 10,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 326
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 93
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.25
+   },
+   {
+    "ano": 2021,
+    "valor": 0.375
+   },
+   {
+    "ano": 2022,
+    "valor": 0.7
+   },
+   {
+    "ano": 2023,
+    "valor": 1
+   },
+   {
+    "ano": 2024,
+    "valor": 1.2
+   },
+   {
+    "ano": 2025,
+    "valor": 5
+   },
+   {
+    "ano": 2026,
+    "valor": 5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2018",
+    "clube": "Perafita",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Serzedo",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Sportivo Luqueño",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Santa Rosa",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "AD Tarma",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "Alianza Lima",
+    "obs": "€230 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Fluminense",
+    "obs": "€1,65 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Mais vezes saiu do banco (29)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Opção para os lados do ataque se Savarino e Canobbio não chegarem a tempo.",
+    "fonte": "Bolavip, 07/11/2026"
+   },
+   {
+    "texto": "10 gols na temporada, empatado com Savarino como segundo artilheiro.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/john-kennedy": {
+  "nome": "John Kennedy",
+  "numero": 9,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 28,
+  "idade": 24,
+  "nascimento": "18/05/2002",
+  "altura": "1,73 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2021",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 12,
+  "picoValor": 12,
+  "lesao": "Ligamento do joelho",
+  "numeros": {
+   "all": {
+    "j": 38,
+    "g": 14,
+    "a": 2,
+    "am": 5,
+    "am2": 0,
+    "v": 1,
+    "banco": 9,
+    "min": 2371
+   },
+   "bra": {
+    "j": 18,
+    "g": 9,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 1,
+    "banco": 5,
+    "min": 1129
+   },
+   "lib": {
+    "j": 6,
+    "g": 2,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 283
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 299
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 1.8
+   },
+   {
+    "ano": 2022,
+    "valor": 3
+   },
+   {
+    "ano": 2023,
+    "valor": 7
+   },
+   {
+    "ano": 2024,
+    "valor": 5.5
+   },
+   {
+    "ano": 2025,
+    "valor": 6
+   },
+   {
+    "ano": 2026,
+    "valor": 12
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2021",
+    "clube": "Fluminense",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Ferroviária",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Pachuca",
+    "obs": "empréstimo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Fora até 2027: joelho",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Artilheiro do time (14)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Artilheiro do time no Brasileirão (9)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Rompeu o ligamento cruzado do joelho direito contra o Vasco, na Copa do Brasil, e só volta em 2027.",
+    "fonte": "Terra, 05/11/2026"
+   },
+   {
+    "texto": "Segue como artilheiro do time na temporada, com 14 gols.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Fez o gol do título da Libertadores de 2023, contra o Boca Juniors.",
+    "fonte": "Soccerway, 08/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/rodrigo-castillo": {
+  "nome": "Rodrigo Castillo",
+  "numero": 19,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 29,
+  "idade": 27,
+  "nascimento": "26/02/1999",
+  "altura": "1,87 m",
+  "pe": "Direito",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "03/03/2026",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 6,
+  "picoValor": 6,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 31,
+    "g": 6,
+    "a": 1,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 19,
+    "min": 1276
+   },
+   "bra": {
+    "j": 21,
+    "g": 6,
+    "a": 1,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 13,
+    "min": 882
+   },
+   "lib": {
+    "j": 8,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 352
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 42
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2022,
+    "valor": 0.375
+   },
+   {
+    "ano": 2023,
+    "valor": 0.275
+   },
+   {
+    "ano": 2024,
+    "valor": 1.5
+   },
+   {
+    "ano": 2025,
+    "valor": 4
+   },
+   {
+    "ano": 2026,
+    "valor": 6
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "River Plate II",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Unión II",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Gimnasia II",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Gimnasia II",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Deportivo Madryn",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Gimnasia",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Lanús",
+    "obs": "€1,7 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "€8,6 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Reforço de março",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Tem 2 amarelos no Brasileirão: o próximo gera suspensão.",
+    "fonte": "Transfermarkt; conferir lista da imprensa"
+   },
+   {
+    "texto": "Fez gols contra o Santos (18/10) e o Vitória (06/11).",
+    "fonte": "Transfermarkt (súmulas)"
+   },
+   {
+    "texto": "Custou €8,6 milhões ao Lanús.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/hulk": {
+  "nome": "Hulk",
+  "numero": 7,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 30,
+  "idade": 40,
+  "nascimento": "25/07/1986",
+  "altura": "1,80 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/07/2026",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 1,
+  "picoValor": 48,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 23,
+    "g": 7,
+    "a": 6,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 1510
+   },
+   "bra": {
+    "j": 15,
+    "g": 6,
+    "a": 3,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 1007
+   },
+   "lib": {
+    "j": 6,
+    "g": 1,
+    "a": 2,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 462
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 41
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 2.5
+   },
+   {
+    "ano": 2021,
+    "valor": 2.5
+   },
+   {
+    "ano": 2022,
+    "valor": 2.5
+   },
+   {
+    "ano": 2023,
+    "valor": 2
+   },
+   {
+    "ano": 2024,
+    "valor": 1.5
+   },
+   {
+    "ano": 2025,
+    "valor": 1.2
+   },
+   {
+    "ano": 2026,
+    "valor": 1
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2003",
+    "clube": "Vitória sub-20",
+    "obs": null
+   },
+   {
+    "ano": "2005",
+    "clube": "Kawasaki Frontale",
+    "obs": null
+   },
+   {
+    "ano": "2006",
+    "clube": "Consadole Sapporo",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2007",
+    "clube": "Tokyo Verdy",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2008",
+    "clube": "Tokyo Verdy",
+    "obs": null
+   },
+   {
+    "ano": "2008",
+    "clube": "Porto",
+    "obs": "€19 mi"
+   },
+   {
+    "ano": "2012",
+    "clube": "Zenit",
+    "obs": "€40 mi"
+   },
+   {
+    "ano": "2016",
+    "clube": "Shanghai SIPG",
+    "obs": "€56 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Atlético-MG",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "40 anos; ex-Porto e Zenit",
+    "tipo": "info"
+   },
+   {
+    "texto": "6 assistências em 23 jogos",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Somou €115 milhões em transferências para Porto, Zenit e Shanghai SIPG.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Chegou em julho de 2026, sem custo, vindo do Atlético-MG.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense/jogadores/german-cano": {
+  "nome": "Germán Cano",
+  "numero": 14,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 31,
+  "idade": 38,
+  "nascimento": "02/01/1988",
+  "altura": "1,76 m",
+  "pe": "Direito",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "13/01/2022",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 0.5,
+  "picoValor": 3.3,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 16,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 16,
+    "min": 240
+   },
+   "bra": {
+    "j": 10,
+    "g": 1,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 142
+   },
+   "lib": {
+    "j": 5,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 65
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 33
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 3
+   },
+   {
+    "ano": 2021,
+    "valor": 1.8
+   },
+   {
+    "ano": 2022,
+    "valor": 2
+   },
+   {
+    "ano": 2023,
+    "valor": 1.8
+   },
+   {
+    "ano": 2024,
+    "valor": 1
+   },
+   {
+    "ano": 2025,
+    "valor": 0.6
+   },
+   {
+    "ano": 2026,
+    "valor": 0.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2007",
+    "clube": "Lanús",
+    "obs": null
+   },
+   {
+    "ano": "2009",
+    "clube": "Chacarita Juniors",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2011",
+    "clube": "Colón",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2011",
+    "clube": "Deportivo Pereira",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "Nacional",
+    "obs": null
+   },
+   {
+    "ano": "2012",
+    "clube": "Independiente Medellín",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Pachuca",
+    "obs": null
+   },
+   {
+    "ano": "2016",
+    "clube": "León",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Independiente Medellín",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Vasco",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Entrou saindo do banco em todos os 16 jogos da temporada.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   },
+   {
+    "texto": "Vínculo termina em 31/12/2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "fonteNumeros": "Transfermarkt"
+ },
+ "clubes/fluminense": {
+  "nome": "Fluminense",
+  "noClube": "No Fluminense",
+  "doClube": "do Fluminense",
+  "temporada": "2026",
+  "nomesCarreira": [
+   "Fluminense"
+  ],
+  "grupos": [
+   "Goleiros",
+   "Zagueiros",
+   "Laterais esquerdos",
+   "Laterais direitos",
+   "Volantes",
+   "Meias centrais",
+   "Meias ofensivos",
+   "Pontas",
+   "Centroavantes"
+  ],
+  "tecnico": {
+   "nome": "Marcão",
+   "idade": 54,
+   "nat": "BRA",
+   "desde": "14/08/2026",
+   "antecessor": "Luis Zubeldía"
+  },
+  "competicoes": [
+   {
+    "id": "bra",
+    "nome": "Brasileirão",
+    "de": "do Brasileirão"
+   },
+   {
+    "id": "lib",
+    "nome": "Libertadores",
+    "de": "da Libertadores"
+   },
+   {
+    "id": "cdb",
+    "nome": "Copa do Brasil",
+    "de": "da Copa do Brasil"
+   }
+  ],
+  "competicaoPadrao": "bra",
+  "cores": {
+   "a": "#7A0019",
+   "b": "#006B3F",
+   "padrao": "listras-verticais",
+   "destaque": "#7A0019",
+   "destaqueEscuro": "#B5707E"
+  },
+  "resumoPorCompeticao": {
+   "all": {
+    "texto": "Temporada 2026: vice-campeão carioca nos pênaltis contra o Flamengo, semifinalista da Libertadores, eliminado nas oitavas da Copa do Brasil e 4º no Brasileirão a quatro rodadas do fim.",
+    "fatos": [
+     {
+      "valor": "4º",
+      "rotulo": "no Brasileirão"
+     },
+     {
+      "valor": "Semi",
+      "rotulo": "na Libertadores"
+     },
+     {
+      "valor": "Vice",
+      "rotulo": "no Carioca"
+     },
+     {
+      "valor": "85",
+      "rotulo": "gols na temporada"
+     }
+    ]
+   },
+   "bra": {
+    "texto": "55 gols marcados e 42 sofridos. Faltam São Paulo (fora), Mirassol (casa), Cruzeiro (casa) e Bragantino (fora). Está 3 pontos atrás do Cruzeiro, 3º, e 3 à frente do Athletico-PR, 5º.",
+    "fatos": [
+     {
+      "valor": "4º",
+      "rotulo": "no Brasileirão"
+     },
+     {
+      "valor": "57",
+      "rotulo": "pontos em 34 jogos"
+     },
+     {
+      "valor": "−3",
+      "rotulo": "para o Cruzeiro, 3º"
+     },
+     {
+      "valor": "16-9-9",
+      "rotulo": "vitórias, empates, derrotas"
+     }
+    ]
+   },
+   "lib": {
+    "texto": "Caiu na semifinal para o Palmeiras: perdeu a ida por 2 a 1 no Maracanã, venceu a volta por 1 a 0 em São Paulo e perdeu nos pênaltis (5 a 4). Antes, eliminou Independiente Rivadavia, nos pênaltis, e Platense.",
+    "fatos": [
+     {
+      "valor": "Semi",
+      "rotulo": "eliminado pelo Palmeiras"
+     },
+     {
+      "valor": "12",
+      "rotulo": "jogos disputados"
+     },
+     {
+      "valor": "4-4-4",
+      "rotulo": "vitórias, empates, derrotas"
+     },
+     {
+      "valor": "13",
+      "rotulo": "gols marcados"
+     }
+    ]
+   },
+   "cdb": {
+    "texto": "Passou pelo Operário-PR na 5ª fase (0 a 0 e 2 a 1) e caiu nas oitavas para o Vasco: 0 a 0 em São Januário e derrota por 3 a 1 no Maracanã, em 05/08. John Kennedy rompeu o ligamento do joelho nesse jogo.",
+    "fatos": [
+     {
+      "valor": "Oitavas",
+      "rotulo": "eliminado pelo Vasco"
+     },
+     {
+      "valor": "1-3",
+      "rotulo": "no placar agregado"
+     },
+     {
+      "valor": "1-2-1",
+      "rotulo": "vitórias, empates, derrotas"
+     },
+     {
+      "valor": "4",
+      "rotulo": "jogos disputados"
+     }
+    ]
+   }
+  },
+  "tabela": {
+   "competicao": "Brasileirão",
+   "posicao": 4,
+   "pontos": 57,
+   "jogos": 34,
+   "v": 16,
+   "e": 9,
+   "d": 9,
+   "gp": 55,
+   "gc": 42,
+   "fonte": "CBF, via Wikipédia (jogos até 06/11/2026)"
+  },
+  "proximoJogo": "2026-11-19-sao-paulo-fluminense",
+  "notaTemporada": "Os números de “Temporada” seguem a temporada 25/26 do Transfermarkt e incluem os 10 jogos do Campeonato Carioca, que não tem filtro próprio.",
+  "rodape": [
+   "Dados de elenco, jogos, gols, assistências, cartões, minutos, contratos, valores de mercado e carreira: Transfermarkt, consultado em 12/11/2026. Classificação: CBF, via Wikipédia. Curiosidades com a fonte indicada no perfil de cada jogador. Jogadores emprestados a outros clubes (Léo Jance, Jhonny, Luis Fernando e Yago Ferreira) não entram na tabela.",
+   "* Pendurados calculados pelos amarelos no Brasileirão (suspensão a cada três). Conferir com a lista publicada pela imprensa antes do jogo."
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)",
+  "proximaAtualizacao": "Depois de São Paulo x Fluminense (19/11/2026); escalações na véspera (18/11)."
+ },
+ "clubes/fluminense/jogos/2026-10-14-palmeiras": {
+  "data": "2026-10-14",
+  "competicao": "Libertadores",
+  "fase": "semifinal, ida",
+  "mandante": "Fluminense",
+  "golsMandante": 1,
+  "golsVisitante": 2,
+  "visitante": "Palmeiras",
+  "autores": "Wesley Natã (Fluminense); José Manuel López e Marlon Freitas (Palmeiras)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-10-18-santos": {
+  "data": "2026-10-18",
+  "competicao": "Brasileirão",
+  "fase": "31ª",
+  "mandante": "Fluminense",
+  "golsMandante": 1,
+  "golsVisitante": 2,
+  "visitante": "Santos",
+  "autores": "Rodrigo Castillo (Fluminense); Gabriel Barbosa e Philippe Coutinho (Santos)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-10-21-palmeiras": {
+  "data": "2026-10-21",
+  "competicao": "Libertadores",
+  "fase": "semifinal, volta",
+  "mandante": "Palmeiras",
+  "golsMandante": 0,
+  "golsVisitante": 1,
+  "visitante": "Fluminense",
+  "autores": "Hércules (Fluminense)",
+  "obs": "Palmeiras classificado nos pênaltis (5 a 4), após 2 a 2 no agregado",
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-10-24-chapecoense": {
+  "data": "2026-10-24",
+  "competicao": "Brasileirão",
+  "fase": "32ª",
+  "mandante": "Chapecoense",
+  "golsMandante": 2,
+  "golsVisitante": 1,
+  "visitante": "Fluminense",
+  "autores": "Bolasie e Giovanni Augusto (Chapecoense); Guga (Fluminense)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-10-28-internacional": {
+  "data": "2026-10-28",
+  "competicao": "Brasileirão",
+  "fase": "33ª",
+  "mandante": "Fluminense",
+  "golsMandante": 2,
+  "golsVisitante": 1,
+  "visitante": "Internacional",
+  "autores": "Hércules e Luciano Acosta (Fluminense); Alan Patrick (Internacional)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-11-06-vitoria": {
+  "data": "2026-11-06",
+  "competicao": "Brasileirão",
+  "fase": "34ª",
+  "mandante": "Vitória",
+  "golsMandante": 0,
+  "golsVisitante": 3,
+  "visitante": "Fluminense",
+  "autores": "Savarino, Canobbio e Rodrigo Castillo (Fluminense)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-11-19-sao-paulo": {
+  "data": "2026-11-19",
+  "hora": "21h30",
+  "competicao": "Brasileirão",
+  "fase": "35ª",
+  "mandante": "São Paulo",
+  "visitante": "Fluminense",
+  "local": "Morumbis",
+  "status": "agendado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-11-22-mirassol": {
+  "data": "2026-11-22",
+  "hora": null,
+  "competicao": "Brasileirão",
+  "fase": "36ª",
+  "mandante": "Fluminense",
+  "visitante": "Mirassol",
+  "local": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-11-27-cruzeiro": {
+  "data": "2026-11-27",
+  "hora": null,
+  "competicao": "Brasileirão",
+  "fase": "37ª",
+  "mandante": "Fluminense",
+  "visitante": "Cruzeiro",
+  "local": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/fluminense/jogos/2026-12-02-bragantino": {
+  "data": "2026-12-02",
+  "hora": null,
+  "competicao": "Brasileirão",
+  "fase": "38ª",
+  "mandante": "Bragantino",
+  "visitante": "Fluminense",
+  "local": null,
+  "status": "agendado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/sao-paulo": {
+  "nome": "São Paulo",
+  "noClube": "No São Paulo",
+  "doClube": "do São Paulo",
+  "tecnico": {
+   "nome": "Dorival Júnior"
+  },
+  "tabela": {
+   "competicao": "Brasileirão",
+   "posicao": 10,
+   "pontos": 44,
+   "jogos": 34,
+   "fonte": "CBF, via Wikipédia"
+  },
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)"
+ },
+ "clubes/sao-paulo/jogos/2026-10-10-vitoria": {
+  "data": "2026-10-10",
+  "competicao": "Brasileirão",
+  "fase": "29ª",
+  "mandante": "São Paulo",
+  "golsMandante": 2,
+  "golsVisitante": 1,
+  "visitante": "Vitória",
+  "autores": "Calleri (2) (São Paulo); Emmanuel Martínez (Vitória)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/sao-paulo/jogos/2026-10-17-vasco": {
+  "data": "2026-10-17",
+  "competicao": "Brasileirão",
+  "fase": "30ª",
+  "mandante": "São Paulo",
+  "golsMandante": 1,
+  "golsVisitante": 0,
+  "visitante": "Vasco",
+  "autores": "Artur (São Paulo)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/sao-paulo/jogos/2026-10-24-mirassol": {
+  "data": "2026-10-24",
+  "competicao": "Brasileirão",
+  "fase": "32ª",
+  "mandante": "Mirassol",
+  "golsMandante": 1,
+  "golsVisitante": 1,
+  "visitante": "São Paulo",
+  "autores": "Rafael (Mirassol); Pedro Lima (São Paulo)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/sao-paulo/jogos/2026-10-28-bahia": {
+  "data": "2026-10-28",
+  "competicao": "Brasileirão",
+  "fase": "33ª",
+  "mandante": "Bahia",
+  "golsMandante": 3,
+  "golsVisitante": 2,
+  "visitante": "São Paulo",
+  "autores": "Rodrigo Nestor, Erick Pulga e Marcos Victor (Bahia); Lucas Moura e Bobadilla (São Paulo)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/sao-paulo/jogos/2026-11-04-corinthians": {
+  "data": "2026-11-04",
+  "competicao": "Brasileirão",
+  "fase": "34ª",
+  "mandante": "São Paulo",
+  "golsMandante": 0,
+  "golsVisitante": 0,
+  "visitante": "Corinthians",
+  "autores": null,
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "confrontos/sao-paulo-fluminense": {
+  "clubeA": "fluminense",
+  "geral": {
+   "jogos": 110,
+   "vitoriasA": 39,
+   "empates": 24,
+   "vitoriasB": 47,
+   "golsA": "nd",
+   "golsB": "nd",
+   "fonte": "Gazeta Esportiva, 16/05/2026 (109 jogos), somado ao 2 a 1 de 16/05/2026. Placar acumulado de gols não confirmado em fonte atual."
+  },
+  "ultimos10": {
+   "vitoriasA": 6,
+   "empates": 1,
+   "vitoriasB": 3
+  },
+  "observacoes": [
+   "O Fluminense venceu os dois últimos encontros: 6 a 0 em 27/11/2025 e 2 a 1 em 16/05/2026.",
+   "O 6 a 0 de 2025 é a maior vitória do Fluminense na história do confronto.",
+   "Perdeu as três últimas visitas ao São Paulo pelo Brasileirão (2023, 2024 e 2025)."
+  ],
+  "fontesObservacoes": "Transfermarkt; Itatiaia, 11/2025",
+  "ultimosEncontros": [
+   {
+    "data": "16/05/2026",
+    "texto": "Fluminense 2 x 1 São Paulo",
+    "comp": "Brasileirão, 16ª rodada"
+   },
+   {
+    "data": "27/11/2025",
+    "texto": "Fluminense 6 x 0 São Paulo",
+    "comp": "Brasileirão, 36ª rodada"
+   },
+   {
+    "data": "27/07/2025",
+    "texto": "São Paulo 3 x 1 Fluminense",
+    "comp": "Brasileirão, 17ª rodada"
+   },
+   {
+    "data": "01/09/2024",
+    "texto": "Fluminense 2 x 0 São Paulo",
+    "comp": "Brasileirão, 25ª rodada"
+   },
+   {
+    "data": "13/05/2024",
+    "texto": "São Paulo 2 x 1 Fluminense",
+    "comp": "Brasileirão, 6ª rodada"
+   }
+  ],
+  "fontesEncontros": "Transfermarkt",
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)"
+ },
+ "prejogos/2026-11-19-sao-paulo-fluminense": {
+  "mandante": "sao-paulo",
+  "visitante": "fluminense",
+  "confronto": "sao-paulo-fluminense",
+  "titulo": "São Paulo x Fluminense",
+  "competicao": "Brasileirão",
+  "rotulo": "35ª rodada do Brasileirão",
+  "rodada": "35ª",
+  "data": "19/11",
+  "diaSemana": "quinta-feira",
+  "hora": "21h30",
+  "local": "Morumbis",
+  "escalacoes": {
+   "status": "nao_divulgadas",
+   "aviso": "Os dois times estão na pausa da Data Fifa. As prováveis escalações entram aqui assim que forem publicadas, normalmente na véspera do jogo."
+  },
+  "situacaoMandante": {
+   "itens": [
+    {
+     "quem": "Newton, Luciano e Ferreirinha",
+     "texto": "receberam o terceiro amarelo e estão suspensos."
+    }
+   ],
+   "fonte": "Arquibancada Tricolor, 11/2026"
+  },
+  "situacaoVisitante": {
+   "itens": [
+    {
+     "quem": "Savarino",
+     "texto": "joga pela Venezuela até 17/11; pela viagem longa, a presença é considerada improvável."
+    },
+    {
+     "quem": "Canobbio",
+     "texto": "joga pelo Uruguai até 17/11; a tendência é começar no banco."
+    },
+    {
+     "quem": "Riquelme",
+     "texto": "disputa dois amistosos pelo Brasil sub-20, em 13 e 16/11."
+    },
+    {
+     "quem": "Ignácio",
+     "texto": "cumpriu suspensão contra o Vitória e está liberado."
+    },
+    {
+     "quem": "Martinelli e Millán",
+     "texto": "têm retorno improvável no Brasileirão; Alisson deve voltar depois da Data Fifa."
+    },
+    {
+     "quem": "John Kennedy e Matheus Reis",
+     "texto": "se recuperam de cirurgias no joelho e não devem jogar em 2026."
+    }
+   ],
+   "fonte": "Correio Braziliense e Bolavip, 10 e 11/11/2026; Lance!, 05/11/2026; Terra, 05/11/2026"
+  },
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (06/11/2026)"
+ },
+ "clubes/fluminense/noticias/2026-11-12-1": {
+  "data": "12/11",
+  "iso": "2026-11-12",
+  "texto": "John Kennedy postou nas redes uma mensagem sugerindo que a recuperação avança. Ele rompeu o ligamento do joelho em agosto e segue como artilheiro do time no ano.",
+  "fonte": "Netflu, 12/11/2026",
+  "url": "https://www.netflu.com.br/loading-atacante-do-fluminense-indica-estar-proximo-de-retorno-aos-gramados/"
+ },
+ "clubes/fluminense/noticias/2026-11-11-2": {
+  "data": "11/11",
+  "iso": "2026-11-11",
+  "texto": "Canobbio e Savarino são dúvidas para o São Paulo por causa da Data Fifa. Canobbio deve ficar no banco; a presença de Savarino é tratada como quase inviável pela viagem.",
+  "fonte": "Correio Braziliense, 11/11/2026",
+  "url": "https://1news.correiobraziliense.com.br/noticia/907104/esportes/fluminense-recebe-noticia-preocupante-sobre-canobbio-e-savarino-antes-de-decisao-contra-o-sao-paulo-11112026"
+ },
+ "clubes/fluminense/noticias/2026-11-11-3": {
+  "data": "11/11",
+  "iso": "2026-11-11",
+  "texto": "O elenco se reapresentou no CT Carlos Castilho sem Thiago Silva, que estendeu a folga com a família em Londres, e sem os convocados.",
+  "fonte": "Bolavip, 11/11/2026",
+  "url": "https://br.bolavip.com/fluminense/fluminense-volta-aos-treinos-sem-thiago-silva-e-convocados-antes-de-enfrentar-o-sao-paulo"
+ },
+ "clubes/fluminense/noticias/2026-11-10-4": {
+  "data": "10/11",
+  "iso": "2026-11-10",
+  "texto": "Três jogadores servem seleções na Data Fifa: Canobbio (Uruguai), Savarino (Venezuela) e Riquelme (Brasil sub-20, em Belém).",
+  "fonte": "Bolavip, 10/11/2026",
+  "url": "https://br.bolavip.com/fluminense/fluminense-tem-tres-convocados-na-data-fifa-e-monitora-retorno-antes-de-enfrentar-o-sao-paulo"
+ },
+ "clubes/fluminense/noticias/2026-11-05-5": {
+  "data": "05/11",
+  "iso": "2026-11-05",
+  "texto": "Boletim médico: Millán e Martinelli têm volta improvável no Brasileirão, Alisson deve retornar após a Data Fifa e Matheus Reis dificilmente joga em 2026.",
+  "fonte": "Terra, 05/11/2026",
+  "url": "https://www.terra.com.br/esportes/fluminense/millan-martinelli-alisson-e-matheus-reis-boletim-medico-do-fluminense,4403cb4dd01fbea3c841d0c4750aa30ay9xv3zo4.html"
+ },
+ "meta/base": {
+  "descricao": "Base de dados da página de elenco do Fluminense.",
+  "regraAtualizacao": "Atualizar apenas depois de cada jogo (números, fase recente, tabela e notícias) e na véspera do próximo jogo (escalações e desfalques). Sem novas buscas entre os jogos.",
+  "ultimaAtualizacao": "2026-11-12",
+  "proximaAtualizacao": "Depois de São Paulo x Fluminense (19/11/2026); escalações na véspera (18/11)."
+ }
+}

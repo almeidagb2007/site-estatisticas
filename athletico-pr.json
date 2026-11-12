@@ -1,0 +1,3918 @@
+{
+ "clubes/athletico-pr/jogadores/mycael": {
+  "nome": "Mycael",
+  "numero": 1,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 0,
+  "idade": 22,
+  "nascimento": "12/03/2004",
+  "altura": "1,91 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2023",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 5.0,
+  "picoValor": 5.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 16,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 1440
+   },
+   "bra": {
+    "j": 10,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 900
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2022,
+    "valor": 0.1
+   },
+   {
+    "ano": 2023,
+    "valor": 1.5
+   },
+   {
+    "ano": 2024,
+    "valor": 4.0
+   },
+   {
+    "ano": 2025,
+    "valor": 2.5
+   },
+   {
+    "ano": 2026,
+    "valor": 5.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2023",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Disputa a vaga com Santos",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Alvo de críticas da torcida; Odair avalia trocá-lo pelo veterano Santos contra o Flamengo.",
+    "fonte": "UmDois Esportes, 07/11/2026"
+   }
+  ],
+  "id": "mycael"
+ },
+ "clubes/athletico-pr/jogadores/santos": {
+  "nome": "Santos",
+  "numero": 23,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 1,
+  "idade": 36,
+  "nascimento": "17/03/1990",
+  "altura": "1,88 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "30/01/2025",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 400.0,
+  "picoValor": 400.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 30,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 2700
+   },
+   "bra": {
+    "j": 24,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 2160
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 360
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 2.0
+   },
+   {
+    "ano": 2020,
+    "valor": 3.0
+   },
+   {
+    "ano": 2021,
+    "valor": 3.5
+   },
+   {
+    "ano": 2022,
+    "valor": 3.0
+   },
+   {
+    "ano": 2023,
+    "valor": 1.7
+   },
+   {
+    "ano": 2024,
+    "valor": 0.8
+   },
+   {
+    "ano": 2025,
+    "valor": 0.4
+   },
+   {
+    "ano": 2026,
+    "valor": 0.4
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2010",
+    "clube": "Atlético-PR",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Flamengo",
+    "obs": "€3 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Fortaleza",
+    "obs": "€900 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": "empréstimo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Capitão",
+    "tipo": "info"
+   },
+   {
+    "texto": "Ex-Flamengo (2022–2024)",
+    "tipo": "info"
+   },
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Pode voltar ao gol no Maracanã: Odair avalia a troca com Mycael.",
+    "fonte": "UmDois Esportes, 07/11/2026"
+   },
+   {
+    "texto": "Jogou no Flamengo de 2022 a 2024, comprado do Athletico por €3 mi.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "santos"
+ },
+ "clubes/athletico-pr/jogadores/matheus-soares": {
+  "nome": "Matheus Soares",
+  "numero": 42,
+  "pos": "Goleiro",
+  "grupo": 0,
+  "ordem": 2,
+  "idade": 21,
+  "nascimento": "10/01/2005",
+  "altura": "1,90 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "05/07/2024",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 0,
+  "picoValor": 0.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 180
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [],
+  "carreira": [
+   {
+    "ano": "2023",
+    "clube": "Athletico U20",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Athletico-PR",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "matheus-soares"
+ },
+ "clubes/athletico-pr/jogadores/arthur-dias": {
+  "nome": "Arthur Dias",
+  "numero": 4,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 3,
+  "idade": 19,
+  "nascimento": "10/04/2007",
+  "altura": "1,88 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 15.0,
+  "picoValor": 15.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 37,
+    "g": 1,
+    "a": 0,
+    "am": 10,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 3159
+   },
+   "bra": {
+    "j": 31,
+    "g": 1,
+    "a": 0,
+    "am": 8,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 2619
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 360
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.6
+   },
+   {
+    "ano": 2026,
+    "valor": 15.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2024",
+    "clube": "Athletico U20",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Seleção: Japão (14/11) e Singapura (17/11)",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Mais amarelos do elenco (10)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Convocado por Ancelotti para os amistosos em Singapura; a volta da Ásia na véspera torna difícil jogar no Maracanã.",
+    "fonte": "UmDois Esportes, 01/11/2026"
+   },
+   {
+    "texto": "Aos 19 anos, estreou na seleção na vitória por 4 a 2 sobre a Austrália e foi titular nos 4 a 0 sobre a Índia.",
+    "fonte": "UmDois Esportes, 29/10/2026"
+   },
+   {
+    "texto": "Valor de mercado subiu de €600 mil para €15 mi em 2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "arthur-dias"
+ },
+ "clubes/athletico-pr/jogadores/carlos-teran": {
+  "nome": "Carlos Terán",
+  "numero": 22,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 4,
+  "idade": 26,
+  "nascimento": "24/09/2000",
+  "altura": "1,88 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "25/08/2025",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 4.0,
+  "picoValor": 4.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 18,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 1198
+   },
+   "bra": {
+    "j": 17,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 1108
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.2
+   },
+   {
+    "ano": 2020,
+    "valor": 0.2
+   },
+   {
+    "ano": 2021,
+    "valor": 0.2
+   },
+   {
+    "ano": 2022,
+    "valor": 1.0
+   },
+   {
+    "ano": 2023,
+    "valor": 2.0
+   },
+   {
+    "ano": 2024,
+    "valor": 2.0
+   },
+   {
+    "ano": 2025,
+    "valor": 1.5
+   },
+   {
+    "ano": 2026,
+    "valor": 4.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Envigado",
+    "obs": null
+   },
+   {
+    "ano": "2020",
+    "clube": "Chicago Fire",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "carlos-teran"
+ },
+ "clubes/athletico-pr/jogadores/juan-felipe-aguirre": {
+  "nome": "Juan Felipe Aguirre",
+  "numero": 33,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 5,
+  "idade": 30,
+  "nascimento": "29/08/1996",
+  "altura": "1,86 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "08/07/2025",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 2.0,
+  "picoValor": 2.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 36,
+    "g": 1,
+    "a": 0,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 2978
+   },
+   "bra": {
+    "j": 29,
+    "g": 1,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 2348
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 270
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2018,
+    "valor": 0.5
+   },
+   {
+    "ano": 2020,
+    "valor": 0.4
+   },
+   {
+    "ano": 2021,
+    "valor": 0.4
+   },
+   {
+    "ano": 2022,
+    "valor": 0.7
+   },
+   {
+    "ano": 2023,
+    "valor": 0.9
+   },
+   {
+    "ano": 2024,
+    "valor": 0.85
+   },
+   {
+    "ano": 2025,
+    "valor": 0.8
+   },
+   {
+    "ano": 2026,
+    "valor": 2.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2016",
+    "clube": "Leones FC",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Celaya",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Wanderers",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Atl. Nacional",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "juan-felipe-aguirre"
+ },
+ "clubes/athletico-pr/jogadores/leo": {
+  "nome": "Léo",
+  "numero": 3,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 6,
+  "idade": 30,
+  "nascimento": "06/03/1996",
+  "altura": "1,83 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "02/01/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 1.2,
+  "picoValor": 3.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 7,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 505
+   },
+   "bra": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 145
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2015,
+    "valor": 0.5
+   },
+   {
+    "ano": 2016,
+    "valor": 0.65
+   },
+   {
+    "ano": 2017,
+    "valor": 0.7
+   },
+   {
+    "ano": 2018,
+    "valor": 1.0
+   },
+   {
+    "ano": 2019,
+    "valor": 1.3
+   },
+   {
+    "ano": 2020,
+    "valor": 1.9
+   },
+   {
+    "ano": 2021,
+    "valor": 2.7
+   },
+   {
+    "ano": 2022,
+    "valor": 3.0
+   },
+   {
+    "ano": 2023,
+    "valor": 3.2
+   },
+   {
+    "ano": 2024,
+    "valor": 2.0
+   },
+   {
+    "ano": 2025,
+    "valor": 1.5
+   },
+   {
+    "ano": 2026,
+    "valor": 1.2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2014",
+    "clube": "Fluminense",
+    "obs": null
+   },
+   {
+    "ano": "2016",
+    "clube": "Londrina",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Bahia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2019",
+    "clube": "São Paulo",
+    "obs": "€700 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Vasco",
+    "obs": "€2,8 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": "€1,95 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Ex-Fluminense, São Paulo e Vasco",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "leo"
+ },
+ "clubes/athletico-pr/jogadores/dantas": {
+  "nome": "Dantas",
+  "numero": 25,
+  "pos": "ZAG",
+  "grupo": 1,
+  "ordem": 7,
+  "idade": 22,
+  "nascimento": "25/07/2004",
+  "altura": "1,89 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "09/07/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 700.0,
+  "picoValor": 700.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 7,
+    "g": 0,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 524
+   },
+   "bra": {
+    "j": 7,
+    "g": 0,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 524
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.5
+   },
+   {
+    "ano": 2026,
+    "valor": 0.7
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2025",
+    "clube": "Novorizontino",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "empréstimo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Suspenso: 3º amarelo",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Emprestado pelo Novorizontino",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Cumpre suspensão pelo terceiro amarelo contra o Flamengo.",
+    "fonte": "UmDois Esportes, 07/11/2026"
+   }
+  ],
+  "id": "dantas"
+ },
+ "clubes/athletico-pr/jogadores/lucas-esquivel": {
+  "nome": "Lucas Esquivel",
+  "numero": 37,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 8,
+  "idade": 25,
+  "nascimento": "14/10/2001",
+  "altura": "1,83 m",
+  "pe": "Esquerdo",
+  "nat": "ARG",
+  "nacionalidades": "Argentina / Itália",
+  "noClubeDesde": "03/07/2023",
+  "contratoAte": "30/06/2029",
+  "valorMercado": 8.0,
+  "picoValor": 8.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 28,
+    "g": 3,
+    "a": 5,
+    "am": 2,
+    "am2": 0,
+    "v": 1,
+    "banco": 1,
+    "min": 2256
+   },
+   "bra": {
+    "j": 24,
+    "g": 2,
+    "a": 5,
+    "am": 1,
+    "am2": 0,
+    "v": 1,
+    "banco": 1,
+    "min": 1931
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 180
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 0.175
+   },
+   {
+    "ano": 2022,
+    "valor": 0.75
+   },
+   {
+    "ano": 2023,
+    "valor": 1.5
+   },
+   {
+    "ano": 2024,
+    "valor": 3.5
+   },
+   {
+    "ano": 2025,
+    "valor": 3.5
+   },
+   {
+    "ano": 2026,
+    "valor": 8.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2021",
+    "clube": "Unión Santa Fe",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Athletico-PR",
+    "obs": "€1,9 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Dúvida: tornozelo e quadril",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Líder de assistências no Brasileirão (5)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Saiu da derrota para o Vasco com problema no tornozelo direito e pancada no quadril; aguardava exames.",
+    "fonte": "UmDois Esportes, 07/11/2026"
+   }
+  ],
+  "id": "lucas-esquivel"
+ },
+ "clubes/athletico-pr/jogadores/leo-derik": {
+  "nome": "Léo Derik",
+  "numero": 6,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 9,
+  "idade": 21,
+  "nascimento": "24/07/2005",
+  "altura": "1,66 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "14/01/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 3.0,
+  "picoValor": 3.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 18,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 972
+   },
+   "bra": {
+    "j": 12,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 595
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 114
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.8
+   },
+   {
+    "ano": 2026,
+    "valor": 3.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2022",
+    "clube": "Athletico U20",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "leo-derik"
+ },
+ "clubes/athletico-pr/jogadores/claudinho": {
+  "nome": "Claudinho",
+  "numero": 26,
+  "pos": "LE",
+  "grupo": 2,
+  "ordem": 10,
+  "idade": 21,
+  "nascimento": "26/10/2005",
+  "altura": "—",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "28/01/2026",
+  "contratoAte": "31/12/2030",
+  "valorMercado": 0,
+  "picoValor": 0.0,
+  "lesao": "Ligamento cruzado (volta em 2027)",
+  "numeros": {
+   "all": {
+    "j": 16,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 1057
+   },
+   "bra": {
+    "j": 9,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 502
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [],
+  "carreira": [
+   {
+    "ano": "2025",
+    "clube": "Athletico U20",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Fora: cirurgia no joelho",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Rompeu o ligamento cruzado anterior, foi operado e só volta em 2027.",
+    "fonte": "UmDois Esportes, 07/11/2026"
+   }
+  ],
+  "id": "claudinho"
+ },
+ "clubes/athletico-pr/jogadores/gaston-benavidez": {
+  "nome": "Gastón Benavídez",
+  "numero": 29,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 11,
+  "idade": 31,
+  "nascimento": "23/10/1995",
+  "altura": "1,75 m",
+  "pe": "Direito",
+  "nat": "ARG",
+  "nacionalidades": "Argentina",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 3.5,
+  "picoValor": 4.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 29,
+    "g": 1,
+    "a": 5,
+    "am": 8,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 2391
+   },
+   "bra": {
+    "j": 24,
+    "g": 1,
+    "a": 5,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 1986
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 315
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.3
+   },
+   {
+    "ano": 2021,
+    "valor": 0.425
+   },
+   {
+    "ano": 2022,
+    "valor": 0.7
+   },
+   {
+    "ano": 2023,
+    "valor": 2.0
+   },
+   {
+    "ano": 2024,
+    "valor": 4.0
+   },
+   {
+    "ano": 2025,
+    "valor": 2.8
+   },
+   {
+    "ano": 2026,
+    "valor": 3.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2013",
+    "clube": "Tiro Federal",
+    "obs": null
+   },
+   {
+    "ano": "2017",
+    "clube": "Estudiantes RC",
+    "obs": null
+   },
+   {
+    "ano": "2021",
+    "clube": "Arsenal Sarandí",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2022",
+    "clube": "Talleres",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "Talleres",
+    "obs": "€652 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "€1,7 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Líder de assistências no Brasileirão (5)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [],
+  "id": "gaston-benavidez"
+ },
+ "clubes/athletico-pr/jogadores/gilberto-junior": {
+  "nome": "Gilberto Junior",
+  "numero": 2,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 12,
+  "idade": 21,
+  "nascimento": "27/03/2005",
+  "altura": "1,65 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "07/01/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 2.5,
+  "picoValor": 2.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 18,
+    "g": 0,
+    "a": 0,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 1134
+   },
+   "bra": {
+    "j": 8,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 283
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.5
+   },
+   {
+    "ano": 2026,
+    "valor": 2.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2026",
+    "clube": "Palmeiras",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "empréstimo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Emprestado pelo Palmeiras",
+    "tipo": "info"
+   },
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "gilberto-junior"
+ },
+ "clubes/athletico-pr/jogadores/gilberto": {
+  "nome": "Gilberto",
+  "numero": 12,
+  "pos": "LD",
+  "grupo": 3,
+  "ordem": 13,
+  "idade": 33,
+  "nascimento": "07/03/1993",
+  "altura": "1,81 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/07/2026",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 2.2,
+  "picoValor": 6.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 15,
+    "g": 0,
+    "a": 3,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 1061
+   },
+   "bra": {
+    "j": 13,
+    "g": 0,
+    "a": 3,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 925
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 136
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2013,
+    "valor": 0.75
+   },
+   {
+    "ano": 2014,
+    "valor": 0.7
+   },
+   {
+    "ano": 2015,
+    "valor": 1.7
+   },
+   {
+    "ano": 2016,
+    "valor": 0.7
+   },
+   {
+    "ano": 2017,
+    "valor": 1.25
+   },
+   {
+    "ano": 2018,
+    "valor": 1.5
+   },
+   {
+    "ano": 2019,
+    "valor": 1.3
+   },
+   {
+    "ano": 2020,
+    "valor": 2.0
+   },
+   {
+    "ano": 2021,
+    "valor": 4.0
+   },
+   {
+    "ano": 2022,
+    "valor": 6.0
+   },
+   {
+    "ano": 2023,
+    "valor": 3.5
+   },
+   {
+    "ano": 2024,
+    "valor": 2.5
+   },
+   {
+    "ano": 2025,
+    "valor": 2.5
+   },
+   {
+    "ano": 2026,
+    "valor": 2.2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2013",
+    "clube": "Botafogo",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Internacional",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2015",
+    "clube": "Fiorentina",
+    "obs": "€2 mi"
+   },
+   {
+    "ano": "2016",
+    "clube": "Verona",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2016",
+    "clube": "Latina",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "Vasco",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Fluminense",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Fluminense",
+    "obs": "€80 mi"
+   },
+   {
+    "ano": "2020",
+    "clube": "Benfica",
+    "obs": "€3 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Bahia",
+    "obs": "€2,5 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Ex-Benfica e Fiorentina",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "gilberto"
+ },
+ "clubes/athletico-pr/jogadores/diogo-riquelme": {
+  "nome": "Diogo Riquelme",
+  "numero": 63,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 14,
+  "idade": 21,
+  "nascimento": "23/04/2005",
+  "altura": "1,81 m",
+  "pe": "Ambidestro",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 1.0,
+  "picoValor": 1.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 12,
+    "g": 2,
+    "a": 0,
+    "am": 4,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 641
+   },
+   "bra": {
+    "j": 5,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 81
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2025,
+    "valor": 0.1
+   },
+   {
+    "ano": 2026,
+    "valor": 1.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "diogo-riquelme"
+ },
+ "clubes/athletico-pr/jogadores/luiz-gustavo": {
+  "nome": "Luiz Gustavo",
+  "numero": 14,
+  "pos": "VOL",
+  "grupo": 4,
+  "ordem": 15,
+  "idade": 39,
+  "nascimento": "23/07/1987",
+  "altura": "1,87 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Alemanha",
+  "noClubeDesde": "23/01/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 200.0,
+  "picoValor": 200.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 32,
+    "g": 4,
+    "a": 1,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 2475
+   },
+   "bra": {
+    "j": 28,
+    "g": 4,
+    "a": 1,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 2259
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 191
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2007,
+    "valor": 0.3
+   },
+   {
+    "ano": 2008,
+    "valor": 2.5
+   },
+   {
+    "ano": 2009,
+    "valor": 5.0
+   },
+   {
+    "ano": 2010,
+    "valor": 6.5
+   },
+   {
+    "ano": 2011,
+    "valor": 15.0
+   },
+   {
+    "ano": 2012,
+    "valor": 15.0
+   },
+   {
+    "ano": 2013,
+    "valor": 18.0
+   },
+   {
+    "ano": 2014,
+    "valor": 22.0
+   },
+   {
+    "ano": 2015,
+    "valor": 22.0
+   },
+   {
+    "ano": 2016,
+    "valor": 17.0
+   },
+   {
+    "ano": 2017,
+    "valor": 12.0
+   },
+   {
+    "ano": 2018,
+    "valor": 15.0
+   },
+   {
+    "ano": 2019,
+    "valor": 7.5
+   },
+   {
+    "ano": 2020,
+    "valor": 5.0
+   },
+   {
+    "ano": 2021,
+    "valor": 3.6
+   },
+   {
+    "ano": 2022,
+    "valor": 1.0
+   },
+   {
+    "ano": 2023,
+    "valor": 0.5
+   },
+   {
+    "ano": 2024,
+    "valor": 0.3
+   },
+   {
+    "ano": 2025,
+    "valor": 0.2
+   },
+   {
+    "ano": 2026,
+    "valor": 0.2
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2007",
+    "clube": "CRB",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2007",
+    "clube": "Hoffenheim",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2008",
+    "clube": "Hoffenheim",
+    "obs": "€1 mi"
+   },
+   {
+    "ano": "2011",
+    "clube": "Bayern",
+    "obs": "€17 mi"
+   },
+   {
+    "ano": "2013",
+    "clube": "Wolfsburg",
+    "obs": "€16 mi"
+   },
+   {
+    "ano": "2017",
+    "clube": "Olympique de Marselha",
+    "obs": "€10 mi"
+   },
+   {
+    "ano": "2019",
+    "clube": "Fenerbahçe",
+    "obs": "€6 mi"
+   },
+   {
+    "ano": "2022",
+    "clube": "Al-Nassr",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2024",
+    "clube": "São Paulo",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Ex-Bayern, Wolfsburg e Olympique",
+    "tipo": "info"
+   },
+   {
+    "texto": "Mais velho do elenco (39)",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "O Bayern pagou €17 mi ao Hoffenheim por ele em 2011; chegou a valer €22 mi.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "luiz-gustavo"
+ },
+ "clubes/athletico-pr/jogadores/joao-cruz": {
+  "nome": "João Cruz",
+  "numero": 8,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 16,
+  "idade": 20,
+  "nascimento": "12/05/2006",
+  "altura": "1,72 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/04/2024",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 8.0,
+  "picoValor": 8.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 39,
+    "g": 5,
+    "a": 6,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 16,
+    "min": 1928
+   },
+   "bra": {
+    "j": 27,
+    "g": 2,
+    "a": 5,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 12,
+    "min": 1290
+   },
+   "cdb": {
+    "j": 4,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 224
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2024,
+    "valor": 0.5
+   },
+   {
+    "ano": 2025,
+    "valor": 1.2
+   },
+   {
+    "ano": 2026,
+    "valor": 8.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2024",
+    "clube": "Athletico U20",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Líder de assistências (6)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Cria da base",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Marcou o primeiro gol da vitória por 2 a 0 sobre o Vitória, na ida das oitavas da Copa do Brasil.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "joao-cruz"
+ },
+ "clubes/athletico-pr/jogadores/juan-portilla": {
+  "nome": "Juan Portilla",
+  "numero": 27,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 17,
+  "idade": 28,
+  "nascimento": "12/09/1998",
+  "altura": "1,81 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "03/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 5.0,
+  "picoValor": 5.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 28,
+    "g": 0,
+    "a": 0,
+    "am": 6,
+    "am2": 0,
+    "v": 0,
+    "banco": 12,
+    "min": 1287
+   },
+   "bra": {
+    "j": 24,
+    "g": 0,
+    "a": 0,
+    "am": 5,
+    "am2": 0,
+    "v": 0,
+    "banco": 11,
+    "min": 1065
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 112
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2019,
+    "valor": 0.075
+   },
+   {
+    "ano": 2021,
+    "valor": 0.4
+   },
+   {
+    "ano": 2022,
+    "valor": 1.2
+   },
+   {
+    "ano": 2023,
+    "valor": 2.2
+   },
+   {
+    "ano": 2024,
+    "valor": 3.5
+   },
+   {
+    "ano": 2025,
+    "valor": 3.3
+   },
+   {
+    "ano": 2026,
+    "valor": 5.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Alianza FC",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2022",
+    "clube": "América de Cali",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "Talleres",
+    "obs": "€1,8 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "€2,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [],
+  "id": "juan-portilla"
+ },
+ "clubes/athletico-pr/jogadores/felipinho": {
+  "nome": "Felipinho",
+  "numero": 5,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 18,
+  "idade": 25,
+  "nascimento": "18/10/2001",
+  "altura": "1,83 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "14/02/2024",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 1.0,
+  "picoValor": 1.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 14,
+    "g": 0,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 703
+   },
+   "bra": {
+    "j": 11,
+    "g": 0,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 487
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 84
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2023,
+    "valor": 0.3
+   },
+   {
+    "ano": 2024,
+    "valor": 0.8
+   },
+   {
+    "ano": 2025,
+    "valor": 1.0
+   },
+   {
+    "ano": 2026,
+    "valor": 1.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2023",
+    "clube": "Ponte Preta",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "Athletico-PR",
+    "obs": "€1,5 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [],
+  "id": "felipinho"
+ },
+ "clubes/athletico-pr/jogadores/jadson": {
+  "nome": "Jádson",
+  "numero": 16,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 19,
+  "idade": 33,
+  "nascimento": "30/08/1993",
+  "altura": "1,71 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "03/01/2026",
+  "contratoAte": "31/12/2026",
+  "valorMercado": 1.0,
+  "picoValor": 2.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 32,
+    "g": 0,
+    "a": 1,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 5,
+    "min": 2226
+   },
+   "bra": {
+    "j": 27,
+    "g": 0,
+    "a": 1,
+    "am": 7,
+    "am2": 0,
+    "v": 0,
+    "banco": 4,
+    "min": 1958
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 178
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2012,
+    "valor": 1.5
+   },
+   {
+    "ano": 2013,
+    "valor": 2.5
+   },
+   {
+    "ano": 2014,
+    "valor": 2.0
+   },
+   {
+    "ano": 2015,
+    "valor": 0.75
+   },
+   {
+    "ano": 2016,
+    "valor": 0.5
+   },
+   {
+    "ano": 2017,
+    "valor": 0.5
+   },
+   {
+    "ano": 2018,
+    "valor": 1.0
+   },
+   {
+    "ano": 2019,
+    "valor": 1.2
+   },
+   {
+    "ano": 2020,
+    "valor": 0.75
+   },
+   {
+    "ano": 2021,
+    "valor": 0.9
+   },
+   {
+    "ano": 2022,
+    "valor": 0.9
+   },
+   {
+    "ano": 2023,
+    "valor": 0.9
+   },
+   {
+    "ano": 2024,
+    "valor": 1.0
+   },
+   {
+    "ano": 2025,
+    "valor": 1.0
+   },
+   {
+    "ano": 2026,
+    "valor": 1.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2011",
+    "clube": "Botafogo",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2013",
+    "clube": "Udinese",
+    "obs": "€2,5 mi"
+   },
+   {
+    "ano": "2015",
+    "clube": "Atlético-PR",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2016",
+    "clube": "Santa Cruz",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "Ponte Preta",
+    "obs": null
+   },
+   {
+    "ano": "2018",
+    "clube": "Fluminense",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2019",
+    "clube": "Cruzeiro",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2020",
+    "clube": "Bahia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2021",
+    "clube": "Juventude",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Contrato até dez/2026",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "jadson"
+ },
+ "clubes/athletico-pr/jogadores/alejandro-garcia": {
+  "nome": "Alejandro García",
+  "numero": 17,
+  "pos": "MC",
+  "grupo": 5,
+  "ordem": 20,
+  "idade": 25,
+  "nascimento": "28/02/2001",
+  "altura": "1,85 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 700.0,
+  "picoValor": 700.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 73
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2018,
+    "valor": 0.1
+   },
+   {
+    "ano": 2019,
+    "valor": 0.1
+   },
+   {
+    "ano": 2020,
+    "valor": 0.1
+   },
+   {
+    "ano": 2021,
+    "valor": 0.3
+   },
+   {
+    "ano": 2022,
+    "valor": 0.4
+   },
+   {
+    "ano": 2023,
+    "valor": 0.6
+   },
+   {
+    "ano": 2024,
+    "valor": 0.9
+   },
+   {
+    "ano": 2025,
+    "valor": 0.7
+   },
+   {
+    "ano": 2026,
+    "valor": 0.7
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2019",
+    "clube": "Once Caldas",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "alejandro-garcia"
+ },
+ "clubes/athletico-pr/jogadores/dudu": {
+  "nome": "Dudu",
+  "numero": 53,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 21,
+  "idade": 20,
+  "nascimento": "01/01/2006",
+  "altura": "1,77 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/06/2025",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 7.0,
+  "picoValor": 7.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 33,
+    "g": 2,
+    "a": 2,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 20,
+    "min": 1370
+   },
+   "bra": {
+    "j": 23,
+    "g": 1,
+    "a": 2,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 16,
+    "min": 825
+   },
+   "cdb": {
+    "j": 4,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 138
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2023,
+    "valor": 1.0
+   },
+   {
+    "ano": 2024,
+    "valor": 1.0
+   },
+   {
+    "ano": 2025,
+    "valor": 2.0
+   },
+   {
+    "ano": 2026,
+    "valor": 7.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2023",
+    "clube": "Athletico U20",
+    "obs": null
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Mais vezes saiu do banco (20)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Cria da base",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "dudu"
+ },
+ "clubes/athletico-pr/jogadores/bruno-zapelli": {
+  "nome": "Bruno Zapelli",
+  "numero": 10,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 22,
+  "idade": 24,
+  "nascimento": "16/05/2002",
+  "altura": "1,83 m",
+  "pe": "Direito",
+  "nat": "ARG",
+  "nacionalidades": "Argentina / Itália",
+  "noClubeDesde": "21/07/2023",
+  "contratoAte": "01/07/2028",
+  "valorMercado": 4.5,
+  "picoValor": 6.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 30,
+    "g": 1,
+    "a": 1,
+    "am": 5,
+    "am2": 0,
+    "v": 1,
+    "banco": 19,
+    "min": 1178
+   },
+   "bra": {
+    "j": 23,
+    "g": 0,
+    "a": 1,
+    "am": 5,
+    "am2": 0,
+    "v": 1,
+    "banco": 15,
+    "min": 839
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 139
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2020,
+    "valor": 0.025
+   },
+   {
+    "ano": 2021,
+    "valor": 0.4
+   },
+   {
+    "ano": 2022,
+    "valor": 2.5
+   },
+   {
+    "ano": 2023,
+    "valor": 5.5
+   },
+   {
+    "ano": 2024,
+    "valor": 5.0
+   },
+   {
+    "ano": 2025,
+    "valor": 4.5
+   },
+   {
+    "ano": 2026,
+    "valor": 4.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2020",
+    "clube": "Belgrano",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Athletico-PR",
+    "obs": "€4,05 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   },
+   {
+    "texto": "1 expulsão no Brasileirão",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [],
+  "id": "bruno-zapelli"
+ },
+ "clubes/athletico-pr/jogadores/chiqueti": {
+  "nome": "Chiqueti",
+  "numero": 47,
+  "pos": "MEI",
+  "grupo": 6,
+  "ordem": 23,
+  "idade": 21,
+  "nascimento": "02/09/2005",
+  "altura": "1,76 m",
+  "pe": "Ambidestro",
+  "nat": "BRA",
+  "nacionalidades": "Brasil / Itália",
+  "noClubeDesde": "01/01/2026",
+  "contratoAte": "31/12/2029",
+  "valorMercado": 3.0,
+  "picoValor": 3.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 19,
+    "g": 5,
+    "a": 0,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 12,
+    "min": 902
+   },
+   "bra": {
+    "j": 9,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 238
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 90
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2023,
+    "valor": 0.7
+   },
+   {
+    "ano": 2024,
+    "valor": 0.7
+   },
+   {
+    "ano": 2025,
+    "valor": 0.5
+   },
+   {
+    "ano": 2026,
+    "valor": 3.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2020",
+    "clube": "Athletico U20",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "5 gols no Paranaense",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Cria da base",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [],
+  "id": "chiqueti"
+ },
+ "clubes/athletico-pr/jogadores/stiven-mendoza": {
+  "nome": "Stiven Mendoza",
+  "numero": 7,
+  "pos": "PE",
+  "grupo": 7,
+  "ordem": 24,
+  "idade": 34,
+  "nascimento": "27/06/1992",
+  "altura": "1,71 m",
+  "pe": "Esquerdo",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "10/07/2025",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 600.0,
+  "picoValor": 600.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 40,
+    "g": 6,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 3191
+   },
+   "bra": {
+    "j": 34,
+    "g": 6,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 2812
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 260
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2015,
+    "valor": 0.75
+   },
+   {
+    "ano": 2016,
+    "valor": 0.6
+   },
+   {
+    "ano": 2017,
+    "valor": 1.25
+   },
+   {
+    "ano": 2018,
+    "valor": 2.5
+   },
+   {
+    "ano": 2019,
+    "valor": 3.5
+   },
+   {
+    "ano": 2020,
+    "valor": 3.0
+   },
+   {
+    "ano": 2021,
+    "valor": 1.3
+   },
+   {
+    "ano": 2022,
+    "valor": 1.5
+   },
+   {
+    "ano": 2023,
+    "valor": 1.2
+   },
+   {
+    "ano": 2024,
+    "valor": 0.9
+   },
+   {
+    "ano": 2025,
+    "valor": 0.7
+   },
+   {
+    "ano": 2026,
+    "valor": 0.6
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2010",
+    "clube": "Envigado",
+    "obs": null
+   },
+   {
+    "ano": "2013",
+    "clube": "Deportivo Cali",
+    "obs": null
+   },
+   {
+    "ano": "2014",
+    "clube": "Chennaiyin FC",
+    "obs": null
+   },
+   {
+    "ano": "2015",
+    "clube": "Corinthians",
+    "obs": null
+   },
+   {
+    "ano": "2016",
+    "clube": "New York City",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2017",
+    "clube": "Bahia",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2018",
+    "clube": "Amiens",
+    "obs": "€1 mi"
+   },
+   {
+    "ano": "2021",
+    "clube": "Ceará",
+    "obs": "€600 mi"
+   },
+   {
+    "ano": "2023",
+    "clube": "Santos",
+    "obs": "€1 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "Adana Demirspor",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2024",
+    "clube": "León",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": null
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Dúvida: joelho",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Mais minutos do elenco (3.191)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Saiu contra o Vasco com possível torção no joelho; Odair Hellmann disse que o quadro parecia mais grave.",
+    "fonte": "UmDois Esportes, 07/11/2026"
+   },
+   {
+    "texto": "Ex-Corinthians, Bahia, Ceará e Santos no Brasil.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "stiven-mendoza"
+ },
+ "clubes/athletico-pr/jogadores/kerwin-vargas": {
+  "nome": "Kerwin Vargas",
+  "numero": 18,
+  "pos": "PD",
+  "grupo": 7,
+  "ordem": 25,
+  "idade": 24,
+  "nascimento": "02/01/2002",
+  "altura": "1,80 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "31/07/2026",
+  "contratoAte": "30/06/2030",
+  "valorMercado": 3.5,
+  "picoValor": 3.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 11,
+    "g": 2,
+    "a": 3,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 8,
+    "min": 496
+   },
+   "bra": {
+    "j": 9,
+    "g": 2,
+    "a": 3,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 6,
+    "min": 431
+   },
+   "cdb": {
+    "j": 2,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 2,
+    "min": 65
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2021,
+    "valor": 0.3
+   },
+   {
+    "ano": 2022,
+    "valor": 1.0
+   },
+   {
+    "ano": 2023,
+    "valor": 1.5
+   },
+   {
+    "ano": 2024,
+    "valor": 2.5
+   },
+   {
+    "ano": 2025,
+    "valor": 3.0
+   },
+   {
+    "ano": 2026,
+    "valor": 3.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2021",
+    "clube": "Feirense",
+    "obs": null
+   },
+   {
+    "ano": "2022",
+    "clube": "Charlotte FC",
+    "obs": "€1,95 mi"
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "€5,2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Maior compra do elenco (€5,2 mi)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Chegou do Charlotte FC (EUA) em julho de 2026.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "kerwin-vargas"
+ },
+ "clubes/athletico-pr/jogadores/leozinho": {
+  "nome": "Leozinho",
+  "numero": 21,
+  "pos": "PD",
+  "grupo": 7,
+  "ordem": 26,
+  "idade": 27,
+  "nascimento": "05/12/1998",
+  "altura": "1,75 m",
+  "pe": "Esquerdo",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2025",
+  "contratoAte": "31/12/2028",
+  "valorMercado": 3.0,
+  "picoValor": 3.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 28,
+    "g": 6,
+    "a": 1,
+    "am": 3,
+    "am2": 0,
+    "v": 0,
+    "banco": 12,
+    "min": 1267
+   },
+   "bra": {
+    "j": 20,
+    "g": 5,
+    "a": 0,
+    "am": 2,
+    "am2": 0,
+    "v": 0,
+    "banco": 7,
+    "min": 977
+   },
+   "cdb": {
+    "j": 3,
+    "g": 0,
+    "a": 1,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 133
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2024,
+    "valor": 0.15
+   },
+   {
+    "ano": 2025,
+    "valor": 0.5
+   },
+   {
+    "ano": 2026,
+    "valor": 3.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2024",
+    "clube": "Ituano",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": "sem custo"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Pendurado no Brasileirão*",
+    "tipo": "alert"
+   }
+  ],
+  "destaques": [],
+  "id": "leozinho"
+ },
+ "clubes/athletico-pr/jogadores/kevin-viveros": {
+  "nome": "Kevin Viveros",
+  "numero": 9,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 27,
+  "idade": 26,
+  "nascimento": "26/04/2000",
+  "altura": "1,80 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "02/07/2025",
+  "contratoAte": "30/06/2028",
+  "valorMercado": 20.0,
+  "picoValor": 20.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 38,
+    "g": 22,
+    "a": 4,
+    "am": 6,
+    "am2": 0,
+    "v": 1,
+    "banco": 1,
+    "min": 3262
+   },
+   "bra": {
+    "j": 32,
+    "g": 21,
+    "a": 3,
+    "am": 6,
+    "am2": 0,
+    "v": 1,
+    "banco": 0,
+    "min": 2812
+   },
+   "cdb": {
+    "j": 4,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 360
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2018,
+    "valor": 0.15
+   },
+   {
+    "ano": 2019,
+    "valor": 0.3
+   },
+   {
+    "ano": 2022,
+    "valor": 0.6
+   },
+   {
+    "ano": 2023,
+    "valor": 0.3
+   },
+   {
+    "ano": 2024,
+    "valor": 0.7
+   },
+   {
+    "ano": 2025,
+    "valor": 3.5
+   },
+   {
+    "ano": 2026,
+    "valor": 20.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2022",
+    "clube": "Carabobo",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Deportivo Cali",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2023",
+    "clube": "FK Sarajevo",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "La Equidad",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2024",
+    "clube": "Atl. Nacional",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Atl. Nacional",
+    "obs": "€2,26 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": "€4,2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Artilheiro do Brasileirão (21)",
+    "tipo": "mark"
+   },
+   {
+    "texto": "Suspenso: Flamengo e Remo (STJD)",
+    "tipo": "alert"
+   },
+   {
+    "texto": "Maior valor do elenco (€20 mi)",
+    "tipo": "mark"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "Expulso por pisão em Cuiabano contra o Vasco (04/11), pegou dois jogos no STJD: desfalca Flamengo (18/11) e Remo (22/11) e volta contra o Mirassol.",
+    "fonte": "NetVasco, 09/11/2026 (decisão do STJD)"
+   },
+   {
+    "texto": "É o artilheiro do Brasileirão com 21 gols, um a mais que Pedro, do Flamengo.",
+    "fonte": "CBF; Brasileirão em Rodadas, 11/2026"
+   },
+   {
+    "texto": "Chegou do Atlético Nacional por €4,2 mi em julho de 2025; o valor de mercado foi de €3,5 mi para €20 mi.",
+    "fonte": "Transfermarkt, 12/11/2026"
+   }
+  ],
+  "id": "kevin-viveros"
+ },
+ "clubes/athletico-pr/jogadores/jorge-rivaldo": {
+  "nome": "Jorge Rivaldo",
+  "numero": 19,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 28,
+  "idade": 23,
+  "nascimento": "28/09/2003",
+  "altura": "1,89 m",
+  "pe": "Direito",
+  "nat": "COL",
+  "nacionalidades": "Colômbia",
+  "noClubeDesde": "01/07/2026",
+  "contratoAte": "30/06/2030",
+  "valorMercado": 2.0,
+  "picoValor": 2.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 10,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 140
+   },
+   "bra": {
+    "j": 9,
+    "g": 1,
+    "a": 0,
+    "am": 1,
+    "am2": 0,
+    "v": 0,
+    "banco": 9,
+    "min": 130
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 10
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2024,
+    "valor": 0.05
+   },
+   {
+    "ano": 2025,
+    "valor": 0.45
+   },
+   {
+    "ano": 2026,
+    "valor": 2.0
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2024",
+    "clube": "Tigres FC",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Rionegro Águilas",
+    "obs": "empréstimo"
+   },
+   {
+    "ano": "2026",
+    "clube": "Rionegro Águilas",
+    "obs": null
+   },
+   {
+    "ano": "2026",
+    "clube": "Athletico-PR",
+    "obs": "€1,2 mi"
+   }
+  ],
+  "etiquetas": [
+   {
+    "texto": "Opção para a vaga de Viveros",
+    "tipo": "info"
+   }
+  ],
+  "destaques": [
+   {
+    "texto": "É a substituição natural para Viveros, suspenso no Maracanã.",
+    "fonte": "UmDois Esportes, 10/11/2026"
+   }
+  ],
+  "id": "jorge-rivaldo"
+ },
+ "clubes/athletico-pr/jogadores/renan-peixoto": {
+  "nome": "Renan Peixoto",
+  "numero": 70,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 29,
+  "idade": 26,
+  "nascimento": "21/02/2000",
+  "altura": "1,85 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "25/02/2025",
+  "contratoAte": "29/02/2028",
+  "valorMercado": 1.5,
+  "picoValor": 1.5,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 16,
+    "g": 0,
+    "a": 1,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 11,
+    "min": 380
+   },
+   "bra": {
+    "j": 11,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 10,
+    "min": 133
+   },
+   "cdb": {
+    "j": 1,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 1,
+    "min": 8
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2022,
+    "valor": 0.4
+   },
+   {
+    "ano": 2023,
+    "valor": 0.3
+   },
+   {
+    "ano": 2024,
+    "valor": 0.3
+   },
+   {
+    "ano": 2025,
+    "valor": 1.5
+   },
+   {
+    "ano": 2026,
+    "valor": 1.5
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2020",
+    "clube": "São Caetano",
+    "obs": null
+   },
+   {
+    "ano": "2023",
+    "clube": "Seoul E-Land",
+    "obs": "€100 mi"
+   },
+   {
+    "ano": "2024",
+    "clube": "SW Bregenz",
+    "obs": "sem custo"
+   },
+   {
+    "ano": "2025",
+    "clube": "Portuguesa",
+    "obs": "€100 mi"
+   },
+   {
+    "ano": "2025",
+    "clube": "Athletico-PR",
+    "obs": "€990 mi"
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "renan-peixoto"
+ },
+ "clubes/athletico-pr/jogadores/renan-viana": {
+  "nome": "Renan Viana",
+  "numero": 50,
+  "pos": "CA",
+  "grupo": 8,
+  "ordem": 30,
+  "idade": 23,
+  "nascimento": "31/01/2003",
+  "altura": "1,89 m",
+  "pe": "Direito",
+  "nat": "BRA",
+  "nacionalidades": "Brasil",
+  "noClubeDesde": "01/01/2024",
+  "contratoAte": "31/12/2027",
+  "valorMercado": 225.0,
+  "picoValor": 225.0,
+  "lesao": null,
+  "numeros": {
+   "all": {
+    "j": 6,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 3,
+    "min": 183
+   },
+   "bra": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   },
+   "cdb": {
+    "j": 0,
+    "g": 0,
+    "a": 0,
+    "am": 0,
+    "am2": 0,
+    "v": 0,
+    "banco": 0,
+    "min": 0
+   }
+  },
+  "historicoValor": [
+   {
+    "ano": 2024,
+    "valor": 0.3
+   },
+   {
+    "ano": 2025,
+    "valor": 0.225
+   },
+   {
+    "ano": 2026,
+    "valor": 0.225
+   }
+  ],
+  "carreira": [
+   {
+    "ano": "2024",
+    "clube": "Athletico-PR",
+    "obs": null
+   },
+   {
+    "ano": "2024",
+    "clube": "Wydad AC",
+    "obs": "empréstimo"
+   }
+  ],
+  "etiquetas": [],
+  "destaques": [],
+  "id": "renan-viana"
+ },
+ "clubes/athletico-pr": {
+  "nome": "Athletico-PR",
+  "noClube": "No Athletico-PR",
+  "doClube": "do Athletico-PR",
+  "temporada": "2026",
+  "nomesCarreira": [
+   "Athletico-PR",
+   "Atlético-PR",
+   "Athletico"
+  ],
+  "grupos": [
+   "Goleiros",
+   "Zagueiros",
+   "Laterais esquerdos",
+   "Laterais direitos",
+   "Volantes",
+   "Meias centrais",
+   "Meias ofensivos",
+   "Pontas",
+   "Centroavantes"
+  ],
+  "tecnico": {
+   "nome": "Odair Hellmann",
+   "idade": 49,
+   "nat": "BRA",
+   "desde": "22/05/2025",
+   "antecessor": "Maurício Barbieri"
+  },
+  "competicoes": [
+   {
+    "id": "bra",
+    "nome": "Brasileirão",
+    "de": "do Brasileirão"
+   },
+   {
+    "id": "cdb",
+    "nome": "Copa do Brasil",
+    "de": "da Copa do Brasil"
+   }
+  ],
+  "competicaoPadrao": "bra",
+  "cores": {
+   "a": "#C8102E",
+   "b": "#111111",
+   "padrao": "listras-verticais",
+   "destaque": "#C8102E",
+   "destaqueEscuro": "#D75369"
+  },
+  "resumoPorCompeticao": {
+   "all": {
+    "texto": "De volta à Série A em 2026, caiu na semifinal do Paranaense para o Londrina e nas oitavas da Copa do Brasil para o Vitória. No Brasileirão, é o 5º a quatro rodadas do fim.",
+    "fatos": [
+     {
+      "valor": "5º",
+      "rotulo": "no Brasileirão"
+     },
+     {
+      "valor": "48",
+      "rotulo": "jogos na temporada"
+     },
+     {
+      "valor": "Semi",
+      "rotulo": "no Paranaense"
+     },
+     {
+      "valor": "Oitavas",
+      "rotulo": "na Copa do Brasil"
+     }
+    ]
+   },
+   "bra": {
+    "texto": "51 gols marcados e 43 sofridos. Está há quatro rodadas sem vencer e saiu do G-4, três pontos atrás do Fluminense. Faltam Flamengo (fora), Remo (casa), Mirassol (fora) e São Paulo (casa).",
+    "fatos": [
+     {
+      "valor": "5º",
+      "rotulo": "no Brasileirão"
+     },
+     {
+      "valor": "54",
+      "rotulo": "pontos em 34 jogos"
+     },
+     {
+      "valor": "−3",
+      "rotulo": "para o 4º (Fluminense)"
+     },
+     {
+      "valor": "15-9-10",
+      "rotulo": "vitórias, empates, derrotas"
+     }
+    ]
+   },
+   "cdb": {
+    "texto": "Passou pelo Atlético-GO nos pênaltis, após dois 0 a 0, e venceu a ida das oitavas contra o Vitória por 2 a 0. Na volta, em 06/08, perdeu por 4 a 0 em Salvador e foi eliminado.",
+    "fatos": [
+     {
+      "valor": "Oitavas",
+      "rotulo": "eliminado pelo Vitória"
+     },
+     {
+      "valor": "2-4",
+      "rotulo": "no placar agregado"
+     },
+     {
+      "valor": "1-2-1",
+      "rotulo": "vitórias, empates, derrotas"
+     },
+     {
+      "valor": "4",
+      "rotulo": "jogos disputados"
+     }
+    ]
+   }
+  },
+  "tabela": {
+   "competicao": "Brasileirão",
+   "posicao": 5,
+   "pontos": 54,
+   "jogos": 34,
+   "v": 15,
+   "e": 9,
+   "d": 10,
+   "gp": 51,
+   "gc": 43,
+   "fonte": "Valor Final (fotografia da 34ª rodada); Transfermarkt"
+  },
+  "proximoJogo": "2026-11-18-flamengo-athletico-pr",
+  "notaTemporada": "Os números de “Temporada” seguem a temporada 25/26 do Transfermarkt (o ano de 2026) e somam Brasileirão, Copa do Brasil e Campeonato Paranaense. O Paranaense não tem filtro próprio.",
+  "rodape": [
+   "Dados de elenco, jogos, gols, assistências, cartões, minutos, contratos, valores de mercado e carreira: Transfermarkt, consultado em 12/11/2026. Classificação: Valor Final (34ª rodada) e CBF. Artilharia: CBF. Desfalques e notícias com a fonte indicada.",
+   "* Pendurados calculados pelos amarelos no Brasileirão (suspensão a cada três). Conferir com a lista publicada pela imprensa antes do jogo."
+  ],
+  "atualizadoEm": "2026-11-12",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (04/11/2026)",
+  "proximaAtualizacao": "Depois de Flamengo x Athletico-PR (18/11/2026); escalações na véspera (17/11)."
+ },
+ "clubes/athletico-pr/jogos/2026-10-12-chapecoense": {
+  "data": "2026-10-12",
+  "competicao": "Brasileirão",
+  "fase": "30ª",
+  "mandante": "Chapecoense",
+  "golsMandante": 1,
+  "golsVisitante": 4,
+  "visitante": "Athletico-PR",
+  "autores": "Leozinho, Luiz Gustavo e Viveros (2) (Athletico); Maurício Garcez (Chapecoense)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/athletico-pr/jogos/2026-10-17-palmeiras": {
+  "data": "2026-10-17",
+  "competicao": "Brasileirão",
+  "fase": "31ª",
+  "mandante": "Athletico-PR",
+  "golsMandante": 0,
+  "golsVisitante": 2,
+  "visitante": "Palmeiras",
+  "autores": "Maurício e Piquerez (Palmeiras)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/athletico-pr/jogos/2026-10-24-vitoria": {
+  "data": "2026-10-24",
+  "competicao": "Brasileirão",
+  "fase": "32ª",
+  "mandante": "Vitória",
+  "golsMandante": 1,
+  "golsVisitante": 1,
+  "visitante": "Athletico-PR",
+  "autores": "Jamerson, contra, para o Athletico; Renato Kayzer (Vitória)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/athletico-pr/jogos/2026-10-29-gremio": {
+  "data": "2026-10-29",
+  "competicao": "Brasileirão",
+  "fase": "33ª",
+  "mandante": "Grêmio",
+  "golsMandante": 2,
+  "golsVisitante": 0,
+  "visitante": "Athletico-PR",
+  "autores": "Marlon e Balbuena (Grêmio)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/athletico-pr/jogos/2026-11-04-vasco": {
+  "data": "2026-11-04",
+  "competicao": "Brasileirão",
+  "fase": "34ª",
+  "mandante": "Athletico-PR",
+  "golsMandante": 1,
+  "golsVisitante": 3,
+  "visitante": "Vasco",
+  "autores": "Stiven Mendoza (Athletico); Aguirre (contra), Bruno Duarte e Gabriel Pereira (Vasco)",
+  "obs": null,
+  "status": "encerrado",
+  "fonte": "Transfermarkt"
+ },
+ "clubes/athletico-pr/jogos/2026-11-18-flamengo": {
+  "data": "2026-11-18",
+  "competicao": "Brasileirão",
+  "fase": "35ª",
+  "mandante": "Flamengo",
+  "visitante": "Athletico-PR",
+  "local": "Maracanã",
+  "status": "agendado",
+  "fonte": "Transfermarkt; UmDois Esportes",
+  "hora": "20h30"
+ },
+ "clubes/athletico-pr/jogos/2026-11-22-remo": {
+  "data": "2026-11-22",
+  "competicao": "Brasileirão",
+  "fase": "36ª",
+  "mandante": "Athletico-PR",
+  "visitante": "Remo",
+  "local": "Arena da Baixada",
+  "status": "agendado",
+  "fonte": "Transfermarkt; UmDois Esportes",
+  "hora": "16h"
+ },
+ "clubes/athletico-pr/jogos/2026-11-29-mirassol": {
+  "data": "2026-11-29",
+  "competicao": "Brasileirão",
+  "fase": "37ª",
+  "mandante": "Mirassol",
+  "visitante": "Athletico-PR",
+  "local": "Maião",
+  "status": "agendado",
+  "fonte": "Transfermarkt; UmDois Esportes",
+  "hora": "18h30"
+ },
+ "clubes/athletico-pr/jogos/2026-12-02-sao-paulo": {
+  "data": "2026-12-02",
+  "competicao": "Brasileirão",
+  "fase": "38ª",
+  "mandante": "Athletico-PR",
+  "visitante": "São Paulo",
+  "local": "Arena da Baixada",
+  "status": "agendado",
+  "fonte": "Transfermarkt; UmDois Esportes"
+ },
+ "clubes/flamengo": {
+  "nome": "Flamengo",
+  "noClube": "No Flamengo",
+  "doClube": "do Flamengo",
+  "tecnico": {
+   "antecessor": "Filipe Luís",
+   "desde": "04/03/2026",
+   "idade": 52,
+   "nat": "POR",
+   "nome": "Leonardo Jardim"
+  },
+  "tabela": {
+   "competicao": "Brasileirão",
+   "d": 4,
+   "e": 7,
+   "fonte": "CBF",
+   "gc": 29,
+   "gp": 71,
+   "jogos": 34,
+   "pontos": 76,
+   "posicao": 1,
+   "v": 23
+  },
+  "atualizadoEm": "2026-11-11",
+  "atualizadoApos": "a 34ª rodada do Brasileirão (04/11/2026)"
+ },
+ "clubes/flamengo/jogos/2026-10-18-bahia": {
+  "autores": "Jorginho, Plata e Paquetá (Flamengo)",
+  "competicao": "Brasileirão",
+  "data": "2026-10-18",
+  "fase": "31ª",
+  "fonte": "Transfermarkt",
+  "golsMandante": 0,
+  "golsVisitante": 3,
+  "mandante": "Bahia",
+  "obs": null,
+  "status": "encerrado",
+  "visitante": "Flamengo"
+ },
+ "clubes/flamengo/jogos/2026-10-22-estudiantes": {
+  "autores": null,
+  "competicao": "Libertadores",
+  "data": "2026-10-22",
+  "fase": "semifinal, volta",
+  "fonte": "Transfermarkt",
+  "golsMandante": 0,
+  "golsVisitante": 0,
+  "mandante": "Flamengo",
+  "obs": "Estudiantes classificado nos pênaltis (3 a 2), após 0 a 0 também na ida",
+  "status": "encerrado",
+  "visitante": "Estudiantes"
+ },
+ "clubes/flamengo/jogos/2026-10-26-atletico-mg": {
+  "autores": "Plata, Arrascaeta e Carrascal (Flamengo); Bernard e Renan Lodi (Atlético-MG)",
+  "competicao": "Brasileirão",
+  "data": "2026-10-26",
+  "fase": "32ª",
+  "fonte": "Transfermarkt",
+  "golsMandante": 3,
+  "golsVisitante": 2,
+  "mandante": "Flamengo",
+  "obs": null,
+  "status": "encerrado",
+  "visitante": "Atlético-MG"
+ },
+ "clubes/flamengo/jogos/2026-10-29-vasco": {
+  "autores": "Pedro (2) e Samuel Lino (2) (Flamengo); Alan Lescano (Vasco)",
+  "competicao": "Brasileirão",
+  "data": "2026-10-29",
+  "fase": "33ª",
+  "fonte": "Transfermarkt",
+  "golsMandante": 1,
+  "golsVisitante": 4,
+  "mandante": "Vasco",
+  "obs": null,
+  "status": "encerrado",
+  "visitante": "Flamengo"
+ },
+ "clubes/flamengo/jogos/2026-11-04-gremio": {
+  "autores": "Samuel Lino e Pedro (2) (Flamengo); Amuzu (Grêmio)",
+  "competicao": "Brasileirão",
+  "data": "2026-11-04",
+  "fase": "34ª",
+  "fonte": "Transfermarkt",
+  "golsMandante": 3,
+  "golsVisitante": 1,
+  "mandante": "Flamengo",
+  "obs": null,
+  "status": "encerrado",
+  "visitante": "Grêmio"
+ },
+ "confrontos/flamengo-athletico-pr": {
+  "atualizadoApos": "34ª rodada do Brasileirão (04/11/2026)",
+  "atualizadoEm": "2026-11-11",
+  "fontesObservacoes": "Transfermarkt; Coluna do Fla, 09/2024",
+  "geral": {
+   "empates": 20,
+   "fonte": "Site do Flamengo (87 jogos, contagem até a vitória de 2024), somado ao 1 a 1 de 17/05/2026",
+   "golsA": 113,
+   "golsB": 104,
+   "jogos": 88,
+   "vitoriasA": 38,
+   "vitoriasB": 30
+  },
+  "observacoes": [
+   "O Flamengo está há três jogos sem perder para o Athletico.",
+   "A última vitória do Athletico foi em 13/09/2023: 3 a 0 no Maracanã.",
+   "Os dois decidiram a Libertadores de 2022, vencida pelo Flamengo por 1 a 0."
+  ],
+  "ultimos10": {
+   "empates": 2,
+   "vitoriasA": 6,
+   "vitoriasB": 2
+  },
+  "ultimosEncontros": [
+   {
+    "comp": "Brasileirão, 16ª rodada",
+    "data": "17/05/2026",
+    "texto": "Athletico-PR 1 x 1 Flamengo"
+   },
+   {
+    "comp": "Brasileirão, 28ª rodada",
+    "data": "29/09/2024",
+    "gols": "Gol de Gerson, no último lance",
+    "texto": "Flamengo 1 x 0 Athletico-PR"
+   },
+   {
+    "comp": "Brasileirão, 9ª rodada",
+    "data": "16/06/2024",
+    "texto": "Athletico-PR 1 x 1 Flamengo"
+   },
+   {
+    "comp": "Brasileirão, 23ª rodada",
+    "data": "13/09/2023",
+    "texto": "Flamengo 0 x 3 Athletico-PR"
+   },
+   {
+    "comp": "Copa do Brasil, quartas de final, volta",
+    "data": "12/07/2023",
+    "texto": "Athletico-PR 0 x 2 Flamengo"
+   }
+  ],
+  "clubeA": "flamengo",
+  "fontesEncontros": "Transfermarkt; site do Flamengo"
+ },
+ "prejogos/2026-11-18-flamengo-athletico-pr": {
+  "atualizadoApos": "a 34ª rodada do Brasileirão (04/11/2026)",
+  "atualizadoEm": "2026-11-12",
+  "competicao": "Brasileirão",
+  "confronto": "flamengo-athletico-pr",
+  "data": "18/11",
+  "diaSemana": "quarta-feira",
+  "escalacoes": {
+   "status": "nao_divulgadas",
+   "aviso": "Os dois times estão na pausa da Data Fifa. As prováveis escalações entram aqui na véspera do jogo (17/11).",
+   "mandante": null,
+   "visitante": null
+  },
+  "hora": "20h30",
+  "local": "Maracanã",
+  "mandante": "flamengo",
+  "rodada": "35ª",
+  "situacaoMandante": {
+   "fonte": "Coluna do Fla, 10/11/2026 (lesões, citando o Terra); UmDois Esportes, 10/11/2026 (pendurados)",
+   "itens": [
+    {
+     "quem": "Plata e Valencia",
+     "texto": "jogam pelo Equador até 17/11, véspera do jogo, e podem desfalcar."
+    },
+    {
+     "quem": "Arrascaeta, De la Cruz e Varela",
+     "texto": "servem o Uruguai e devem voltar ao Rio no dia 14."
+    },
+    {
+     "quem": "Paquetá",
+     "texto": "trata dores no joelho esquerdo e não treinou no dia 10."
+    },
+    {
+     "quem": "Alex Sandro",
+     "texto": "recupera-se de edema na coxa esquerda."
+    },
+    {
+     "quem": "Danilo",
+     "texto": "voltou ao campo no dia 9 com proteção no rosto, após duas fraturas na mandíbula no Fla-Flu de 11/10."
+    },
+    {
+     "quem": "Léo Pereira, Alex Sandro, Pulgar, Arrascaeta e Pedro",
+     "texto": "estão pendurados, ao lado de Bruno Henrique, Luiz Araújo e Vitão: um amarelo tira o jogador do duelo com o Palmeiras."
+    }
+   ]
+  },
+  "situacaoVisitante": {
+   "itens": [
+    {
+     "quem": "Kevin Viveros",
+     "texto": "cumpre o primeiro de dois jogos de suspensão do STJD pela expulsão contra o Vasco."
+    },
+    {
+     "quem": "Dantas",
+     "texto": "está suspenso pelo terceiro amarelo."
+    },
+    {
+     "quem": "Arthur Dias",
+     "texto": "joga pela seleção em Singapura até 17/11 e dificilmente estará no Rio."
+    },
+    {
+     "quem": "Lucas Esquivel e Stiven Mendoza",
+     "texto": "saíram machucados contra o Vasco (tornozelo e joelho) e são dúvidas."
+    },
+    {
+     "quem": "Claudinho",
+     "texto": "foi operado do ligamento cruzado e só volta em 2027."
+    },
+    {
+     "quem": "Jorge Rivaldo",
+     "texto": "é a opção natural para o lugar de Viveros."
+    }
+   ],
+   "fonte": "UmDois Esportes, 07/11 e 10/11/2026; NetVasco, 09/11/2026"
+  },
+  "titulo": "Flamengo x Athletico-PR",
+  "visitante": "athletico-pr",
+  "rotulo": "35ª rodada do Brasileirão"
+ },
+ "clubes/athletico-pr/noticias/2026-11-10-1": {
+  "data": "10/11",
+  "iso": "2026-11-10",
+  "texto": "Notícias do dia: além de Viveros e Dantas, suspensos, o Athletico deve perder Arthur Dias para a seleção; Mendoza e Esquivel seguem em avaliação. O time não vence há quatro rodadas.",
+  "fonte": "UmDois Esportes, 10/11/2026",
+  "url": "https://www.umdoisesportes.com.br/athletico/noticias-athletico-hoje-10-11/"
+ },
+ "clubes/athletico-pr/noticias/2026-11-09-2": {
+  "data": "09/11",
+  "iso": "2026-11-09",
+  "texto": "STJD reclassifica a denúncia contra Viveros e dá dois jogos de suspensão; ele desfalca o time contra Flamengo e Remo.",
+  "fonte": "UmDois Esportes, 09/11/2026",
+  "url": "https://www.umdoisesportes.com.br/athletico/viveros-suspensao-gancho-julgamento-stjd-desfalque-athletico-brasileirao/"
+ },
+ "clubes/athletico-pr/noticias/2026-11-09-3": {
+  "data": "09/11",
+  "iso": "2026-11-09",
+  "texto": "O clube foi multado em R$ 10 mil pelo STJD por gesto racista de um torcedor contra jogadores do Vasco; o Athletico identificou o autor e investiga o caso.",
+  "fonte": "NetVasco, 09/11/2026",
+  "url": "https://www.netvasco.com.br/n/396072/athletico-pr-e-multado-em-r-10-mil-por-caso-de-racismo-no-jogo-contra-o-vasco"
+ },
+ "clubes/athletico-pr/noticias/2026-11-07-4": {
+  "data": "07/11",
+  "iso": "2026-11-07",
+  "texto": "Lista de desfalques para o Maracanã chega a seis nomes; Odair Hellmann avalia trocar Mycael por Santos no gol.",
+  "fonte": "UmDois Esportes, 07/11/2026",
+  "url": "https://www.umdoisesportes.com.br/athletico/athletico-desfalques-flamengo-brasileirao/"
+ },
+ "clubes/athletico-pr/noticias/2026-11-01-5": {
+  "data": "01/11",
+  "iso": "2026-11-01",
+  "texto": "Arthur Dias é convocado de novo por Ancelotti para os amistosos contra Japão e Singapura, o que ameaça sua presença contra o Flamengo.",
+  "fonte": "UmDois Esportes, 01/11/2026",
+  "url": "https://www.umdoisesportes.com.br/athletico/convocacao-ancelotti-preocupacao-athletico-duelo-decisivo/"
+ },
+ "meta/base": {
+  "descricao": "Base de dados da página de elenco do Athletico-PR.",
+  "regraAtualizacao": "Atualizar apenas depois de cada jogo (números, fase recente, tabela e notícias) e na véspera do próximo jogo (escalações e desfalques). Sem novas buscas entre os jogos.",
+  "ultimaAtualizacao": "2026-11-12",
+  "proximaAtualizacao": "Depois de Flamengo x Athletico-PR (18/11/2026); escalações na véspera (17/11)."
+ }
+}
