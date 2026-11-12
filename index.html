@@ -1,0 +1,226 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Estatísticas da Série A</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: cabeçalho com muita folga, depois grade de 20 cartões com a faixa de cores de cada clube na lateral */
+:root{
+  --bg:#F3F5F2; --surface:#FFFFFF; --fg:#131814; --muted:#5D675F; --line:#DCE1DB;
+  --accent:#0E6B3A; --accent-soft:#E2EFE6; --pending:#8A6A12; --pending-soft:#F6EED7;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0E1210; --surface:#161B18; --fg:#E7ECE8; --muted:#97A39A; --line:#28302B;
+  --accent:#55C486; --accent-soft:#16301F; --pending:#E0BE5C; --pending-soft:#2E2812; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0E1210; --surface:#161B18; --fg:#E7ECE8; --muted:#97A39A; --line:#28302B;
+  --accent:#55C486; --accent-soft:#16301F; --pending:#E0BE5C; --pending-soft:#2E2812; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:56px 64px}
+header{display:grid;gap:40px;margin-bottom:44px}
+.eyebrow{font-family:var(--display);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:15px;color:var(--accent)}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(44px,8vw,84px);line-height:.92;margin:10px 0 0;text-wrap:balance;letter-spacing:-.01em}
+.lede{max-width:62ch;color:var(--muted);margin:0;font-size:16px}
+.tools{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.search{flex:1 1 240px;min-width:0;position:relative}
+.search input{width:100%;font:inherit;padding:11px 14px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)}
+.search input:focus-visible,.seg button:focus-visible,a.card:focus-visible,.copy:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.seg{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:inherit;font-size:14px;border:0;background:transparent;color:var(--muted);padding:10px 14px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent-soft);color:var(--fg);font-weight:600}
+.count{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.card{display:grid;grid-template-columns:14px 1fr;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden;color:inherit;text-decoration:none;min-height:150px;transition:transform .15s ease,border-color .15s ease}
+a.card:hover{transform:translateY(-2px);border-color:var(--accent)}
+.stripe{display:flex;flex-direction:column}
+.stripe span{flex:1}
+.body{padding:16px 16px 14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.sigla{font-family:var(--display);font-weight:700;font-size:13px;letter-spacing:.12em;color:var(--muted)}
+.name{font-family:var(--display);font-weight:700;font-size:28px;line-height:1;margin:2px 0 0}
+.city{font-size:13px;color:var(--muted)}
+.foot{margin-top:auto;padding-top:10px;display:flex;justify-content:space-between;align-items:center;gap:8px}
+.pill{font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.pill.on{background:var(--accent-soft);color:var(--accent)}
+.pill.off{background:var(--pending-soft);color:var(--pending)}
+.go{font-size:13px;font-weight:600;color:var(--accent)}
+.copy{font:inherit;font-size:12px;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:6px;padding:4px 8px;cursor:pointer}
+.copy:hover{color:var(--fg);border-color:var(--muted)}
+.empty{grid-column:1/-1;color:var(--muted);padding:24px 0}
+.tabs{width:fit-content}
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums;font-size:14px}
+th,td{padding:10px;text-align:right;white-space:nowrap}
+th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;border-bottom:1px solid var(--line)}
+th.t,td.t{text-align:left}
+tbody tr+tr td{border-top:1px solid var(--line)}
+td.pos,th.pos{width:44px;text-align:center;color:var(--muted)}
+.clube{display:flex;align-items:center;gap:10px;font-weight:600}
+.mini{display:inline-flex;flex-direction:column;width:6px;height:20px;border-radius:2px;overflow:hidden;flex:none}
+.mini span{flex:1}
+td a{color:inherit;text-decoration:none}
+td a:hover{color:var(--accent);text-decoration:underline}
+td.pts{font-weight:700}
+tr.lib td.pos{box-shadow:inset 3px 0 0 var(--accent)}
+tr.z4 td.pos{box-shadow:inset 3px 0 0 #D64545}
+tr.z4{background:color-mix(in srgb,#D64545 10%,var(--surface))}
+.legend{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:13px;color:var(--muted);margin:14px 0 0}
+.dot{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px}
+.tbl-note{font-size:13px;color:var(--muted);margin:8px 0 0;max-width:80ch}
+@media (max-width:520px){.hide-s{display:none}}
+footer{margin-top:40px;font-size:13px;color:var(--muted);max-width:70ch;display:grid;gap:6px}
+footer a{color:var(--accent)}
+@media (max-width:480px){.wrap{padding-block:36px 48px} header{gap:28px}}
+@media (prefers-reduced-motion:reduce){.card{transition:none} a.card:hover{transform:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="eyebrow">Brasileirão · Série A 2026</div>
+      <h1>Estatísticas da Série A</h1>
+    </div>
+    <p class="lede">Escolha um dos 20 clubes para abrir a página com elenco, pré-jogo e notícias. Os clubes marcados “em produção” ainda não têm página: copie o pedido e mande para o Claude.</p>
+    <div class="seg tabs" role="group" aria-label="Seção">
+      <button id="t-clubes" type="button" aria-pressed="true">Clubes</button>
+      <button id="t-tab" type="button" aria-pressed="false">Classificação</button>
+    </div>
+    <div class="tools" id="tools">
+      <label class="search"><span class="sr" hidden>Buscar clube</span>
+        <input id="q" type="search" placeholder="Buscar clube ou cidade" aria-label="Buscar clube ou cidade" autocomplete="off">
+      </label>
+      <div class="seg" role="group" aria-label="Mostrar">
+        <button id="f-all" data-f="all" aria-pressed="true">Todos</button>
+        <button id="f-on" data-f="on" aria-pressed="false">Com página</button>
+        <button id="f-off" data-f="off" aria-pressed="false">Em produção</button>
+      </div>
+      <span class="count" id="count"></span>
+    </div>
+  </header>
+
+  <main class="grid" id="grid" aria-live="polite"></main>
+
+  <section id="v-tabela" hidden>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th class="pos">#</th><th class="t">Clube</th><th>Pts</th><th>J</th><th>V</th><th class="hide-s">E</th><th>D</th><th class="hide-s">GP</th><th class="hide-s">GC</th><th>SG</th></tr></thead>
+        <tbody id="tb"></tbody>
+      </table>
+    </div>
+    <div class="legend"><span><i class="dot" style="background:var(--accent)"></i>Libertadores (G-6)</span><span><i class="dot" style="background:#D64545"></i>Rebaixamento (Z-4)</span></div>
+  </section>
+
+</div>
+
+<script>
+// Para ligar um clube novo: preencha "url" com o nome do arquivo da página dele (ex.: "corinthians.html").
+const CLUBES = [
+  {nome:"Athletico-PR", sigla:"CAP", cidade:"Curitiba (PR)", cores:["#C8102E","#111111"], url:"athletico-pr.html"},
+  {nome:"Atlético-MG", sigla:"CAM", cidade:"Belo Horizonte (MG)", cores:["#111111","#F2F2F2"], url:""},
+  {nome:"Bahia", sigla:"BAH", cidade:"Salvador (BA)", cores:["#0057A8","#E30613","#F2F2F2"], url:""},
+  {nome:"Botafogo", sigla:"BOT", cidade:"Rio de Janeiro (RJ)", cores:["#111111","#F2F2F2"], url:""},
+  {nome:"Bragantino", sigla:"RBB", cidade:"Bragança Paulista (SP)", cores:["#D7172F","#F2F2F2","#0B1F3A"], url:""},
+  {nome:"Chapecoense", sigla:"CHA", cidade:"Chapecó (SC)", cores:["#00843D","#F2F2F2"], url:""},
+  {nome:"Corinthians", sigla:"COR", cidade:"São Paulo (SP)", cores:["#111111","#F2F2F2"], url:""},
+  {nome:"Coritiba", sigla:"CFC", cidade:"Curitiba (PR)", cores:["#00544D","#F2F2F2"], url:""},
+  {nome:"Cruzeiro", sigla:"CRU", cidade:"Belo Horizonte (MG)", cores:["#003DA5","#F2F2F2"], url:""},
+  {nome:"Flamengo", sigla:"FLA", cidade:"Rio de Janeiro (RJ)", cores:["#C8102E","#111111"], url:"flamengo.html"},
+  {nome:"Fluminense", sigla:"FLU", cidade:"Rio de Janeiro (RJ)", cores:["#7A1E3A","#F2F2F2","#006241"], url:"fluminense.html"},
+  {nome:"Grêmio", sigla:"GRE", cidade:"Porto Alegre (RS)", cores:["#0D80BF","#111111","#F2F2F2"], url:""},
+  {nome:"Internacional", sigla:"INT", cidade:"Porto Alegre (RS)", cores:["#E5050F","#F2F2F2"], url:""},
+  {nome:"Mirassol", sigla:"MIR", cidade:"Mirassol (SP)", cores:["#FFD100","#006B3F"], url:""},
+  {nome:"Palmeiras", sigla:"PAL", cidade:"São Paulo (SP)", cores:["#006437","#F2F2F2"], url:"palmeiras.html"},
+  {nome:"Remo", sigla:"REM", cidade:"Belém (PA)", cores:["#0A1F44","#F2F2F2"], url:""},
+  {nome:"Santos", sigla:"SAN", cidade:"Santos (SP)", cores:["#F2F2F2","#111111"], url:""},
+  {nome:"São Paulo", sigla:"SAO", cidade:"São Paulo (SP)", cores:["#E30613","#F2F2F2","#111111"], url:""},
+  {nome:"Vasco", sigla:"VAS", cidade:"Rio de Janeiro (RJ)", cores:["#111111","#F2F2F2","#111111"], url:""},
+  {nome:"Vitória", sigla:"VIT", cidade:"Salvador (BA)", cores:["#D2122E","#111111"], url:""}
+];
+
+const grid = document.getElementById('grid');
+const q = document.getElementById('q');
+const count = document.getElementById('count');
+let filtro = 'all';
+try { filtro = localStorage.getItem('filtroHome') || 'all'; } catch(e) {}
+
+const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function card(c){
+  const stripe = `<div class="stripe" aria-hidden="true">${c.cores.map(x=>`<span style="background:${x}"></span>`).join('')}</div>`;
+  const head = `<div class="top"><span class="sigla">${c.sigla}</span></div>
+    <h2 class="name">${esc(c.nome)}</h2><div class="city">${esc(c.cidade)}</div>`;
+  if (c.url) {
+    return `<a class="card" href="${c.url}">${stripe}
+      <div class="body">${head}<div class="foot"><span class="pill on">Página no ar</span><span class="go">Abrir →</span></div></div></a>`;
+  }
+  return `<div class="card">${stripe}
+    <div class="body">${head}<div class="foot"><span class="pill off">Em produção</span>
+    <button class="copy" type="button" data-pedido="Cria a página do ${esc(c.nome)}">Copiar pedido</button></div></div></div>`;
+}
+
+function render(){
+  const termo = norm(q.value.trim());
+  const lista = CLUBES.filter(c =>
+    (filtro==='all' || (filtro==='on') === !!c.url) &&
+    (!termo || norm(c.nome+' '+c.cidade+' '+c.sigla).includes(termo)));
+  grid.innerHTML = lista.length ? lista.map(card).join('') : '<p class="empty">Nenhum clube encontrado com essa busca.</p>';
+  const comPagina = CLUBES.filter(c=>c.url).length;
+  count.textContent = `${comPagina} de 20 com página`;
+  document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f===filtro));
+}
+
+document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+  filtro = b.dataset.f; try { localStorage.setItem('filtroHome', filtro); } catch(e) {} render();
+}));
+q.addEventListener('input', render);
+grid.addEventListener('click', e => {
+  const b = e.target.closest('.copy'); if (!b) return;
+  const txt = b.dataset.pedido;
+  const ok = () => { b.textContent = 'Copiado'; setTimeout(()=>b.textContent='Copiar pedido',1600); };
+  try { navigator.clipboard.writeText(txt).then(ok, () => { b.textContent = txt; }); } catch(err) { b.textContent = txt; }
+});
+// Classificação guardada aqui; atualizar só depois das rodadas. Colunas: clube, J, V, E, D, GP, GC, Pts
+const TABELA = {
+  rodada: '34ª rodada',
+  fonte: 'CBF, via Wikipédia (jogos até 06/11/2026) e GC Mais (10/11/2026)',
+  linhas: [
+    ['Flamengo',34,23,7,4,71,29,76],['Palmeiras',34,21,10,3,62,23,73],['Cruzeiro',34,18,6,10,55,48,60],
+    ['Fluminense',34,16,9,9,55,42,57],['Athletico-PR',34,15,9,10,51,43,54],['Bahia',34,14,11,9,50,45,53],
+    ['Atlético-MG',34,14,8,12,44,40,50],['Bragantino',34,13,8,13,44,39,47],['Santos',34,12,11,11,50,49,47],
+    ['São Paulo',34,12,8,14,39,39,44],['Botafogo',34,11,9,14,46,53,42],['Coritiba',34,11,9,14,40,51,42],
+    ['Vasco',33,11,8,14,43,50,41],['Mirassol',34,10,10,14,39,48,40],['Vitória',34,10,8,16,35,51,38],
+    ['Internacional',34,9,11,14,38,42,38],['Corinthians',34,9,10,15,36,42,37],['Grêmio',34,9,10,15,38,47,37],
+    ['Remo',34,6,11,17,37,57,29],['Chapecoense',33,4,9,20,33,68,21]
+  ]
+};
+function renderTabela(){
+  const mapa = Object.fromEntries(CLUBES.map(c => [c.nome, c]));
+  document.getElementById('tb').innerHTML = TABELA.linhas.map((l,i) => {
+    const [nome,j,v,e,d,gp,gc,pts] = l, c = mapa[nome], sg = gp-gc;
+    const cls = i<6 ? 'lib' : (i>=16 ? 'z4' : '');
+    const mini = `<span class="mini" aria-hidden="true">${c.cores.map(x=>`<span style="background:${x}"></span>`).join('')}</span>`;
+    const nm = c.url ? `<a href="${c.url}">${esc(nome)}</a>` : esc(nome);
+    return `<tr class="${cls}"><td class="pos">${i+1}</td><td class="t"><span class="clube">${mini}${nm}</span></td>`+
+      `<td class="pts">${pts}</td><td>${j}</td><td>${v}</td><td class="hide-s">${e}</td><td>${d}</td><td class="hide-s">${gp}</td><td class="hide-s">${gc}</td><td>${sg>0?'+'+sg:String(sg).replace('-','−')}</td></tr>`;
+  }).join('');
+}
+const vTab = document.getElementById('v-tabela'), tools = document.getElementById('tools');
+function vista(){
+  const t = location.hash === '#classificacao';
+  grid.hidden = t; tools.hidden = t; vTab.hidden = !t;
+  document.getElementById('t-clubes').setAttribute('aria-pressed', !t);
+  document.getElementById('t-tab').setAttribute('aria-pressed', t);
+}
+document.getElementById('t-clubes').addEventListener('click', () => { location.hash = 'clubes'; });
+document.getElementById('t-tab').addEventListener('click', () => { location.hash = 'classificacao'; });
+window.addEventListener('hashchange', vista);
+renderTabela();
+vista();
+render();
+</script>
+
+</body></html>
